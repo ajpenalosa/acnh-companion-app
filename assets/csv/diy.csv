@@ -1,0 +1,80 @@
+Verified,Bells,Name,Materials,Category
+1,200,Flimsy Axe,Tree Branch=5|Stone=1,Tools
+1,560,Stone Axe,Flimsy Axe=1|Wood=3,Tools
+1,625,Axe,1 Flimsy Axe|Wood=3|Iron Nugget=1,Tools
+1,200,Flimsy Shovel,Hardwood=5,Tools
+1,600,Shovel,Flimsy Shovel=1|Iron Nugget=1,Tools
+1,100,Flimsy Fishing Rod,Tree Branch=5,Tools
+1,600,Fishing Rod,Flimsy Fishing Rod=1|Iron Nugget=1,Tools
+1,100,Flimsy Net,Tree Branch=5,Tools
+1,600,Net,Flimsy Net=1|Iron Nugget=1,Tools
+1,200,Flimsy Watering Can,Softwood=5,Tools
+1,600,Watering Can,Flimsy Watering Can=1|Iron Nugget=1,Tools
+1,225,Slingshot,Hardwood=5,Tools
+1,600,Vaulting Pole,Softwood=5,Tools
+1,"1,440",Ladder,Wood=4|Hardwood=4|Softwood=4,Tools
+,,Medicine,Wasp Nest=1|Weed=3,Other
+,,Fish Bait,Manila Clam=1,Other
+,,Ocarina,Clay=5,Other
+,,Pan Flute,Young Spring Bamboo=7,Other
+1,30,Campfire,Tree Branch=3,Housewares
+1,"1,230",Bonfire,Campfire=1|Wood=10,Housewares
+1,650,Tiki Torch,Tree Branch=5|Wood=5,Housewares
+1,"1,350",Simple DIY Workbench,Hardwood=5|Iron Nugget=1,Housewares
+1,"2,580",Mini DIY Workbench,Wood=3|Hardwood=3|Softwood=3|Iron Nugget=2,Housewares
+1,720,Wooden Chair,Wood=6,Housewares
+1,720,Wooden Mini Table,Wood=6,Housewares
+1,"1,440",Wooden Wardrobe,Wood=12,Housewares
+1,"2,160",Wooden Simple Bed,Wood=18,Housewares
+1,"1,110",Wooden Table Mirror,Wood=3|Iron Nugget=1,Miscellaneous
+1,480,Log Stool,Hardwood=4,Housewares
+1,"1,440",Log Garden Lounge,Hardwood=12,Housewares
+1,360,Log Stakes,Wood=3,Housewares
+1,360,Wooden-Block Toy,Softwood=3,Miscellaneous
+1,720,Wooden-Block Chair,Wooden-Block Toy=1|Softwood=3,Housewares
+1,840,Wooden-Block Bench,Wooden-Block Toy=1|Softwood=4,Housewares
+1,"1,320",Wooden-Block Table,Wooden-Block Toy=1|Softwood=8,Housewares
+1,720,Wooden-Block Shelf,Wooden-Block Toy=1|Softwood=3,Housewares
+1,"2,460",Wooden-Block Stereo,Wooden-Block Toy=1|Softwood=5|Iron Nugget=2,Housewares
+1,"2,270",Plain Sink,Wood=6|Clay=4|Iron Nugget=1,Housewares
+1,"2,220",Natural Garden Chair,Hardwood=6|Iron Nugget=2,Housewares
+1,"3,330",Natural Garden Table,Hardwood=9|Iron Nugget=3,Housewares
+1,960,Rocking Chair,Wood=3|Softwood=5,Housewares
+1,"1,440",Swinging Bench,Wood=5|Softwood=7,Housewares
+1,"2,100",Barrel,Wood=5|Iron Nugget=2,Housewares
+1,840,Birdhouse,Wood=2|Softwood=5,Housewares
+1,480,Ringtoss,Wood=2|Softwood=2,Miscellaneous
+1,360,Wooden Fish,Wood=3,Miscellaneous
+1,360,Old-Fashioned Washtub,Softwood=3,Miscellaneous
+,,Wooden-Mosaic Wall,Wood=15,Wallpaper/Floors/Rugs
+,,Wild-Wood Wall,Wood=15,Wallpaper/Floors/Rugs
+,,Simple Wooden Fence,Softwood=6,Other
+,,Recycled Boots,Boots=2,Equipment
+1,800,Classic Pitcher,Clay=3,Miscellaneous
+1,"1,000",Pot,Clay=5,Miscellaneous
+1,"3,820",Brick Oven,Wood=6|Clay=8|Iron Nugget=2,Housewares
+1,450,Stone Stool,Stone=3,Housewares
+1,900,Birdbath,Stone=6,Housewares
+1,"1,500",Frying Pan,Iron Nugget=2,Miscellaneous
+1,"2,700",Water Pump,Clay=6|Iron Nugget=2,Housewares
+1,"3,400",Iron Wall Lamp,Clay=2|Iron Nugget=4,Wall-Mounted
+,,Iron Fence,Iron Nugget=6,Other
+1,"3,720",Ironwood Cart,Wood=6|Iron Nugget=4,Housewares
+,,Ironwood Kitchenette,Ironwood Dresser=1|Cutting Board=1|Wood=4|Iron Nugget=3,Housewares
+1,400,Hay Bed,Weed=20,Housewares
+1,220,Succulent Plant,Empty Can=1|Weed=10,Miscellaneous
+1,"1,100",Potted Ivy,Weed=5|Clay=5,Wall-Mounted
+,,Jungle Flooring,Weed=10|Clay=10,Wallpaper/Floors/Rugs
+,,Leaf Umbrella,Weed=15,Equipment
+1,"3,500",Cherry Speakers,Cherry=10|Iron Nugget=2,Miscellaneous
+1,"2,400",Cherry Lamp,Cherry=10|Clay=2,Wall-Mounted
+,,Large Cardboard Boxes,Cardboard Box=5,Housewares
+1,"5,470",Hearth,Hardwood=5|Clay=4|Iron Nugget=5|Bamboo Piece=2,Housewares
+1,600,Green-Leaf Pile,Weed=10|Young Spring Bamboo=1,Housewares
+,,Bamboo Noodle Slide,Wood=3|Young Spring Bamboo=7,Housewares
+1,"2,400",Steamer-Basket Set,Young Spring Bamboo=6,Miscellaneous
+,,Bamboo-Shoot Lamp,Clay=3|Young Spring Bamboo=4|Bamboo Shoot=5,Miscellaneous
+,,Bamboo-Grove Wall,Young Spring Bamboo=7|Bamboo Shoot=3,Wallpaper/Floors/Rugs
+,,Light Bamboo Rug,Young Spring Bamboo=6,Wallpaper/Floors/Rugs
+1,720,Windflower Wreath,Red Windflowers=3|White Windflowers=3|Orange Windflowers=3,Wall-Mounted
+,,Cosomos Crown,Red Cosmos=3|Yellow Cosmos=3|White Cosmos=3,Equipment

@@ -1,0 +1,599 @@
+﻿Verified,Image,Recipe,Required Materials,Recipe Source,Customizable,Category,Sell Price
+0,https://dodo.ac/np/images/thumb/9/91/Flimsy_Net_NH_Icon.png/30px-Flimsy_Net_NH_Icon.png,Flimsy Net,5xTree Branch, Tom Nook (after giving first Fish or Bug),No,Tools,100
+0,https://dodo.ac/np/images/thumb/5/5b/Net_NH_Inv_Icon.png/30px-Net_NH_Inv_Icon.png,Net,1xFlimsy Net|1xIron Nugget,Pretty Good Tools Recipes Pack (Nook Stop),Yes,Tools,600
+0,https://dodo.ac/np/images/thumb/a/a9/Golden_Net_NH_Inv_Icon.png/30px-Golden_Net_NH_Inv_Icon.png, Gold Net,1xNet|1xGold Nugget,Complete Bug Critterpedia (receive in mail),No,Tools,10000
+0,https://dodo.ac/np/images/thumb/a/a1/Flimsy_Fishing_Rod_NH_Icon.png/30px-Flimsy_Fishing_Rod_NH_Icon.png,Flimsy Fishing Rod,5xTree Branch, Tom Nook (Resident Services),No,Tools,100
+0,https://dodo.ac/np/images/thumb/2/22/Fishing_Rod_NH_Inv_Icon.png/30px-Fishing_Rod_NH_Inv_Icon.png,Fishing Rod,1xFlimsy Fishing Rod|1xIron Nugget,Pretty Good Tools Recipes Pack (Nook Stop),Yes,Tools,600
+0,https://dodo.ac/np/images/thumb/3/30/Golden_Fishing_Rod_NH_Inv_Icon.png/30px-Golden_Fishing_Rod_NH_Inv_Icon.png, Gold Fishing Rod,1xFishing Rod|1xGold Nugget,Complete Fish Critterpedia (receive in mail),No,Tools,10400
+0,https://dodo.ac/np/images/thumb/7/76/Flimsy_Axe_NH_Icon.png/30px-Flimsy_Axe_NH_Icon.png,Flimsy Axe,5xTree Branch|1xStone, Tom Nook (after giving 2nd Fish or Bug)| Nook's Cranny,No,Tools,200
+0,https://dodo.ac/np/images/thumb/9/93/Stone_Axe_NH_Inv_Icon.png/30px-Stone_Axe_NH_Inv_Icon.png,Stone Axe,1xFlimsy Axe|3xWood,Pretty Good Tools Recipes Pack (Nook Stop),No,Tools,560
+0,https://dodo.ac/np/images/thumb/c/c6/Axe_NH_Inv_Icon.png/30px-Axe_NH_Inv_Icon.png,Axe,1xFlimsy Axe|3xWood|1xIron Nugget,Pretty Good Tools Recipes Pack (Nook Stop),Yes,Tools,625
+0,https://dodo.ac/np/images/thumb/0/0b/Golden_Axe_NH_Inv_Icon.png/30px-Golden_Axe_NH_Inv_Icon.png, Gold Axe,1xAxe|1xGold Nugget,Break 100 Axes,No,Tools,10655
+0,https://dodo.ac/np/images/thumb/e/ea/Flimsy_Shovel_NH_Icon.png/30px-Flimsy_Shovel_NH_Icon.png,Flimsy Shovel,5xHardwood, Blathers| Nook's Cranny,No,Tools,200
+0,https://dodo.ac/np/images/thumb/1/17/Shovel_NH_Inv_Icon.png/30px-Shovel_NH_Inv_Icon.png,Shovel,1xFlimsy Shovel|1xIron Nugget,Pretty Good Tools Recipes Pack (Nook Stop),Yes,Tools,600
+0,https://dodo.ac/np/images/thumb/4/41/Golden_Shovel_NH_Inv_Icon.png/30px-Golden_Shovel_NH_Inv_Icon.png, Golden Shovel,1xShovel|1xGold Nugget, Gulliver (help him 30 times),No,Tools,10675
+0,https://dodo.ac/np/images/thumb/5/51/Flimsy_Watering_Can_NH_Icon.png/30px-Flimsy_Watering_Can_NH_Icon.png,Flimsy Watering Can,5xSoftwood, Tom Nook (after giving 4 Fish or Bugs)| Nook's Cranny,No,Tools,200
+0,https://dodo.ac/np/images/thumb/6/61/Watering_Can_NH_Inv_Icon.png/30px-Watering_Can_NH_Inv_Icon.png,Watering Can,1xFlimsy Watering Can|1xIron Nugget,Pretty Good Tools Recipes Pack (Nook Stop),Yes,Tools,600
+0,https://dodo.ac/np/images/thumb/7/73/Golden_Watering_Can_NH_Inv_Icon.png/30px-Golden_Watering_Can_NH_Inv_Icon.png, Gold Watering Can,1xWatering Can|1xGold Nugget,5-Star Island Rating,No,Tools,10675
+0,https://dodo.ac/np/images/thumb/f/fb/Slingshot_NH_Inv_Icon.png/30px-Slingshot_NH_Inv_Icon.png,Slingshot,5xHardwood, Nook's Cranny,Yes,Tools,225
+0,https://dodo.ac/np/images/thumb/f/f6/Golden_Slingshot_NH_Inv_Icon.png/30px-Golden_Slingshot_NH_Inv_Icon.png, Golden Slingshot,1xSlingshot|1xGold Nugget,Pop 300  Balloons (receive in mail or pop Gold Balloon),No,Tools,10300
+0,https://dodo.ac/np/images/thumb/c/c2/Vaulting_Pole_NH_Inv_Icon.png/30px-Vaulting_Pole_NH_Inv_Icon.png, Vaulting Pole,5xSoftwood, Blathers| Nook's Cranny,No,Tools,600
+0,https://dodo.ac/np/images/thumb/e/e2/Ladder_NH_Inv_Icon.png/30px-Ladder_NH_Inv_Icon.png, Ladder,4xWood|4xHardwood|4xSoftwood, Tom Nook| Nook's Cranny,No,Tools,1440
+0,https://dodo.ac/np/images/thumb/b/ba/Wand_NH_Inv_Icon.png/30px-Wand_NH_Inv_Icon.png, Star Wand,3xStar Fragment|1xLarge Star Fragment, Celeste,No,Tools,6500
+0,https://dodo.ac/np/images/thumb/8/8a/Iron_Wand_NH_Icon.png/30px-Iron_Wand_NH_Icon.png, Iron Wand,3xIron Nugget|3xStar Fragment, Celeste,No,Tools,3750
+0,https://dodo.ac/np/images/thumb/c/ce/Golden_Wand_NH_Icon.png/30px-Golden_Wand_NH_Icon.png, Golden Wand,2xGold Nugget|3xStar Fragment, Celeste,No,Tools,20750
+0,https://dodo.ac/np/images/thumb/9/94/Cosmos_Wand_NH_Icon.png/30px-Cosmos_Wand_NH_Icon.png, Cosmos Wand,1xWhite Cosmos|3xStar Fragment, Celeste,No,Tools,1580
+0,https://dodo.ac/np/images/thumb/0/0d/Hyacinth_Wand_NH_Icon.png/30px-Hyacinth_Wand_NH_Icon.png, Hyacinth Wand,1xPink Hyacinth|3xStar Fragment, Celeste,No,Tools,1660
+0,https://dodo.ac/np/images/thumb/1/12/Lily_Wand_NH_Icon.png/30px-Lily_Wand_NH_Icon.png, Lily Wand,1xWhite Lily|3xStar Fragment, Celeste,No,Tools,1580
+0,https://dodo.ac/np/images/thumb/6/64/Mums_Wand_NH_Icon.png/30px-Mums_Wand_NH_Icon.png, Mums Wand,1xYellow Mum|3xStar Fragment, Celeste,No,Tools,1580
+0,https://dodo.ac/np/images/thumb/f/f6/Pansy_Wand_NH_Icon.png/30px-Pansy_Wand_NH_Icon.png, Pansy Wand,1xYellow Pansy|3xStar Fragment, Celeste,No,Tools,1580
+0,https://dodo.ac/np/images/thumb/b/b8/Rose_Wand_NH_Icon.png/30px-Rose_Wand_NH_Icon.png, Rose Wand,1xRed Rose|3xStar Fragment, Celeste,No,Tools,1580
+0,https://dodo.ac/np/images/thumb/f/ff/TulipWand_NH_icon.png/30px-TulipWand_NH_icon.png, Tulip Wand,1xRed Tulip|3xStar Fragment, Celeste,No,Tools,1580
+0,https://dodo.ac/np/images/thumb/c/cb/Windflower_Wand_NH_Icon.png/30px-Windflower_Wand_NH_Icon.png, Windflower Wand,1xOrange Windflower|3xStar Fragment, Celeste,No,Tools,1580
+0,https://dodo.ac/np/images/thumb/c/cb/Tree-Branch_Wand_NH_Icon.png/30px-Tree-Branch_Wand_NH_Icon.png, Tree-Branch Wand,5xTree Branch|3xStar Fragment, Celeste,No,Tools,1550
+0,https://dodo.ac/np/images/thumb/3/3d/Mushroom_Wand_NH_Icon.png/30px-Mushroom_Wand_NH_Icon.png, Mushroom Wand,3xSkinny Mushroom|3xStar Fragment, Balloons (Mushrooming Season),Yes,Tools,3300
+0,https://dodo.ac/np/images/thumb/2/2f/Shell_Wand_NH_Icon.png/30px-Shell_Wand_NH_Icon.png, Shell Wand,3xSummer Shell|3xStar Fragment, Balloons (Summer),No,Tools,5100
+0,https://dodo.ac/np/images/thumb/0/06/Bamboo_Wand_NH_Icon.png/30px-Bamboo_Wand_NH_Icon.png, Bamboo Wand,6xYoung Spring Bamboo|3xStar Fragment, Balloons (Spring),No,Tools,3900
+0,https://dodo.ac/np/images/thumb/b/bc/Cherry-Blossom_Wand_NH_Icon.png/30px-Cherry-Blossom_Wand_NH_Icon.png, Cherry-Blossom Wand,3xCherry-Blossom Petal|3xStar Fragment, Balloons (Cherry Blossom Festival),No,Tools,2700
+0,https://dodo.ac/np/images/thumb/0/0a/Ice_Wand_NH_Icon.png/30px-Ice_Wand_NH_Icon.png, Ice Wand,1xLarge Snowflake|3xStar Fragment,Build a perfect Snowboy (Winter),No,Tools,6500
+0,https://dodo.ac/np/images/thumb/6/6d/Bunny_Day_Wand_NH_Icon.png/30px-Bunny_Day_Wand_NH_Icon.png, Bunny Day Wand,1xWobbling Zipper Toy|3xStar Fragment, Zipper (after crafting Wobbling Zipper Toy),No,Tools,11100
+0,https://dodo.ac/np/images/thumb/8/85/Wedding_Wand_NH_Icon.png/30px-Wedding_Wand_NH_Icon.png, Wedding Wand,1xWedding Flower Stand 3xStar Fragment, Cyrus (Wedding Season),No,Tools,3500
+0,https://dodo.ac/np/images/thumb/a/a7/Campfire_NH_Icon.png/30px-Campfire_NH_Icon.png, Campfire,3xTree Branch, Tom Nook,No,Housewares,30
+0,https://dodo.ac/np/images/thumb/5/5b/Bonfire_NH_Icon.png/30px-Bonfire_NH_Icon.png, Bonfire,1xCampfire|10xWood, Tom Nook| Cranky villager,No,Housewares,1230
+0,https://dodo.ac/np/images/thumb/c/c8/Tiki_Torch_NH_Icon.png/30px-Tiki_Torch_NH_Icon.png, Tiki Torch,5xTree Branch|5xWood, Tom Nook| Cranky villager,No,Housewares,650
+0,https://dodo.ac/np/images/thumb/4/49/Clothesline_NH_Icon.png/30px-Clothesline_NH_Icon.png, Clothesline,10xTree Branch, Tom Nook (villager home development)| Cranky villager,Yes,Housewares,100
+0,https://dodo.ac/np/images/thumb/7/79/Scarecrow_NH_Icon.png/30px-Scarecrow_NH_Icon.png, Scarecrow,3xTree Branch|5xClump of Weeds, Cranky villager,No,Housewares,130
+0,https://dodo.ac/np/images/thumb/2/28/Simple_DIY_Workbench_NH_Icon.png/30px-Simple_DIY_Workbench_NH_Icon.png, Simple DIY Workbench,5xHardwood|1xIron Nugget, Jock villager Gift from Nintendo (Mail-Box),No,Housewares,1350
+0,https://dodo.ac/np/images/thumb/f/fe/Mini_DIY_Workbench_NH_Icon.png/30px-Mini_DIY_Workbench_NH_Icon.png, Mini DIY Workbench,3xWood|3xHardwood|3xSoftwood|2xIron Nugget,Test Your DIY Skills Pack (Nook's Cranny),Yes,Housewares,2580
+0,https://dodo.ac/np/images/thumb/b/b7/DIY_Workbench_NH_Icon.png/30px-DIY_Workbench_NH_Icon.png, DIY Workbench,5xWood|5xHardwood|5xSoftwood|3xIron Nugget, Sisterly villager,Yes,Housewares,6630
+0,https://dodo.ac/np/images/thumb/2/22/Wooden_Bookshelf_NH_Icon.png/30px-Wooden_Bookshelf_NH_Icon.png, Wooden Bookshelf,5xBook|10xWood, Lazy villager,Yes,Housewares,1925
+0,https://dodo.ac/np/images/thumb/6/60/Wooden_Stool_NH_Icon.png/30px-Wooden_Stool_NH_Icon.png, Wooden Stool,4xWood, Peppy villager,Yes,Housewares,480
+0,https://dodo.ac/np/images/thumb/3/32/Wooden_Chair_NH_Icon.png/30px-Wooden_Chair_NH_Icon.png, Wooden Chair,6xWood, Tom Nook (villager home development)| Snooty villager,Yes,Housewares,720
+0,https://dodo.ac/np/images/thumb/0/06/Wooden_Mini_Table_NH_Icon.png/30px-Wooden_Mini_Table_NH_Icon.png, Wooden Mini Table,6xWood, Sisterly villager,Yes,Housewares,720
+0,https://dodo.ac/np/images/thumb/d/dd/Wooden_Low_Table_NH_Icon.png/30px-Wooden_Low_Table_NH_Icon.png, Wooden Low Table,10xWood, Smug villager,Yes,Housewares,1200
+0,https://dodo.ac/np/images/thumb/5/5f/Wooden_Wardrobe_NH_Icon.png/30px-Wooden_Wardrobe_NH_Icon.png, Wooden Wardrobe,12xWood, Tom Nook,Yes,Housewares,1440
+0,https://dodo.ac/np/images/thumb/5/54/Wooden_Simple_Bed_NH_Icon.png/30px-Wooden_Simple_Bed_NH_Icon.png, Wooden Simple Bed,18xWood, Tom Nook (villager home development)| Lazy villager,Yes,Housewares,2160
+0,https://dodo.ac/np/images/thumb/b/b8/Wooden_Chest_NH_Icon.png/30px-Wooden_Chest_NH_Icon.png, Wooden Chest,16xWood, Lazy villager,Yes,Housewares,1920
+0,https://dodo.ac/np/images/thumb/c/c6/Wooden_Table_NH_Icon.png/30px-Wooden_Table_NH_Icon.png, Wooden Table,15xWood, Sisterly villager,Yes,Housewares,1800
+0,https://dodo.ac/np/images/thumb/0/03/Wooden_End_Table_NH_Icon.png/30px-Wooden_End_Table_NH_Icon.png, Wooden End Table,8xWood, Snooty villager,Yes,Housewares,960
+0,https://dodo.ac/np/images/thumb/7/7a/Wooden_Full-Length_Mirror_NH_Icon.png/30px-Wooden_Full-Length_Mirror_NH_Icon.png, Wooden Full-Length Mirror,5xWood|1xIron Nugget, Peppy villager,Yes,Housewares,1350
+0,https://dodo.ac/np/images/thumb/e/e7/Wooden_Double_Bed_NH_Icon.png/30px-Wooden_Double_Bed_NH_Icon.png, Wooden Double Bed,30xWood, Smug villager,Yes,Housewares,3600
+0,https://dodo.ac/np/images/thumb/d/d5/Wooden_Waste_Bin_NH_Icon.png/30px-Wooden_Waste_Bin_NH_Icon.png, Wooden Waste Bin,4xWood, Sisterly villager,Yes,Housewares,480
+0,https://dodo.ac/np/images/thumb/5/53/Tiny_Library_NH_Icon.png/30px-Tiny_Library_NH_Icon.png, Tiny Library,3xBook|5xWood, Normal villager,Yes,Housewares,1035
+0,https://dodo.ac/np/images/thumb/6/69/Log_Stool_NH_Icon.png/30px-Log_Stool_NH_Icon.png, Log Stool,4xHardwood, Tom Nook (villager home development)| Peppy villager,Yes,Housewares,480
+0,https://dodo.ac/np/images/thumb/3/3a/Log_Round_Table_NH_Icon.png/30px-Log_Round_Table_NH_Icon.png, Log Round Table,15xHardwood, Peppy villager,Yes,Housewares,1800
+0,https://dodo.ac/np/images/thumb/2/2d/Log_Bench_NH_Icon.png/30px-Log_Bench_NH_Icon.png, Log Bench,5xHardwood, Tom Nook (villager home development)| Normal villager,Yes,Housewares,600
+0,https://dodo.ac/np/images/thumb/a/a1/Log_Dining_Table_NH_Icon.png/30px-Log_Dining_Table_NH_Icon.png, Log Dining Table,15xHardwood, Tom Nook (villager home development)| Cranky villager,Yes,Housewares,1800
+0,https://dodo.ac/np/images/thumb/b/bb/Log_Sofa_NH_Icon.png/30px-Log_Sofa_NH_Icon.png, Log Chair,8xHardwood, Normal villager,Yes,Housewares,960
+0,https://dodo.ac/np/images/thumb/d/d6/Log_Extra-Long_Sofa_NH_Icon.png/30px-Log_Extra-Long_Sofa_NH_Icon.png, Log Extra-Long Sofa,2xLog Chair, Normal villager,Yes,Housewares,1920
+0,https://dodo.ac/np/images/thumb/9/9a/Log_Bed_NH_Icon.png/30px-Log_Bed_NH_Icon.png, Log Bed,30xHardwood, Tom Nook (villager home development)| Peppy villager,Yes,Housewares,3600
+0,https://dodo.ac/np/images/thumb/a/a2/Log_Garden_Lounge_NH_Icon.png/30px-Log_Garden_Lounge_NH_Icon.png, Log Garden Lounge,12xHardwood, Tom Nook (villager home development)| Peppy villager,Yes,Housewares,1440
+0,https://dodo.ac/np/images/thumb/3/31/Log_Decorative_Shelves_NH_Icon.png/30px-Log_Decorative_Shelves_NH_Icon.png, Log Decorative Shelves,2xLog Bench|3xHardwood, Normal villager,Yes,Housewares,1560
+0,https://dodo.ac/np/images/thumb/f/f2/Log_Stakes_NH_Icon.png/30px-Log_Stakes_NH_Icon.png, Log Stakes,3xWood, Tom Nook (Give Tom Nook 2 Fish or Bugs)| Smug villager,Yes,Housewares,360
+0,https://dodo.ac/np/images/thumb/6/6f/Wild_Log_Bench_NH_Icon.png/30px-Wild_Log_Bench_NH_Icon.png, Wild Log Bench,8xHardwood, Jock villager,Yes,Housewares,960
+0,https://dodo.ac/np/images/thumb/2/2e/Wooden-Block_Stool_NH_Icon.png/30px-Wooden-Block_Stool_NH_Icon.png, Wooden-Block Stool,1xWooden Block Toy|2xSoftwood, Peppy villager,Yes,Housewares,600
+0,https://dodo.ac/np/images/thumb/5/50/Wooden-Block_Chair_NH_Icon.png/30px-Wooden-Block_Chair_NH_Icon.png, Wooden-Block Chair,1xWooden Block Toy|3xSoftwood,Test Your DIY Skills Pack (Nook's Cranny),Yes,Housewares,720
+0,https://dodo.ac/np/images/thumb/f/f6/Wooden-Block_Table_NH_Icon.png/30px-Wooden-Block_Table_NH_Icon.png, Wooden-Block Table,1xWooden Block Toy|8xSoftwood, Tom Nook (villager home development)| Sisterly villager,Yes,Housewares,1320
+0,https://dodo.ac/np/images/thumb/5/5a/Wooden-Block_Chest_NH_Icon.png/30px-Wooden-Block_Chest_NH_Icon.png, Wooden-Block Chest,1xWooden Block Toy|12xSoftwood, Normal villager,Yes,Housewares,1800
+0,https://dodo.ac/np/images/thumb/3/35/Wooden-Block_Bed_NH_Icon.png/30px-Wooden-Block_Bed_NH_Icon.png, Wooden-Block Bed,1xWooden Block Toy|17xSoftwood, Normal villager,Yes,Housewares,2400
+0,https://dodo.ac/np/images/thumb/4/47/Wooden-Block_Bookshelf_NH_Icon.png/30px-Wooden-Block_Bookshelf_NH_Icon.png, Wooden-Block Bookshelf,1xWooden Block Toy|3xSoftwood,Test Your DIY Skills Recipe Pack (Nook's Cranny),Yes,Housewares,720
+0,https://dodo.ac/np/images/thumb/2/23/Wooden-Block_Stereo_NH_Icon.png/30px-Wooden-Block_Stereo_NH_Icon.png, Wooden-Block Stereo,1xWooden Block Toy|5xSoftwood|2xIron Nugget,Test Your DIY Skills Recipe Pack (Nook's Cranny),Yes,Housewares,2460
+0,https://dodo.ac/np/images/thumb/d/d0/Wooden-Block_Bench_NH_Icon.png/30px-Wooden-Block_Bench_NH_Icon.png, Wooden-Block Bench,1xWooden Block Toy|4xSoftwood, Sisterly villager,Yes,Housewares,840
+0,https://dodo.ac/np/images/thumb/7/70/Plain_Sink_NH_Icon.png/30px-Plain_Sink_NH_Icon.png, Plain Sink,6xWood|4xClay|1xIron Nugget,Wildest Dreams DIY Pack (Nook's Cranny),Yes,Housewares,2270
+0,https://dodo.ac/np/images/thumb/5/5c/Plain_Wooden_Shop_Sign_NH_Icon.png/30px-Plain_Wooden_Shop_Sign_NH_Icon.png, Plain Wooden Shop Sign,6xWood, Jock villager,Yes,Housewares,720
+0,https://dodo.ac/np/images/thumb/3/3e/Natural_Garden_Chair_NH_Icon.png/30px-Natural_Garden_Chair_NH_Icon.png, Natural Garden Chair,6xHardwood|2xIron Nugget, Tom Nook (villager home development)| Peppy villager,Yes,Housewares,2220
+0,https://dodo.ac/np/images/thumb/1/12/Natural_Square_Table_NH_Icon.png/30px-Natural_Square_Table_NH_Icon.png, Natural Square Table,4xHardwood|2xIron Nugget, Normal villager,Yes,Housewares,1980
+0,https://dodo.ac/np/images/thumb/e/e6/Natural_Garden_Table_NH_Icon.png/30px-Natural_Garden_Table_NH_Icon.png, Natural Garden Table,9xHardwood|3xIron Nugget, Tom Nook (village home development)| Normal villager,Yes,Housewares,3330
+0,https://dodo.ac/np/images/thumb/f/fc/Bonsai_Shelf_NH_Icon.png/30px-Bonsai_Shelf_NH_Icon.png, Bonsai Shelf,1xCherry-Blossom Bonsai|1xPine Bonsai Tree|8xWood, Cranky villager,No,Housewares,8460
+0,https://dodo.ac/np/images/thumb/c/cc/Rocking_Chair_NH_Icon.png/30px-Rocking_Chair_NH_Icon.png, Rocking Chair,3xWood|5xSoftwood,Test Your DIY Skills Pack (Nook's Cranny),Yes,Housewares,960
+0,https://dodo.ac/np/images/thumb/d/d9/Swinging_Bench_NH_Icon.png/30px-Swinging_Bench_NH_Icon.png, Swinging Bench,5xWood|7xSoftwood,Test Your Skills DIY Pack (Nook's Cranny),Yes,Housewares,1440
+0,https://dodo.ac/np/images/thumb/8/8f/Acoustic_Guitar_NH_Icon.png/30px-Acoustic_Guitar_NH_Icon.png, Acoustic Guitar,8xSoftwood|3xIron Nugget, Smug villager,Yes,Housewares,3210
+0,https://dodo.ac/np/images/thumb/2/2f/Street_Piano_NH_Icon.png/30px-Street_Piano_NH_Icon.png, Street Piano,1xUpright Piano|1xPainting Set, Sisterly villager,Yes,Housewares,26755
+0,https://dodo.ac/np/images/thumb/5/51/Grass_Standee_NH_Icon.png/30px-Grass_Standee_NH_Icon.png, Grass Standee,2xWood|2xSoftwood, Normal villager,Yes,Housewares,480
+0,https://dodo.ac/np/images/thumb/2/29/Tree_Standee_NH_Icon.png/30px-Tree_Standee_NH_Icon.png, Tree Standee,5xWood|8xSoftwood, Jock villager,Yes,Housewares,1560
+0,https://dodo.ac/np/images/thumb/e/eb/Hedge_Standee_NH_Icon.png/30px-Hedge_Standee_NH_Icon.png, Hedge Standee,2xWood|3xSoftwood, Normal villager,Yes,Housewares,600
+0,https://dodo.ac/np/images/thumb/a/aa/Mountain_Standee_NH_Icon.png/30px-Mountain_Standee_NH_Icon.png, Mountain Standee,4xWood|5xSoftwood, Jock villager,Yes,Housewares,1080
+0,https://dodo.ac/np/images/thumb/6/63/Tea_Table_NH_Icon.png/30px-Tea_Table_NH_Icon.png, Tea Table,12xHardwood, Cranky villager,Yes,Housewares,1440
+0,https://dodo.ac/np/images/thumb/1/1d/Trophy_Case_NH_Icon.png/30px-Trophy_Case_NH_Icon.png, Trophy Case,24xHardwood|3xGold Nugget|6xIron Nugget, Jock villager,No,Housewares,33690
+0,https://dodo.ac/np/images/thumb/4/49/Rocking_Horse_NH_Icon.png/30px-Rocking_Horse_NH_Icon.png, Rocking Horse,5xSoftwood, Normal villager,Yes,Housewares,600
+0,https://dodo.ac/np/images/thumb/8/81/Clackercart_NH_Icon.png/30px-Clackercart_NH_Icon.png, Clackercart,2xHardwood|6xSoftwood, Lazy villager,Yes,Housewares,960
+0,https://dodo.ac/np/images/thumb/4/42/Music_Stand_NH_Icon.png/30px-Music_Stand_NH_Icon.png, Music Stand,8xHardwood, Lazy villager,Yes,Housewares,960
+0,https://dodo.ac/np/images/thumb/8/83/Birdcage_NH_Icon.png/30px-Birdcage_NH_Icon.png, Birdcage,8xWood, Sisterly villager,Yes,Housewares,960
+0,https://dodo.ac/np/images/thumb/a/a2/Doghouse_NH_Icon.png/30px-Doghouse_NH_Icon.png, Doghouse,10xWood|7xHardwood, Jock villager,Yes,Housewares,2040
+0,https://dodo.ac/np/images/thumb/e/ec/Barrel_NH_Icon.png/30px-Barrel_NH_Icon.png, Barrel,5xWood|2xIron Nugget, Tom Nook (villager home development)| Cranky villager,No,Housewares,2100
+0,https://dodo.ac/np/images/thumb/b/b1/Oil-Barrel_Bathtub_NH_Icon.png/30px-Oil-Barrel_Bathtub_NH_Icon.png, Oil-Barrel Bathtub,1xOil Barrel|1xCampfire|2xStone, Jock villager,Yes,Housewares,655
+0,https://dodo.ac/np/images/thumb/c/ca/Butter_Churn_NH_Icon.png/30px-Butter_Churn_NH_Icon.png, Butter Churn,4xWood|2xIron Nugget, Snooty villager,Yes,Housewares,1980
+0,https://dodo.ac/np/images/thumb/5/58/Wooden_Bucket_NH_Icon.png/30px-Wooden_Bucket_NH_Icon.png, Wooden Bucket,3xWood|1xIron Nugget, Tom Nook (villager home development)| Smug villager,No,Housewares,1110
+0,https://dodo.ac/np/images/thumb/f/f3/Birdhouse_NH_Icon.png/30px-Birdhouse_NH_Icon.png, Birdhouse,2xWood|5xSoftwood, Tom Nook (villager home development)| Peppy villager,Yes,Housewares,840
+0,https://dodo.ac/np/images/thumb/1/16/Stall_NH_Icon.png/30px-Stall_NH_Icon.png, Stall,12xWood, Nook Miles Exchange,Yes,Housewares,1400
+0,https://dodo.ac/np/images/thumb/9/97/Flower_Stand_NH_Icon.png/30px-Flower_Stand_NH_Icon.png, Flower Stand,1xRed Rose|2xPink Rose|2xOrange Rose|2xWhite Lily|2xYellow Lily|5xPurple Windflower, Sisterly villager,Yes,Housewares,2880
+0,https://dodo.ac/np/images/thumb/9/9c/Garden_Wagon_NH_Icon.png/30px-Garden_Wagon_NH_Icon.png, Garden Wagon,3xWhite Hyacinth|3xRed Cosmos|3xYellow Rose|8xWood|2xIron Nugget, Peppy villager,Yes,Housewares,3180
+0,https://dodo.ac/np/images/thumb/0/0a/Angled_Signpost_NH_Icon.png/30px-Angled_Signpost_NH_Icon.png, Angled Signpost,2xHardwood|3xSoftwood, Lazy villager,Yes,Housewares,600
+0,https://dodo.ac/np/images/thumb/8/82/Destinations_Signpost_NH_Icon.png/30px-Destinations_Signpost_NH_Icon.png, Destinations Signpost,4xHardwood|8xSoftwood, Nook Miles Exchange,Yes,Housewares,1440
+0,https://dodo.ac/np/images/thumb/2/20/Tire_Toy_NH_Icon.png/30px-Tire_Toy_NH_Icon.png, Tire Toy,1xOld Tire,Fishing up an Old Tire,Yes,Housewares,20
+0,https://dodo.ac/np/images/thumb/2/26/Tire_Stack_NH_Icon.png/30px-Tire_Stack_NH_Icon.png, Tire Stack,3xOld Tire,Fishing up 3 Old Tires,Yes,Housewares,60
+0,https://dodo.ac/np/images/thumb/1/12/Brick_Oven_NH_Icon.png/30px-Brick_Oven_NH_Icon.png, Brick Oven,8xClay|2xIron Nugget|6xWood,Wildest Dreams DIY Pack (Nook's Cranny),Yes,Housewares,3820
+0,https://dodo.ac/np/images/thumb/8/85/Brick_Well_NH_Icon.png/30px-Brick_Well_NH_Icon.png, Brick Well,8xClay|5xWood|1xFlimsy Shovel, Nook Miles Exchange,Yes,Housewares,2800
+0,https://dodo.ac/np/images/thumb/b/bd/Silo_NH_Icon.png/30px-Silo_NH_Icon.png, Silo,12xIron Nugget|6xHardwood|12xClay|12xStone, Nook Miles Exchange,Yes,Housewares,13920
+0,https://dodo.ac/np/images/thumb/d/d9/Stone_Stool_NH_Icon.png/30px-Stone_Stool_NH_Icon.png, Stone Stool,3xStone,DIY for Beginners Pack (Nook's Cranny),No,Housewares,450
+0,https://dodo.ac/np/images/thumb/e/e3/Stone_Table_NH_Icon.png/30px-Stone_Table_NH_Icon.png, Stone Table,8xStone, Tom Nook (villager home development)| Lazy villager,No,Housewares,1200
+0,https://dodo.ac/np/images/thumb/7/77/Birdbath_NH_Icon.png/30px-Birdbath_NH_Icon.png, Birdbath,6xStone, Tom Nook (villager home development)| Snooty villager,Yes,Housewares,900
+0,https://dodo.ac/np/images/thumb/d/d8/Drinking_Fountain_NH_Icon.png/30px-Drinking_Fountain_NH_Icon.png, Drinking Fountain,8xStone|2xIron Nugget, Nook Miles Exchange,Yes,Housewares,2700
+0,https://dodo.ac/np/images/thumb/d/d1/Fountain_NH_Icon.png/30px-Fountain_NH_Icon.png, Fountain,1xDrinking Fountain|20xStone|8xIron Nugget, Nook Miles Exchange,Yes,Housewares,11700
+0,https://dodo.ac/np/images/thumb/6/60/Garden_Rock_NH_Icon.png/30px-Garden_Rock_NH_Icon.png, Garden Rock,15xStone, Lazy villager,No,Housewares,2250
+0,https://dodo.ac/np/images/thumb/c/c3/Flat_Garden_Rock_NH_Icon.png/30px-Flat_Garden_Rock_NH_Icon.png, Flat Garden Rock,20xStone, Snooty villager,No,Housewares,3000
+0,https://dodo.ac/np/images/thumb/e/ea/Tall_Garden_Rock_NH_Icon.png/30px-Tall_Garden_Rock_NH_Icon.png, Tall Garden Rock,60xStone, Snooty villager,No,Housewares,9000
+0,https://dodo.ac/np/images/thumb/5/5c/Mossy_Garden_Rock_NH_Icon.png/30px-Mossy_Garden_Rock_NH_Icon.png, Mossy Garden Rock,15xStone|15xClump of Weeds, Lazy villager,No,Housewares,2550
+0,https://dodo.ac/np/images/thumb/7/79/Stone_Arch_NH_Icon.png/30px-Stone_Arch_NH_Icon.png, Stone Arch,90xStone, Nook Miles Exchange,Yes,Housewares,13500
+0,https://dodo.ac/np/images/thumb/3/32/Simple_Well_NH_Icon.png/30px-Simple_Well_NH_Icon.png, Simple Well,15xStone|1xFlimsy Shovel, Nook Miles Exchange,No,Housewares,2850
+0,https://dodo.ac/np/images/thumb/0/01/Outdoor_Bath_NH_Icon.png/30px-Outdoor_Bath_NH_Icon.png, Outdoor Bath,20xStone|1xShovel, Nook Miles Exchange,Yes,Housewares,4350
+0,https://dodo.ac/np/images/thumb/b/b7/Wave_Breaker_NH_Icon.png/30px-Wave_Breaker_NH_Icon.png, Wave Breaker,10xStone|10xClay, Nook Miles Exchange,No,Housewares,3500
+0,https://dodo.ac/np/images/thumb/b/bf/Western-Style_Stone_NH_Icon.png/30px-Western-Style_Stone_NH_Icon.png, Western-Style Stone,30xStone, Normal villager,Yes,Housewares,4500
+0,https://dodo.ac/np/images/thumb/9/93/Stone_Lion-Dog_NH_Icon.png/30px-Stone_Lion-Dog_NH_Icon.png, Stone Lion-Dog,24xStone, Smug villager,Yes,Housewares,3600
+0,https://dodo.ac/np/images/thumb/5/5d/Stone_Tablet_NH_Icon.png/30px-Stone_Tablet_NH_Icon.png, Stone Tablet,12xStone, Nook Miles Exchange,Yes,Housewares,1800
+0,https://dodo.ac/np/images/thumb/5/54/Tall_Lantern_NH_Icon.png/30px-Tall_Lantern_NH_Icon.png, Tall Lantern,18xStone, Smug villager,Yes,Housewares,2700
+0,https://dodo.ac/np/images/thumb/1/1f/Pond_Stone_NH_Icon.png/30px-Pond_Stone_NH_Icon.png, Pond Stone,10xStone, Snooty villager,Yes,Housewares,1500
+0,https://dodo.ac/np/images/thumb/d/d2/Garden_Bench_NH_Icon.png/30px-Garden_Bench_NH_Icon.png, Garden Bench,12xWood|4xIron Nugget, Snooty villager,Yes,Housewares,4440
+0,https://dodo.ac/np/images/thumb/e/e9/Sauna_Heater_NH_Icon.png/30px-Sauna_Heater_NH_Icon.png, Sauna Heater,6xStone|3xIron Nugget|3xWood, Lazy villager,No,Housewares,3510
+0,https://dodo.ac/np/images/thumb/0/04/Standard_Umbrella_Stand_NH_Icon.png/30px-Standard_Umbrella_Stand_NH_Icon.png, Standard Umbrella Stand,3xIron Nugget, Cranky villager,Yes,Housewares,2250
+0,https://dodo.ac/np/images/thumb/3/3a/Iron_Closet_NH_Icon.png/30px-Iron_Closet_NH_Icon.png, Iron Closet,12xIron Nugget, Sisterly villager,Yes,Housewares,9000
+0,https://dodo.ac/np/images/thumb/7/7e/Iron_Frame_NH_Icon.png/30px-Iron_Frame_NH_Icon.png, Iron Frame,20xIron Nugget, Jock villager,Yes,Housewares,15000
+0,https://dodo.ac/np/images/thumb/5/5a/Iron_Garden_Bench_NH_Icon.png/30px-Iron_Garden_Bench_NH_Icon.png, Iron Garden Bench,8xIron Nugget, Sisterly villager,Yes,Housewares,6000
+0,https://dodo.ac/np/images/thumb/3/31/Iron_Garden_Chair_NH_Icon.png/30px-Iron_Garden_Chair_NH_Icon.png, Iron Garden Chair,3xIron Nugget, Tom Nook (villager home development)| Sisterly villager,Yes,Housewares,2250
+0,https://dodo.ac/np/images/thumb/b/b6/Iron_Garden_Table_NH_Icon.png/30px-Iron_Garden_Table_NH_Icon.png, Iron Garden Table,5xIron Nugget, Tom Nook (villager home development)| Sisterly villager,Yes,Housewares,3750×
+0,https://dodo.ac/np/images/thumb/b/b9/Iron_Hanger_Stand_NH_Icon.png/30px-Iron_Hanger_Stand_NH_Icon.png, Iron Hanger Stand,3xIron Nugget, Cranky villager,Yes,Housewares,2250
+0,https://dodo.ac/np/images/thumb/9/92/Iron_Shelf_NH_Icon.png/30px-Iron_Shelf_NH_Icon.png, Iron Shelf,14xIron Nugget, Sisterly villager,Yes,Housewares,10500
+0,https://dodo.ac/np/images/thumb/f/fd/Iron_Worktable_NH_Icon.png/30px-Iron_Worktable_NH_Icon.png, Iron Worktable,10xIron Nugget, Sisterly villager,Yes,Housewares,7500
+0,https://dodo.ac/np/images/thumb/8/82/Gong_NH_Icon.png/30px-Gong_NH_Icon.png, Gong,6xIron Nugget|5xWood, Cranky villager,Yes,Housewares,5100
+0,https://dodo.ac/np/images/thumb/e/ef/Water_Pump_NH_Icon.png/30px-Water_Pump_NH_Icon.png, Water Pump,2xIron Nugget|6xClay, Tom Nook (villager home development)| Lazy villager,Yes,Housewares,2700
+0,https://dodo.ac/np/images/thumb/4/43/Jail_Bars_NH_Icon.png/30px-Jail_Bars_NH_Icon.png, Jail Bars,5xIron Nugget, Cranky villager,Yes,Housewares,3750
+0,https://dodo.ac/np/images/thumb/c/ce/Barbell_NH_Icon.png/30px-Barbell_NH_Icon.png, Barbell,10xIron Nugget, Jock villager,Yes,Housewares,7500
+0,https://dodo.ac/np/images/thumb/8/8e/Manhole_Cover_NH_Icon.png/30px-Manhole_Cover_NH_Icon.png, Manhole Cover,3xIron Nugget, Nook Miles Exchange,Yes,Housewares,2250
+0,https://dodo.ac/np/images/thumb/1/17/Ironwood_Bed_NH_Icon.png/30px-Ironwood_Bed_NH_Icon.png, Ironwood Bed,20xWood|10xIron Nugget, Smug villager,Yes,Housewares,9900
+0,https://dodo.ac/np/images/thumb/9/97/Ironwood_Cart_NH_Icon.png/30px-Ironwood_Cart_NH_Icon.png, Ironwood Cart,6xWood|4xIron Nugget, Smug villager,Yes,Housewares,3720
+0,https://dodo.ac/np/images/thumb/6/66/Ironwood_Chair_NH_Icon.png/30px-Ironwood_Chair_NH_Icon.png, Ironwood Chair,3xWood|2xIron Nugget, Smug villager,Yes,Housewares,1860
+0,https://dodo.ac/np/images/thumb/f/f3/Ironwood_Table_NH_Icon.png/30px-Ironwood_Table_NH_Icon.png, Ironwood Table,12xWood|6xIron Nugget, Cranky villager| Message Bottle,Yes,Housewares,5940
+0,https://dodo.ac/np/images/thumb/5/56/Ironwood_Low_Table_NH_Icon.png/30px-Ironwood_Low_Table_NH_Icon.png, Ironwood Low Table,6xWood|4xIron Nugget, Snooty villager,Yes,Housewares,3720
+0,https://dodo.ac/np/images/thumb/7/77/Ironwood_Dresser_NH_Icon.png/30px-Ironwood_Dresser_NH_Icon.png, Ironwood Dresser,7xWood|4xIron Nugget, Snooty villager,Yes,Housewares,3840
+0,https://dodo.ac/np/images/thumb/e/e9/Ironwood_Kitchenette_NH_Icon.png/30px-Ironwood_Kitchenette_NH_Icon.png, Ironwood Kitchenette,4xWood|3xIron Nugget|1xIronwood Dresser|1xCutting Board,Wildest Dreams DIY Pack (Nook's Cranny),Yes,Housewares,7560
+0,https://dodo.ac/np/images/thumb/5/5c/Ironwood_Cupboard_NH_Icon.png/30px-Ironwood_Cupboard_NH_Icon.png, Ironwood Cupboard,12xWood|6xIron Nugget|1xIronwood Dresser, Snooty villager,Yes,Housewares,9780
+0,https://dodo.ac/np/images/thumb/5/5a/Ironwood_Diy_Workbench_NH_Icon.png/30px-Ironwood_Diy_Workbench_NH_Icon.png, Ironwood DIY Workbench,12xWood|6xIron Nugget, Cranky villager,Yes,Housewares,8520
+0,https://dodo.ac/np/images/thumb/1/1d/Golden_Casket_NH_Icon.png/30px-Golden_Casket_NH_Icon.png, Golden Casket,8xGold Nugget, Smug villager,No,Housewares,80000
+0,https://dodo.ac/np/images/thumb/d/d8/Golden_Seat_NH_Icon.png/30px-Golden_Seat_NH_Icon.png, Golden Seat,5xGold Nugget, Snooty villager,No,Housewares,50000
+0,https://dodo.ac/np/images/thumb/c/ca/Golden_Toilet_NH_Icon.png/30px-Golden_Toilet_NH_Icon.png, Golden Toilet,6xGold Nugget, Snooty villager,No,Housewares,50000
+0,https://dodo.ac/np/images/thumb/0/0e/Hay_Bed_NH_Icon.png/30px-Hay_Bed_NH_Icon.png, Hay Bed,20xClump of Weeds,DIY for Beginners Pack (Nook's Cranny),Yes,Housewares,400
+0,https://dodo.ac/np/images/thumb/2/2a/Cosmos_Shower_NH_Icon.png/30px-Cosmos_Shower_NH_Icon.png, Cosmos Shower,5xPink Cosmos|3xIron Nugget, Celeste,Yes,Housewares,3050
+0,https://dodo.ac/np/images/thumb/c/c8/Apple_Chair_NH_Icon.png/30px-Apple_Chair_NH_Icon.png, Apple Chair,10xApple|4xWood, Tom Nook (villager home development)| Sisterly villager,Yes,Housewares,2480
+0,https://dodo.ac/np/images/thumb/4/40/Juicy-Apple_TV_NH_Icon.png/30px-Juicy-Apple_TV_NH_Icon.png, Juicy-Apple TV,10xApple|2xIron Nugget, Tom Nook (villager home development)| Sisterly villager,Yes,Housewares,3500
+0,https://dodo.ac/np/images/thumb/0/0f/Orange_End_Table_NH_Icon.png/30px-Orange_End_Table_NH_Icon.png, Orange End Table,10xOrange|4xWood, Lazy villager,Yes,Housewares,2480
+0,https://dodo.ac/np/images/thumb/2/2a/Peach_Chair_NH_Icon.png/30px-Peach_Chair_NH_Icon.png, Peach Chair,10xPeach|5xWood, Normal villager,Yes,Housewares,2600
+0,https://dodo.ac/np/images/thumb/8/87/Pear_Wardrobe_NH_Icon.png/30px-Pear_Wardrobe_NH_Icon.png, Pear Wardrobe,10xPear|5xWood, Jock villager,Yes,Housewares,2600
+0,https://dodo.ac/np/images/thumb/0/0c/Pear_Bed_NH_Icon.png/30px-Pear_Bed_NH_Icon.png, Pear Bed,10xPear|6xSoftwood, Jock villager,Yes,Housewares,2720
+0,https://dodo.ac/np/images/thumb/2/2c/Scattered_Papers_NH_Icon.png/30px-Scattered_Papers_NH_Icon.png, Scattered Papers,1xDocument Stack, Smug villager,Yes,Housewares,400
+0,https://dodo.ac/np/images/thumb/c/cd/Cardboard_Chair_NH_Icon.png/30px-Cardboard_Chair_NH_Icon.png, Cardboard Chair,1xCardboard Box, Lazy villager,Yes,Housewares,60
+0,https://dodo.ac/np/images/thumb/3/3b/Cardboard_Sofa_NH_Icon.png/30px-Cardboard_Sofa_NH_Icon.png, Cardboard Sofa,2xCardboard Box, Peppy villager,Yes,Housewares,120
+0,https://dodo.ac/np/images/thumb/3/31/Cardboard_Table_NH_Icon.png/30px-Cardboard_Table_NH_Icon.png, Cardboard Table,4xCardboard Box, Peppy villager,Yes,Housewares,240
+0,https://dodo.ac/np/images/thumb/d/d7/Cardboard_Bed_NH_Icon.png/30px-Cardboard_Bed_NH_Icon.png, Cardboard Bed,4xCardboard Box, Lazy villager,Yes,Housewares,240
+0,https://dodo.ac/np/images/thumb/b/be/Small_Cardboard_Boxes_NH_Icon.png/30px-Small_Cardboard_Boxes_NH_Icon.png, Small Cardboard Boxes,2xCardboard Box, Peppy villager,No,Housewares,120
+0,https://dodo.ac/np/images/thumb/e/e3/Medium_Cardboard_Boxes_NH_Icon.png/30px-Medium_Cardboard_Boxes_NH_Icon.png, Medium Cardboard Boxes,4xCardboard Box, Lazy villager,No,Housewares,240
+0,https://dodo.ac/np/images/thumb/e/e0/Large_Cardboard_Boxes_NH_Icon.png/30px-Large_Cardboard_Boxes_NH_Icon.png, Large Cardboard Boxes,5xCardboard Box, Lazy villager,No,Housewares,300
+0,https://dodo.ac/np/images/thumb/e/ed/Kettle_Bathtub_NH_Icon.png/30px-Kettle_Bathtub_NH_Icon.png, Kettle Bathtub,8xIron Nugget|2xWood|1xCampfire, Cranky villager,No,Housewares,6270
+0,https://dodo.ac/np/images/thumb/9/9d/Pile_Of_Zen_Cushions_NH_Icon.png/30px-Pile_Of_Zen_Cushions_NH_Icon.png, Pile of Zen Cushions,3xZen Cushion, Cranky villager,Yes,Housewares,750
+0,https://dodo.ac/np/images/thumb/b/b5/Zen-Style_Stone_NH_Icon.png/30px-Zen-Style_Stone_NH_Icon.png, Zen-Style Stone,30xStone, Lazy villager,Yes,Housewares,4500
+0,https://dodo.ac/np/images/thumb/2/28/Giant_Teddy_Bear_NH_Icon.png/30px-Giant_Teddy_Bear_NH_Icon.png, Giant Teddy Bear,1xPapa Bear|1xMama Bear|1xBaby Bear, Peppy villager,Yes,Housewares,6300
+0,https://dodo.ac/np/images/thumb/8/83/Moon_NH_Icon.png/30px-Moon_NH_Icon.png, Moon,15xStar Fragment|1xLarge Star Fragment, Celeste,No,Housewares,12500
+0,https://dodo.ac/np/images/thumb/c/ce/Asteroid_NH_Icon.png/30px-Asteroid_NH_Icon.png, Asteroid,5xStar Fragment|10xStone, Celeste,No,Housewares,4000
+0,https://dodo.ac/np/images/thumb/8/89/Astronaut_Suit_NH_Icon.png/30px-Astronaut_Suit_NH_Icon.png, Astronaut Suit,5xStar Fragment|5xIron Nugget, Celeste,No,Housewares,6250
+0,https://dodo.ac/np/images/thumb/3/3c/Lunar_Rover_NH_Icon.png/30px-Lunar_Rover_NH_Icon.png, Lunar Rover,10xStar Fragment|10xIron Nugget|4xOld Tire, Celeste,No,Housewares,12580
+0,https://dodo.ac/np/images/thumb/e/e1/Crewed_Spaceship_NH_Icon.png/30px-Crewed_Spaceship_NH_Icon.png, Crewed Spaceship,10xStar Fragment|20xIron Nugget, Celeste,No,Housewares,20000
+0,https://dodo.ac/np/images/thumb/a/ac/Lunar_Lander_NH_Icon.png/30px-Lunar_Lander_NH_Icon.png, Lunar Lander,10xStar Fragment|15xIron Nugget, Celeste,No,Housewares,16250
+0,https://dodo.ac/np/images/thumb/1/11/Crescent-Moon_Chair_NH_Icon.png/30px-Crescent-Moon_Chair_NH_Icon.png, Crescent-Moon Chair,7xStar Fragment|1xLarge Star Fragment, Celeste,Yes,Housewares,8500
+0,https://dodo.ac/np/images/thumb/3/31/Flying_Saucer_NH_Icon.png/30px-Flying_Saucer_NH_Icon.png, Flying Saucer,15xStar Fragment|10xIron Nugget, Celeste,No,Housewares,15000
+0,https://dodo.ac/np/images/thumb/0/0c/Rocket_NH_Icon.png/30px-Rocket_NH_Icon.png, Rocket,10xStar Fragment|20xIron Nugget, Celeste,No,Housewares,20000
+0,https://dodo.ac/np/images/thumb/8/8e/Satellite_NH_Icon.png/30px-Satellite_NH_Icon.png, Satellite,10xStar Fragment|15xIron Nugget, Celeste,No,Housewares,16250
+0,https://dodo.ac/np/images/thumb/9/9b/Space_Shuttle_NH_Icon.png/30px-Space_Shuttle_NH_Icon.png, Space Shuttle,5xStar Fragment|10xIron Nugget, Celeste,No,Housewares,10000
+0,https://dodo.ac/np/images/thumb/4/46/Robot_Hero_NH_Icon.png/30px-Robot_Hero_NH_Icon.png, Robot Hero,1xRocket||30xRusted Part|90xIron Nugget|10xGold Nugget, Nook Miles Exchange,Yes,Housewares,250000
+0,https://dodo.ac/np/images/thumb/d/dd/Raccoon_Figurine_NH_Icon.png/30px-Raccoon_Figurine_NH_Icon.png, Raccoon Figurine,6xClay, Cranky villager,No,Housewares,1200
+0,https://dodo.ac/np/images/thumb/3/38/Aries_Rocking_Chair_NH_Icon.png/30px-Aries_Rocking_Chair_NH_Icon.png, Aries Rocking Chair,3xStar Fragment|2xAries Fragment|1xGold Nugget|5xStone, Celeste,No,Housewares,12125
+0,https://dodo.ac/np/images/thumb/6/68/Aquarius_Urn_NH_Icon.png/30px-Aquarius_Urn_NH_Icon.png, Aquarius Urn,3xStar Fragment|2xAquarius Fragment|2xGold Nugget|5xStone, Celeste,No,Housewares,22125
+0,https://dodo.ac/np/images/thumb/9/97/Cancer_Table_NH_Icon.png/30px-Cancer_Table_NH_Icon.png, Cancer Table,3xStar Fragment|2xCancer Fragment|2xGold Nugget|3xStone, Celeste,No,Housewares,21975
+0,https://dodo.ac/np/images/thumb/6/61/Capricorn_Ornament_NH_Icon.png/30px-Capricorn_Ornament_NH_Icon.png, Capricorn Ornament,3xStar Fragment|2xCapricorn Fragment|2xGold Nugget|12xStone, Celeste,No,Housewares,22650
+0,https://dodo.ac/np/images/thumb/f/f0/Gemini_Closet_NH_Icon.png/30px-Gemini_Closet_NH_Icon.png, Gemini Closet,3xStar Fragment|Gemini Fragment|2xGold Nugget|6xStone, Celeste,No,Housewares,22200
+0,https://dodo.ac/np/images/thumb/7/7b/Pisces_Lamp_NH_Icon.png/30px-Pisces_Lamp_NH_Icon.png, Pisces Lamp,3xStar Fragment|2xPisces Fragment|2xGold Nugget|4xStone, Celeste,No,Housewares,22050
+0,https://dodo.ac/np/images/thumb/7/74/Taurus_Bathtub_NH_Icon.png/30px-Taurus_Bathtub_NH_Icon.png, Taurus Bathtub,3xStar Fragment|Taurus Fragment|1xGold Nugget|8xStone, Celeste,No,Housewares,12350
+0,https://dodo.ac/np/images/thumb/7/77/Virgo_Harp_NH_Icon.png/30px-Virgo_Harp_NH_Icon.png, Virgo Harp,3xStar Fragment|2xVirgo Fragment|2xGold Nugget|4xStone, Celeste,No,Housewares,22050
+0,https://dodo.ac/np/images/thumb/1/12/Beekeeper%27s_Hive_NH_Icon.png/30px-Beekeeper%27s_Hive_NH_Icon.png, Beekeeper's Hive,3xWasp Nest|5xWood, Jock villager,Yes,Housewares,2400
+0,https://dodo.ac/np/images/thumb/3/31/Hearth_NH_Icon.png/30px-Hearth_NH_Icon.png, Hearth,2xBamboo Piece|5xIron Nugget|4xClay|5xHardwood,Wildest Dreams DIY Pack (Nook's Cranny),No,Housewares,5470
+0,https://dodo.ac/np/images/thumb/7/79/Deer_Scare_NH_Icon.png/30px-Deer_Scare_NH_Icon.png, Deer Scare,3xBamboo Piece|8xStone|3xClump of Weeds, Cranky villager,Yes,Housewares,1740
+0,https://dodo.ac/np/images/thumb/5/5f/Bamboo_Stopblock_NH_Icon.png/30px-Bamboo_Stopblock_NH_Icon.png, Bamboo Stopblock,3xBamboo Piece, Jock villager,Yes,Housewares,480
+0,https://dodo.ac/np/images/thumb/d/d8/Bamboo_Doll_NH_Icon.png/30px-Bamboo_Doll_NH_Icon.png, Bamboo Doll,6xYoung Spring Bamboo, Balloons (Spring),No,Housewares,2400×
+0,https://dodo.ac/np/images/thumb/b/ba/Bamboo_Basket_NH_Icon.png/30px-Bamboo_Basket_NH_Icon.png, Bamboo Basket,7xBamboo Piece, Snooty villager,Yes,Housewares,1120
+0,https://dodo.ac/np/images/thumb/1/13/Bamboo_Bench_NH_Icon.png/30px-Bamboo_Bench_NH_Icon.png, Bamboo Bench,8xBamboo Piece, Normal villager,Yes,Housewares,1280
+0,https://dodo.ac/np/images/thumb/5/5f/Bamboo_Floor_Lamp_NH_Icon.png/30px-Bamboo_Floor_Lamp_NH_Icon.png, Bamboo Floor Lamp,8xBamboo Piece, Normal villager,Yes,Housewares,1280
+0,https://dodo.ac/np/images/thumb/3/3c/Green-Leaf_Pile_NH_Icon.png/30px-Green-Leaf_Pile_NH_Icon.png, Green-Leaf Pile,1xYoung Spring Bamboo|10xClump of Weeds, Balloons (Spring),No,Housewares,600
+0,https://dodo.ac/np/images/thumb/4/41/Bamboo_Noodle_Slide_NH_Icon.png/30px-Bamboo_Noodle_Slide_NH_Icon.png, Bamboo Noodle Slide,7xYoung Spring Bamboo|3xWood, Balloons (Spring)| Isabelle,No,Housewares,3160
+0,https://dodo.ac/np/images/thumb/e/eb/Bamboo_Partition_NH_Icon.png/30px-Bamboo_Partition_NH_Icon.png, Bamboo Partition,7xBamboo Piece|6xStone, Cranky villager,Yes,Housewares,2020
+0,https://dodo.ac/np/images/thumb/d/d2/Bamboo_Shelf_NH_Icon.png/30px-Bamboo_Shelf_NH_Icon.png, Bamboo Shelf,15xBamboo Piece, Snooty villager,Yes,Housewares,2400
+0,https://dodo.ac/np/images/thumb/9/92/Bamboo_Speaker_NH_Icon.png/30px-Bamboo_Speaker_NH_Icon.png, Bamboo Speaker,3xBamboo Piece|1xIron Nugget, Snooty villager,Yes,Housewares,1230
+0,https://dodo.ac/np/images/thumb/e/eb/Bamboo_Stool_NH_Icon.png/30px-Bamboo_Stool_NH_Icon.png, Bamboo Stool,5xBamboo Piece, Snooty villager,Yes,Housewares,800
+0,https://dodo.ac/np/images/thumb/e/ee/Cherry-Blossom_Pond_Stone_NH_Icon.png/30px-Cherry-Blossom_Pond_Stone_NH_Icon.png, Cherry-Blossom Pond Stone,10xStone|3xCherry-Blossom Petal, Balloons (Cherry Blossom Festival),No,Housewares,2700
+0,https://dodo.ac/np/images/thumb/3/34/Cherry-Blossom-Petal_Pile_NH_Icon.png/30px-Cherry-Blossom-Petal_Pile_NH_Icon.png, Cherry-Blossom-Petal Pile,5xCherry-Blossom Petal, Balloons (Cherry Blossom Festival),No,Housewares,2000
+0,https://dodo.ac/np/images/thumb/d/d6/Cherry-Blossom_Branches_NH_Icon.png/30px-Cherry-Blossom_Branches_NH_Icon.png, Cherry-Blossom Branches,8xCherry-Blossom Petal|4xTree Branch|5xClay, Balloons (Cherry Blossom Festival),No,Housewares,4240
+0,https://dodo.ac/np/images/thumb/2/26/Outdoor_Picnic_Set_NH_Icon.png/30px-Outdoor_Picnic_Set_NH_Icon.png, Outdoor Picnic Set,10xCherry-Blossom Petal, Isabelle| Balloons (Cherry Blossom Festival),No,Housewares,4000
+0,https://dodo.ac/np/images/thumb/3/3b/Blossom-Viewing_Lantern_NH_Icon.png/30px-Blossom-Viewing_Lantern_NH_Icon.png, Blossom-Viewing Lantern,6xCherry-Blossom Petal|4xHardwood, Balloons (Cherry Blossom Festival),Yes,Housewares,2880
+0,https://dodo.ac/np/images/thumb/d/d3/Shell_Bed_NH_Icon.png/30px-Shell_Bed_NH_Icon.png, Shell Bed,5xGiant Clam|3xClay|4xStone, Peppy villager,Yes,Housewares,10200
+0,https://dodo.ac/np/images/thumb/2/2b/Shell_Partition_NH_Icon.png/30px-Shell_Partition_NH_Icon.png, Shell Partition,4xVenus Comb|4xConch, Sisterly villager,Yes,Housewares,8000
+0,https://dodo.ac/np/images/thumb/d/dc/Shell_Stool_NH_Icon.png/30px-Shell_Stool_NH_Icon.png, Shell Stool,5xCowrie, Sisterly villager,Yes,Housewares,600
+0,https://dodo.ac/np/images/thumb/e/eb/Shell_Table_NH_Icon.png/30px-Shell_Table_NH_Icon.png, Shell Table,7xSand Dollars|3xClay, Peppy villager,Yes,Housewares,2280
+0,https://dodo.ac/np/images/thumb/1/17/Shell_Fountain_NH_Icon.png/30px-Shell_Fountain_NH_Icon.png, Shell Fountain,5xGiant Clam|3xStone, Lazy villager,Yes,Housewares,9450
+0,https://dodo.ac/np/images/thumb/f/f9/Shell_Arch_NH_Icon.png/30px-Shell_Arch_NH_Icon.png, Shell Arch,3xSea Snail|3xVenus Comb|3xSand Dollars|3xCoral|3xGiant Clam|3xCowrie, Lazy villager,Yes,Housewares,12360
+0,https://dodo.ac/np/images/thumb/9/9e/Pansy_Table_NH_Icon.png/30px-Pansy_Table_NH_Icon.png, Pansy Table,5xYellow Pansy|3xHardwood, Normal villager,Yes,Housewares,760
+0,https://dodo.ac/np/images/thumb/a/a5/Tulip_Surprise_Box_NH_Icon.png/30px-Tulip_Surprise_Box_NH_Icon.png, Tulip Surprise Box,5xRed Tulip|3xSoftwood, Jock villager,Yes,Housewares,760
+0,https://dodo.ac/np/images/thumb/6/66/Palm-Tree_Lamp_NH_Icon.png/30px-Palm-Tree_Lamp_NH_Icon.png, Palm-Tree Lamp,4xCoconut|4xWood|4xClay, Snooty villager,Yes,Housewares,3280
+0,https://dodo.ac/np/images/thumb/f/f1/Lily_Record_Player_NH_Icon.png/30px-Lily_Record_Player_NH_Icon.png, Lily Record Player,5xWhite Lily|3xIron Nugget|3xWood, Cranky villager,Yes,Housewares,3010
+0,https://dodo.ac/np/images/thumb/4/4f/Mum_Cushion_NH_Icon.png/30px-Mum_Cushion_NH_Icon.png, Mum Cushion,3xYellow Mum|10xClump of Weeds, Peppy villager,Yes,Housewares,440
+0,https://dodo.ac/np/images/thumb/5/53/Rose_Bed_NH_Icon.png/30px-Rose_Bed_NH_Icon.png, Rose Bed,10xRed Rose|5xWood, Smug villager,Yes,Housewares,1400
+0,https://dodo.ac/np/images/thumb/d/df/Bunny_Day_Stool_NH_Icon.png/30px-Bunny_Day_Stool_NH_Icon.png, Bunny Day Stool,3xWater Egg, Balloons (Bunny Day) Egg Message Bottle,No,Housewares,2400
+0,https://dodo.ac/np/images/thumb/9/9a/Bunny_Day_Table_NH_Icon.png/30px-Bunny_Day_Table_NH_Icon.png, Bunny Day Table,4xEarth Egg, Balloons (Bunny Day) Egg Message Bottle,No,Housewares,1600
+0,https://dodo.ac/np/images/thumb/e/ed/Bunny_Day_Wardrobe_NH_Icon.png/30px-Bunny_Day_Wardrobe_NH_Icon.png, Bunny Day Wardrobe,4xStone Egg, Balloons (Bunny Day) Egg Message Bottle,No,Housewares,1600
+0,https://dodo.ac/np/images/thumb/9/95/Bunny_Day_Vanity_NH_Icon.png/30px-Bunny_Day_Vanity_NH_Icon.png, Bunny Day Vanity,4xLeaf Egg, Balloons (Bunny Day) Egg Message Bottle,No,Housewares,1600
+0,https://dodo.ac/np/images/thumb/e/e0/Bunny_Day_Bed_NH_Icon.png/30px-Bunny_Day_Bed_NH_Icon.png, Bunny Day Bed,1xEarth Egg|1xStone Egg|1xLeaf Egg|1xWood Egg|1xSky Egg|1xWater Egg, Balloons (Bunny Day) Egg Message Bottle,No,Housewares,2400
+0,https://dodo.ac/np/images/thumb/b/bf/Bunny_Day_Merry_Balloons_NH_Icon.png/30px-Bunny_Day_Merry_Balloons_NH_Icon.png, Bunny Day Merry Balloons,1xEarth Egg|1xLeaf Egg|1xSky Egg, Balloons (Bunny Day) Egg Message Bottle,No,Housewares,1200
+0,https://dodo.ac/np/images/thumb/0/0b/Bunny_Day_Festive_Balloons_NH_Icon.png/30px-Bunny_Day_Festive_Balloons_NH_Icon.png, Bunny Day Festive Balloons,1xStone Egg|1xWood Egg|1xWater Egg, Balloons (Bunny Day) Egg Message Bottle,No,Housewares,1200
+0,https://dodo.ac/np/images/thumb/8/89/Bunny_Day_Arch_NH_Icon.png/30px-Bunny_Day_Arch_NH_Icon.png, Bunny Day Arch,2xEarth Egg|2xStone Egg|2xLeaf Egg|2xWood Egg|2xSky Egg|2xWater Egg, Balloons (Bunny Day) Egg Message Bottle,No,Housewares,4800
+0,https://dodo.ac/np/images/thumb/d/da/Leaf_Campfire_NH_Icon.png/30px-Leaf_Campfire_NH_Icon.png, Leaf Campfire,"3xPinecone|5xClump of Weeds|, 3xTree Branch", Balloons (Autumn),Yes,Housewares,1330
+0,https://dodo.ac/np/images/thumb/7/73/Leaf_Stool_NH_Icon.png/30px-Leaf_Stool_NH_Icon.png, Leaf Stool,3xMaple Leaf|3xWood, Balloons (Maple Leaf Season),Yes,Housewares,1560
+0,https://dodo.ac/np/images/thumb/6/65/Maple-Leaf_Pond_Stone_NH_Icon.png/30px-Maple-Leaf_Pond_Stone_NH_Icon.png, Maple-Leaf Pond Stone,10xStone|3xMaple Leaf, Balloons (Maple Leaf Season),No,Housewares,2700
+0,https://dodo.ac/np/images/thumb/d/dd/Pile_Of_Leaves_NH_Icon.png/30px-Pile_Of_Leaves_NH_Icon.png, Pile of Leaves,3xPinecone|5xClump of Weeds, Balloons (Autumn),Yes,Housewares,1300
+0,https://dodo.ac/np/images/thumb/2/25/Red-Leaf_Pile_NH_Icon.png/30px-Red-Leaf_Pile_NH_Icon.png, Red-Leaf Pile,3xMaple Leaf|4xClump of Weeds, Isabelle| Balloons (Maple Leaf Season),No,Housewares,1280
+0,https://dodo.ac/np/images/thumb/f/f7/Yellow-Leaf_Pile_NH_Icon.png/30px-Yellow-Leaf_Pile_NH_Icon.png, Yellow-Leaf Pile,Acorn|5xClump of Weeds, Balloons (Autumn),No,Housewares,1300
+0,https://dodo.ac/np/images/thumb/1/12/Tree%27s_Bounty_Arch_NH_Icon.png/30px-Tree%27s_Bounty_Arch_NH_Icon.png, Tree’s Bounty Arch,4xPinecone|5xAcorn|5xMaple Leaf|15xTree Branch, Balloons (Maple Leaf Season),Yes,Housewares,5750
+0,https://dodo.ac/np/images/thumb/5/5a/Tree%27s_Bounty_Big_Tree_NH_Icon.png/30px-Tree%27s_Bounty_Big_Tree_NH_Icon.png, Tree’s Bounty Big Tree,5xPinecone|4xAcorn|4xMaple Leaf|8xTree Branch|4xClay, Balloons (Maple Leaf Season),Yes,Housewares,6080
+0,https://dodo.ac/np/images/thumb/5/57/Mush_Lamp_NH_Icon.png/30px-Mush_Lamp_NH_Icon.png, Mush Lamp,1xSkinny Mushroom|5xClay, Balloons (Mushrooming Season),Yes,Housewares,1600
+0,https://dodo.ac/np/images/thumb/5/54/Mush_Log_NH_Icon.png/30px-Mush_Log_NH_Icon.png, Mush Log,2xSkinny Mushroom|, Balloons (Mushrooming Season),Yes,Housewares,1680
+0,https://dodo.ac/np/images/thumb/0/04/Mush_Low_Stool_NH_Icon.png/30px-Mush_Low_Stool_NH_Icon.png, Mush Low Stool,2xRound Mushroom, Balloons (Mushrooming Season),Yes,Housewares,800
+0,https://dodo.ac/np/images/thumb/0/09/Mush_Parasol_NH_Icon.png/30px-Mush_Parasol_NH_Icon.png, Mush Parasol,3xFlat Mushroom, Balloons (Mushrooming Season),Yes,Housewares,1200
+0,https://dodo.ac/np/images/thumb/4/46/Mush_Partition_NH_Icon.png/30px-Mush_Partition_NH_Icon.png, Mush Partition,3xSkinny Mushroom, Balloons (Mushrooming Season),Yes,Housewares,1800
+0,https://dodo.ac/np/images/thumb/6/66/Mush_Table_NH_Icon.png/30px-Mush_Table_NH_Icon.png, Mush Table,2xFlat Mushroom|6xWood, Balloons (Mushrooming Season),Yes,Housewares,1520
+0,https://dodo.ac/np/images/thumb/7/7f/Frozen_Arch_NH_Icon.png/30px-Frozen_Arch_NH_Icon.png, Frozen Arch,1xLarge Snowflake|10xSnowflake,Snowboy (Winter),Yes,Housewares,9000
+0,https://dodo.ac/np/images/thumb/e/ef/Frozen_Bed_NH_Icon.png/30px-Frozen_Bed_NH_Icon.png, Frozen Bed,1xLarge Snowflake|10xSnowflake,Snowboy (Winter),Yes,Housewares,9000
+0,https://dodo.ac/np/images/thumb/d/d8/Frozen_Chair_NH_Icon.png/30px-Frozen_Chair_NH_Icon.png, Frozen Chair,1xLarge Snowflake|3xSnowflake,Snowboy (Winter),Yes,Housewares,6200
+0,https://dodo.ac/np/images/thumb/d/db/Frozen_Counter_NH_Icon.png/30px-Frozen_Counter_NH_Icon.png, Frozen Counter,1xLarge Snowflake|5xSnowflake,Snowboy (Winter),Yes,Housewares,7000
+0,https://dodo.ac/np/images/thumb/e/e1/Frozen_Partition_NH_Icon.png/30px-Frozen_Partition_NH_Icon.png, Frozen Partition,1xLarge Snowflake|6xSnowflake,Snowboy (Winter),Yes,Housewares,7400
+0,https://dodo.ac/np/images/thumb/7/78/Frozen_Pillar_NH_Icon.png/30px-Frozen_Pillar_NH_Icon.png, Frozen Pillar,1xLarge Snowflake|4xSnowflake,Snowboy (Winter),Yes,Housewares,6200
+0,https://dodo.ac/np/images/thumb/8/82/Frozen_Sculpture_NH_Icon.png/30px-Frozen_Sculpture_NH_Icon.png, Frozen Sculpture,1xLarge Snowflake|4xSnowflake,Snowboy (Winter),Yes,Housewares,6600
+0,https://dodo.ac/np/images/thumb/b/bc/Frozen_Table_NH_Icon.png/30px-Frozen_Table_NH_Icon.png, Frozen Table,1xLarge Snowflake|8xSnowflake,Snowboy (Winter),Yes,Housewares,8200
+0,https://dodo.ac/np/images/thumb/1/18/Frozen_Tree_NH_Icon.png/30px-Frozen_Tree_NH_Icon.png, Frozen Tree,1xLarge Snowflake|8xSnowflake,Snowboy (Winter),Yes,Housewares,8200
+0,https://dodo.ac/np/images/thumb/3/37/Three-Tiered_Snowperson_NH_Icon.png/30px-Three-Tiered_Snowperson_NH_Icon.png, Three-Tiered Snowperson,1xLarge Snowflake|6xSnowflake|2xTree Branch,Snowboy (Winter),Yes,Housewares,7420
+0,https://dodo.ac/np/images/thumb/1/10/Festive_Tree_NH_Icon.png/30px-Festive_Tree_NH_Icon.png, Festive Tree,3xRed Ornament|3xBlue Ornament|3xGold Ornament|5xWood, Balloons (Festive Season),Yes,Housewares,1400
+0,https://dodo.ac/np/images/thumb/7/78/Big_Festive_Tree_NH_Icon.png/30px-Big_Festive_Tree_NH_Icon.png, Big Festive Tree,6xRed Ornament|6xBlue Ornament|4xGold Ornament|5xWood|5xClay, Balloons (Festive Season),Yes,Housewares,3200
+0,https://dodo.ac/np/images/thumb/9/95/Illuminated_Tree_NH_Icon.png/30px-Illuminated_Tree_NH_Icon.png, Illuminated Tree,3xRed Ornament|4xGold Ornament|3xIron Nugget, Balloons (Festive Season),Yes,Housewares,6700
+0,https://dodo.ac/np/images/thumb/c/c1/Illuminated_Present_NH_Icon.png/30px-Illuminated_Present_NH_Icon.png, Illuminated Present,3xRed Ornament|4xGold Ornament|3xIron Nugget, Balloons (Festive Season),Yes,Housewares,2950
+0,https://dodo.ac/np/images/thumb/2/2a/Illuminated_Reindeer_NH_Icon.png/30px-Illuminated_Reindeer_NH_Icon.png, Illuminated Reindeer,6xGold Ornament|5xIron Nugget, Balloons (Festive Season),Yes,Housewares,4350
+0,https://dodo.ac/np/images/thumb/8/88/Illuminated_Snowflakes_NH_Icon.png/30px-Illuminated_Snowflakes_NH_Icon.png, Illuminated Snowflakes,9xBlue Ornament|3xGold Nugget, Balloons (Festive Season),Yes,Housewares,3150
+0,https://dodo.ac/np/images/thumb/a/a3/Sleigh_NH_Icon.png/30px-Sleigh_NH_Icon.png, Sleigh,8xWood, Cranky villager,Yes,Housewares,960
+0,https://dodo.ac/np/images/thumb/d/d6/Firewood_NH_Icon.png/30px-Firewood_NH_Icon.png, Firewood,8xWood, Jock villager,No,Miscellaneous,960
+0,https://dodo.ac/np/images/thumb/6/60/Wooden-Block_Toy_NH_Icon.png/30px-Wooden-Block_Toy_NH_Icon.png, Wooden-Block Toy,3xSoftwood,DIY for Beginners Pack (Nook's Cranny),Yes,Miscellaneous,360
+0,https://dodo.ac/np/images/thumb/2/29/Wooden_Table_Mirror_NH_Icon.png/30px-Wooden_Table_Mirror_NH_Icon.png, Wooden Table Mirror,3xWood|1xIron Nugget, Sisterly villager,Yes,Miscellaneous,1110
+0,https://dodo.ac/np/images/thumb/8/8e/Wooden_Toolbox_NH_Icon.png/30px-Wooden_Toolbox_NH_Icon.png, Wooden Toolbox,4xSoftwood|2xIron Nugget, Normal villager,Yes,Miscellaneous,1960
+0,https://dodo.ac/np/images/thumb/1/13/Ringtoss_NH_Icon.png/30px-Ringtoss_NH_Icon.png, Ringtoss,2xWood|2xSoftwood,Test Your DIY Skills Pack (Nook's Cranny),Yes,Miscellaneous,480
+0,https://dodo.ac/np/images/thumb/1/16/Matryoshka_NH_Icon.png/30px-Matryoshka_NH_Icon.png, Matryoshka,5xSoftwood, Lazy villager,Yes,Miscellaneous,600
+0,https://dodo.ac/np/images/thumb/5/59/Wooden_Fish_NH_Icon.png/30px-Wooden_Fish_NH_Icon.png, Wooden Fish,3xWood,Wildest Dreams DIY Pack (Nook's Cranny),Yes,Miscellaneous,360
+0,https://dodo.ac/np/images/thumb/8/8b/Old-Fashioned_Washtub_NH_Icon.png/30px-Old-Fashioned_Washtub_NH_Icon.png, Old-Fashioned Washtub,3xSoftwood,DIY for Beginners Pack (Nook's Cranny),No,Miscellaneous,360
+0,https://dodo.ac/np/images/thumb/c/cf/Decoy_Duck_NH_Icon.png/30px-Decoy_Duck_NH_Icon.png, Decoy Duck,4xSoftwood, Smug villager,Yes,Miscellaneous,480
+0,https://dodo.ac/np/images/thumb/9/9c/Recycled-Can_Thumb_Piano_NH_Icon.png/30px-Recycled-Can_Thumb_Piano_NH_Icon.png, Recycled-Can Thumb Piano,1xEmpty Can|1xWood|1xIron Nugget,Fishing up an Empty Can,Yes,Miscellaneous,890
+0,https://dodo.ac/np/images/thumb/f/fc/Trash_Bags_NH_Icon.png/30px-Trash_Bags_NH_Icon.png, Trash Bags,1xEmpty Can|1xBoot|1xOld Tire,Fishing up 3 Trash items,Yes,Miscellaneous,60
+0,https://dodo.ac/np/images/thumb/2/26/Modeling_Clay_NH_Icon.png/30px-Modeling_Clay_NH_Icon.png, Modeling Clay,2xClay, Cranky villager,Yes,Miscellaneous,400
+0,https://dodo.ac/np/images/thumb/1/11/Kettlebell_NH_Icon.png/30px-Kettlebell_NH_Icon.png, Kettlebell,5xIron Nugget, Jock villager,Yes,Miscellaneous,3750
+0,https://dodo.ac/np/images/thumb/7/74/Document_Stack_NH_Icon.png/30px-Document_Stack_NH_Icon.png, Document Stack,, Nook's Cranny| Smug villager,Yes,Miscellaneous,400
+0,https://dodo.ac/np/images/thumb/8/8f/Magazine_Rack_NH_Icon.png/30px-Magazine_Rack_NH_Icon.png, Magazine Rack,3xMagazine|4xWood, Peppy villager,Yes,Miscellaneous,690
+0,https://dodo.ac/np/images/thumb/a/a8/Stacked_Magazines_NH_Icon.png/30px-Stacked_Magazines_NH_Icon.png, Stacked Magazines,6xMagazine, Peppy villager,Yes,Miscellaneous,630
+0,https://dodo.ac/np/images/thumb/0/0b/Stack_Of_Books_NH_Icon.png/30px-Stack_Of_Books_NH_Icon.png, Stack of Books,5xBook, Lazy villager,Yes,Miscellaneous,725
+0,https://dodo.ac/np/images/thumb/7/74/Ukelele_NH_Icon.png/30px-Ukelele_NH_Icon.png, Ukulele,5xHardwood, Smug villager,Yes,Miscellaneous,600
+0,https://dodo.ac/np/images/thumb/2/25/Aroma_Pot_NH_Icon.png/30px-Aroma_Pot_NH_Icon.png, Aroma Pot,3xClay, Snooty villager,Yes,Miscellaneous,600
+0,https://dodo.ac/np/images/thumb/2/29/Classic_Pitcher_NH_Icon.png/30px-Classic_Pitcher_NH_Icon.png, Classic Pitcher,4xClay, Tom Nook (villager home development)| Snooty villager,Yes,Miscellaneous,800
+0,https://dodo.ac/np/images/thumb/f/fc/Pot_NH_Icon.png/30px-Pot_NH_Icon.png, Pot,5xClay, Tom Nook (villager home development)| Cranky villager,Yes,Miscellaneous,1000
+0,https://dodo.ac/np/images/thumb/6/64/Unglazed_Dish_Set_NH_Icon.png/30px-Unglazed_Dish_Set_NH_Icon.png, Unglazed Dish Set,3xClay, Snooty villager,Yes,Miscellaneous,600
+0,https://dodo.ac/np/images/thumb/1/14/Frying_Pan_NH_Icon.png/30px-Frying_Pan_NH_Icon.png, Frying Pan,2xIron Nugget,DIY for Beginners Pack (Nook's Cranny),Yes,Miscellaneous,1500
+0,https://dodo.ac/np/images/thumb/9/92/Cutting_Board_NH_Icon.png/30px-Cutting_Board_NH_Icon.png, Cutting Board,2xHardwood|1xIron Nugget, Normal villager,Yes,Miscellaneous,990
+0,https://dodo.ac/np/images/thumb/c/c9/Infused-Water_Dispenser_NH_Icon.png/30px-Infused-Water_Dispenser_NH_Icon.png, Infused-Water Dispenser,2xApple|2xCherry|2xOrange|2xPeach|2xCoconut, Cranky villager,No,Miscellaneous,3000
+0,https://dodo.ac/np/images/thumb/d/d8/Gold_Bars_NH_Icon.png/30px-Gold_Bars_NH_Icon.png, Gold Bars,3xGold Nugget, Snooty villager,No,Miscellaneous,30000
+0,https://dodo.ac/np/images/thumb/d/d6/Golden_Arowana_Model_NH_Icon.png/30px-Golden_Arowana_Model_NH_Icon.png, Golden Arowana Model,3xGold Nugget, Lazy villager,No,Miscellaneous,30000
+0,https://dodo.ac/np/images/thumb/7/70/Golden_Dung_Beetle_NH_Icon.png/30px-Golden_Dung_Beetle_NH_Icon.png, Golden Dung Beetle,3xGold Nugget, Lazy villager,No,Miscellaneous,30000
+0,https://dodo.ac/np/images/thumb/3/3f/Golden_Candlestick_NH_Icon.png/30px-Golden_Candlestick_NH_Icon.png, Golden Candlestick,2xGold Nugget, Smug villager,No,Miscellaneous,20000
+0,https://dodo.ac/np/images/thumb/f/f9/Golden_Dishes_NH_Icon.png/30px-Golden_Dishes_NH_Icon.png, Golden Dishes,1xGold Nugget, Snooty villager,No,Miscellaneous,10000
+0,https://dodo.ac/np/images/thumb/d/dd/Lucky_Gold_Cat_NH_Icon.png/30px-Lucky_Gold_Cat_NH_Icon.png, Lucky Gold Cat,2xGold Nugget|, Snooty villager,No,Miscellaneous,21675
+0,https://dodo.ac/np/images/thumb/5/5a/Libra_Scale_NH_Icon.png/30px-Libra_Scale_NH_Icon.png, Libra Scale,3xStar Fragment|2xLibra Fragment|2xGold Nugget, Celeste,No,Miscellaneous,21750
+0,https://dodo.ac/np/images/thumb/e/ec/Scorpio_Lamp_NH_Icon.png/30px-Scorpio_Lamp_NH_Icon.png, Scorpio Lamp,3xStar Fragment|2xScorpio Fragment||5xStone, Celeste,No,Miscellaneous,22125
+0,https://dodo.ac/np/images/thumb/a/a2/Nova_Light_NH_Icon.png/30px-Nova_Light_NH_Icon.png, Nova Light,5xStar Fragment, Celeste,Yes,Miscellaneous,2500
+0,https://dodo.ac/np/images/thumb/3/39/Star_Clock_NH_Icon.png/30px-Star_Clock_NH_Icon.png, Star Clock,3xStar Fragment|1xIron Nugget, Celeste,Yes,Miscellaneous,2250
+0,https://dodo.ac/np/images/thumb/8/8d/Succulent_Plant_NH_Icon.png/30px-Succulent_Plant_NH_Icon.png, Succulent Plant,10xClump of Weeds|1xEmpty Can,Fishing up an Empty Can,No,Miscellaneous,220
+0,https://dodo.ac/np/images/thumb/4/45/Terrarium_NH_Icon.png/30px-Terrarium_NH_Icon.png, Terrarium,12xClump of Weeds|, Normal villager,Yes,Miscellaneous,1740
+0,https://dodo.ac/np/images/thumb/d/d4/Cherry_Speakers_NH_Icon.png/30px-Cherry_Speakers_NH_Icon.png, Cherry Speakers,10xCherry|2xIron Nugget, Peppy villager,Yes,Miscellaneous,3500
+0,https://dodo.ac/np/images/thumb/f/f5/Coconut_Juice_NH_Icon.png/30px-Coconut_Juice_NH_Icon.png, Coconut Juice,1xCoconut, Snooty villager,No,Miscellaneous,500
+0,https://dodo.ac/np/images/thumb/9/92/Fruit_Basket_NH_Icon.png/30px-Fruit_Basket_NH_Icon.png, Fruit Basket,2xApple|1xPear|3xCherry|3xOrange|1xPeach, Cranky villager,No,Miscellaneous,1000
+0,https://dodo.ac/np/images/thumb/1/12/Peach_Surprise_Box_NH_Icon.png/30px-Peach_Surprise_Box_NH_Icon.png, Peach Surprise Box,10xPeach|4xSoftwood, Normal villager,Yes,Miscellaneous,2480
+0,https://dodo.ac/np/images/thumb/0/00/Bamboo_Candleholder_NH_Icon.png/30px-Bamboo_Candleholder_NH_Icon.png, Bamboo Candleholder,3xBamboo Piece|2xClay, Snooty villager,Yes,Miscellaneous,880
+0,https://dodo.ac/np/images/thumb/4/4f/Bamboo_Drum_NH_Icon.png/30px-Bamboo_Drum_NH_Icon.png, Bamboo Drum,3xBamboo Piece|2xSoftwood, Jock villager,Yes,Miscellaneous,720
+0,https://dodo.ac/np/images/thumb/c/c7/Bamboo_Lunch_Box_NH_Icon.png/30px-Bamboo_Lunch_Box_NH_Icon.png, Bamboo Lunch Box,4xBamboo Piece, Snooty villager,Yes,Miscellaneous,640
+0,https://dodo.ac/np/images/thumb/5/5a/Bamboo_Sphere_NH_Icon.png/30px-Bamboo_Sphere_NH_Icon.png, Bamboo Sphere,3xBamboo Piece, Normal villager,Yes,Miscellaneous,480
+0,https://dodo.ac/np/images/thumb/f/fc/Bamboo-Shoot_Lamp_NH_Icon.png/30px-Bamboo-Shoot_Lamp_NH_Icon.png, Bamboo-Shoot Lamp,4xYoung Spring Bamboo|5xBamboo|4xClay, Balloons (Spring),No,Miscellaneous,4900
+0,https://dodo.ac/np/images/thumb/7/73/Steamer-Basket_Set_NH_Icon.png/30px-Steamer-Basket_Set_NH_Icon.png, Steamer-Basket Set,6xYoung Spring Bamboo, Balloons (Spring),No,Miscellaneous,2400
+0,https://dodo.ac/np/images/thumb/b/bf/Cherry-Blossom_Bonsai_NH_Icon.png/30px-Cherry-Blossom_Bonsai_NH_Icon.png, Cherry-Blossom Bonsai,6xCherry-Blossom Petal|2xHardwood|3xClump of Weeds|3xClay, Balloons (Cherry Blossom Festival),No,Miscellaneous,3300
+0,https://dodo.ac/np/images/thumb/1/1d/Shell_Speaker_NH_Icon.png/30px-Shell_Speaker_NH_Icon.png, Shell Speaker,3xConch|2xIron Nugget, Sisterly villager,Yes,Miscellaneous,220
+0,https://dodo.ac/np/images/thumb/4/4a/Shell_Lamp_NH_Icon.png/30px-Shell_Lamp_NH_Icon.png, Shell Lamp,2xGiant Clam|3xClay, Sisterly villager,Yes,Miscellaneous,4200
+0,https://dodo.ac/np/images/thumb/1/13/Hyacinth_Lamp_NH_Icon.png/30px-Hyacinth_Lamp_NH_Icon.png, Hyacinth Lamp,5xPurple Hyacinth|3xClay, Sisterly villager,Yes,Miscellaneous,3000
+0,https://dodo.ac/np/images/thumb/d/d0/Windflower_Fan_NH_Icon.png/30px-Windflower_Fan_NH_Icon.png, Windflower Fan,3xRed Windflower|2xIron Nugget, Lazy villager,Yes,Miscellaneous,1740
+0,https://dodo.ac/np/images/thumb/9/98/Bunny_Day_Lamp_NH_Icon.png/30px-Bunny_Day_Lamp_NH_Icon.png, Bunny Day Lamp,4xWood Egg, Balloons ((Bunny Day)) Egg Message Bottle,No,Miscellaneous,1600
+0,https://dodo.ac/np/images/thumb/6/66/Wobbling_Zipper_Toy_NH_Icon.png/30px-Wobbling_Zipper_Toy_NH_Icon.png, Wobbling Zipper Toy,4xEarth Egg|4xStone Egg|4xLeaf Egg|4xWood Egg|4xSky Egg|4xWater Egg, Zipper (after crafting all Bunny Day recipes),No,Miscellaneous,9600
+0,https://dodo.ac/np/images/thumb/3/33/Pine_Bonsai_Tree_NH_Icon.png/30px-Pine_Bonsai_Tree_NH_Icon.png, Pine Bonsai Tree,8xPinecone|5xClay, Balloons (Autumn),No,Miscellaneous,4200
+0,https://dodo.ac/np/images/thumb/a/a1/Traditional_Balancing_Toy_NH_Icon.png/30px-Traditional_Balancing_Toy_NH_Icon.png, Traditional Balancing Toy,4xAcorn|2xHardwood, Balloons (Autumn),No,Miscellaneous,1840
+0,https://dodo.ac/np/images/thumb/7/74/Tree%27s_Bounty_Lamp_NH_Icon.png/30px-Tree%27s_Bounty_Lamp_NH_Icon.png, Tree’s Bounty Lamp,6xAcorn|4xClay, Balloons (Autumn),Yes,Miscellaneous,3200
+0,https://dodo.ac/np/images/thumb/1/11/Frozen-Treat_Set_NH_Icon.png/30px-Frozen-Treat_Set_NH_Icon.png, Frozen-Treat Set,1xLarge Snowflake|1xSnowflake,Snowboy (Winter),Yes,Miscellaneous,5400
+0,https://dodo.ac/np/images/thumb/6/62/Festive_Top_Set_NH_Icon.png/30px-Festive_Top_Set_NH_Icon.png, Festive Top Set,2xGold Ornament|1xHardwood, Balloons (Festive Season),No,Miscellaneous,320
+0,https://dodo.ac/np/images/thumb/7/7d/Holiday_Candle_NH_Icon.png/30px-Holiday_Candle_NH_Icon.png, Holiday Candle,5xRed Ornament|5xClump of Weeds, Balloons (Festive Season),Yes,Miscellaneous,600
+0,https://dodo.ac/np/images/thumb/1/15/Tabletop_Festive_Tree_NH_Icon.png/30px-Tabletop_Festive_Tree_NH_Icon.png, Tabletop Festive Tree,5xGold Ornament|3xTree Branch|2xClay, Balloons (Festive Season),No,Miscellaneous,930
+0,https://dodo.ac/np/images/thumb/c/cf/Bone_Doorplate_NH_Icon.png/30px-Bone_Doorplate_NH_Icon.png, Bone Doorplate,3xSoftwood, Lazy villager,Yes,Wall-Mounted,360
+0,https://dodo.ac/np/images/thumb/3/39/Boomerang_NH_Icon.png/30px-Boomerang_NH_Icon.png, Boomerang,3xHardwood, Lazy villager,Yes,Wall-Mounted,360
+0,https://dodo.ac/np/images/thumb/e/e5/Paw-Print_Doorplate_NH_Icon.png/30px-Paw-Print_Doorplate_NH_Icon.png, Paw-Print Doorplate,3xWood, Peppy villager,Yes,Wall-Mounted,360
+0,https://dodo.ac/np/images/thumb/7/76/Deer_Decoration_NH_Icon.png/30px-Deer_Decoration_NH_Icon.png, Deer Decoration,8xSoftwood, Lazy villager,Yes,Wall-Mounted,960
+0,https://dodo.ac/np/images/thumb/b/b2/Log_Wall-Mounted_Clock_NH_Icon.png/30px-Log_Wall-Mounted_Clock_NH_Icon.png, Log Wall-Mounted Clock,2xHardwood|1xIron Nugget, Lazy villager,Yes,Wall-Mounted,990
+0,https://dodo.ac/np/images/thumb/8/8a/Timber_Doorplate_NH_Icon.png/30px-Timber_Doorplate_NH_Icon.png, Timber Doorplate,2xWood|1xPink Rose, Snooty villager,Yes,Wall-Mounted,400
+0,https://dodo.ac/np/images/thumb/8/84/Tree_Branch_Wreath_NH_Icon.png/30px-Tree_Branch_Wreath_NH_Icon.png, Tree Branch Wreath,10xTree Branch, Sisterly villager,No,Wall-Mounted,100
+0,https://dodo.ac/np/images/thumb/2/24/Wooden-Block_Wall_Clock_NH_Icon.png/30px-Wooden-Block_Wall_Clock_NH_Icon.png, Wooden-Block Wall Clock,|2xSoftwood|1xIron Nugget, Peppy villager,Yes,Wall-Mounted,1350
+0,https://dodo.ac/np/images/thumb/4/41/Wooden-Plank_Sign_NH_Icon.png/30px-Wooden-Plank_Sign_NH_Icon.png, Wooden-Plank Sign,5xHardwood, Cranky villager,Yes,Wall-Mounted,600
+0,https://dodo.ac/np/images/thumb/3/34/Crest_Doorplate_NH_Icon.png/30px-Crest_Doorplate_NH_Icon.png, Crest Doorplate,4xIron Nugget, Smug villager,Yes,Wall-Mounted,3000
+0,https://dodo.ac/np/images/thumb/5/55/Iron_Doorplate_NH_Icon.png/30px-Iron_Doorplate_NH_Icon.png, Iron Doorplate,2xIron Nugget, Sisterly villager,Yes,Wall-Mounted,1500
+0,https://dodo.ac/np/images/thumb/2/21/Iron_Wall_Lamp_NH_Icon.png/30px-Iron_Wall_Lamp_NH_Icon.png, Iron Wall Lamp,4xIron Nugget|2xClay,Wildest Dreams DIY Pack (Nook's Cranny),Yes,Wall-Mounted,3400
+0,https://dodo.ac/np/images/thumb/2/2a/Iron_Wall_Rack_NH_Icon.png/30px-Iron_Wall_Rack_NH_Icon.png, Iron Wall Rack,3xIron Nugget|1xClay, Smug villager,Yes,Wall-Mounted,2450
+0,https://dodo.ac/np/images/thumb/d/d4/Ironwood_Clock_NH_Icon.png/30px-Ironwood_Clock_NH_Icon.png, Ironwood Clock,2xWood|2xIron Nugget, Smug villager,Yes,Wall-Mounted,1740
+0,https://dodo.ac/np/images/thumb/1/10/Key_Holder_NH_Icon.png/30px-Key_Holder_NH_Icon.png, Key Holder,3xWood|1xIron Nugget, Sisterly villager,Yes,Wall-Mounted,1110
+0,https://dodo.ac/np/images/thumb/c/cb/Hanging_Terrarium_NH_Icon.png/30px-Hanging_Terrarium_NH_Icon.png, Hanging Terrarium,12xClump of Weeds|4xIron Nugget, Peppy villager,Yes,Wall-Mounted,3240
+0,https://dodo.ac/np/images/thumb/7/7f/Potted_Ivy_NH_Icon.png/30px-Potted_Ivy_NH_Icon.png, Potted Ivy,5xClump of Weeds|5xClay,Test Your DIY Skills Pack (Nook's Cranny),Yes,Wall-Mounted,1100
+0,https://dodo.ac/np/images/thumb/4/42/Cherry_Lamp_NH_Icon.png/30px-Cherry_Lamp_NH_Icon.png, Cherry Lamp,8xCherry|2xClay, Peppy villager,Yes,Wall-Mounted,2400
+0,https://dodo.ac/np/images/thumb/e/ee/Coconut_Wall_Planter_NH_Icon.png/30px-Coconut_Wall_Planter_NH_Icon.png, Coconut Wall Planter,1xCoconut|5xClump of Weeds, Snooty villager,No,Wall-Mounted,600
+0,https://dodo.ac/np/images/thumb/6/6c/Orange_Wall-Mounted_Clock_NH_Icon.png/30px-Orange_Wall-Mounted_Clock_NH_Icon.png, Orange Wall-Mounted Clock,10xOrange|2xWood, Lazy villager,Yes,Wall-Mounted,2240
+0,https://dodo.ac/np/images/thumb/2/29/Fruit_Wreath_NH_Icon.png/30px-Fruit_Wreath_NH_Icon.png, Fruit Wreath,2xApple|1xPear|3xCherry|3xOrange|1xPeach, Cranky villager,No,Wall-Mounted,2000
+0,https://dodo.ac/np/images/thumb/d/d2/Golden_Gears_NH_Icon.png/30px-Golden_Gears_NH_Icon.png, Golden Gears,1xGold Nugget|3xIron Nugget, Smug villager,No,Wall-Mounted,11125
+0,https://dodo.ac/np/images/thumb/a/ad/Fossil_Doorplate_NH_Icon.png/30px-Fossil_Doorplate_NH_Icon.png, Fossil Doorplate,1xFossil|2xStone, Jock villager,Yes,Wall-Mounted,500
+0,https://dodo.ac/np/images/thumb/0/0d/Leo_Sculpture_NH_Icon.png/30px-Leo_Sculpture_NH_Icon.png, Leo Sculpture,3xStar Fragment|2xLeo Fragment|2xGold Nugget|3xStone, Celeste,No,Wall-Mounted,21975
+0,https://dodo.ac/np/images/thumb/4/40/Sagittarius_Arrow_NH_Icon.png/30px-Sagittarius_Arrow_NH_Icon.png, Sagittarius Arrow,3xStar Fragment|2xSagittarius Fragment|2xGold Nugget, Celeste,No,Wall-Mounted,21750
+0,https://dodo.ac/np/images/thumb/1/16/Starry_Garland_NH_Icon.png/30px-Starry_Garland_NH_Icon.png, Starry Garland,10xStar Fragment, Celeste,Yes,Wall-Mounted,5000
+0,https://dodo.ac/np/images/thumb/6/6f/Cosmos_Wreath_NH_Icon.png/30px-Cosmos_Wreath_NH_Icon.png, Cosmos Wreath,3xYellow Cosmos|3xWhite Cosmos|3xRed Cosmos,All villagers,No,Wall-Mounted,720
+0,https://dodo.ac/np/images/thumb/c/cf/Chic_Cosmos_Wreath_NH_Icon.png/30px-Chic_Cosmos_Wreath_NH_Icon.png, Chic Cosmos Wreath,10xBlack Cosmos,All villagers,No,Wall-Mounted,4800
+0,https://dodo.ac/np/images/thumb/5/5f/Pretty_Cosmos_Wreath_NH_Icon.png/30px-Pretty_Cosmos_Wreath_NH_Icon.png, Pretty Cosmos Wreath,3xOrange Cosmos|3xPink Cosmos|3xRed Cosmos,All villagers,No,Wall-Mounted,1200
+0,https://dodo.ac/np/images/thumb/b/bc/Hyacinth_Wreath_NH_Icon.png/30px-Hyacinth_Wreath_NH_Icon.png, Hyacinth Wreath,3xWhite Hyacinth|3xRed Hyacinth|3xYellow Hyacinth,All villagers,No,Wall-Mounted,720
+0,https://dodo.ac/np/images/thumb/e/e5/Purple_Hyacinth_Wreath_NH_Icon.png/30px-Purple_Hyacinth_Wreath_NH_Icon.png, Purple Hyacinth Wreath,10xPurple Hyacinth,All villagers,No,Wall-Mounted,4800
+0,https://dodo.ac/np/images/thumb/a/a8/Cool_Hyacinth_Wreath_NH_Icon.png/30px-Cool_Hyacinth_Wreath_NH_Icon.png, Cool Hyacinth Wreath,3xOrange Hyacinth|3xBlue Hyacinth|3xPink Hyacinth,All villagers,No,Wall-Mounted,1440
+0,https://dodo.ac/np/images/thumb/0/01/Lily_Wreath_NH_Icon.png/30px-Lily_Wreath_NH_Icon.png, Lily Wreath,3xWhite Lily|3xRed Lilly|3xYellow Lily,All villagers,No,Wall-Mounted,720
+0,https://dodo.ac/np/images/thumb/3/30/Dark_Lily_Wreath_NH_Icon.png/30px-Dark_Lily_Wreath_NH_Icon.png, Dark Lily Wreath,10xBlack Lily,All villagers,No,Wall-Mounted,1600
+0,https://dodo.ac/np/images/thumb/9/9b/Fancy_Lily_Wreath_NH_Icon.png/30px-Fancy_Lily_Wreath_NH_Icon.png, Fancy Lily Wreath,3xOrange Lily|3xPink Lily|3xYellow Lily,All villagers,No,Wall-Mounted,1200
+0,https://dodo.ac/np/images/thumb/4/45/Mum_Wreath_NH_Icon.png/30px-Mum_Wreath_NH_Icon.png, Mum Wreath,3xWhite Mum|3xYellow Mum|3xRed Mum,All villagers,No,Wall-Mounted,720
+0,https://dodo.ac/np/images/thumb/d/d5/Fancy_Mum_Wreath_NH_Icon.png/30px-Fancy_Mum_Wreath_NH_Icon.png, Fancy Mum Wreath,3xPink Mum|3xPurple Mum|3xRed Mum,All villagers,No,Wall-Mounted,1200
+0,https://dodo.ac/np/images/thumb/d/df/Natural_Mum_Wreath_NH_Icon.png/30px-Natural_Mum_Wreath_NH_Icon.png, Natural Mum Wreath,10xGreen Mum,All villagers,No,Wall-Mounted,4800
+0,https://dodo.ac/np/images/thumb/3/38/Pansy_Wreath_NH_Icon.png/30px-Pansy_Wreath_NH_Icon.png, Pansy Wreath,3xYellow Pansy|3xWhite Pansy|3xRed Pansy,All villagers,No,Wall-Mounted,720
+0,https://dodo.ac/np/images/thumb/d/de/Cool_Pansy_Wreath_NH_Icon.png/30px-Cool_Pansy_Wreath_NH_Icon.png, Cool Pansy Wreath,10xPurple Pansy,All villagers,No,Wall-Mounted,4800
+0,https://dodo.ac/np/images/thumb/7/70/Snazzy_Pansy_Wreath_NH_Icon.png/30px-Snazzy_Pansy_Wreath_NH_Icon.png, Snazzy Pansy Wreath,3xOrange Pansy|3xBlue Pansy|3xYellow Pansy,All villagers,No,Wall-Mounted,1200
+0,https://dodo.ac/np/images/thumb/f/f4/Rose_Wreath_NH_Icon.png/30px-Rose_Wreath_NH_Icon.png, Rose Wreath,3xRed Rose|3xWhite Rose|3xYellow Rose,All villagers,No,Wall-Mounted,720
+0,https://dodo.ac/np/images/thumb/7/72/Dark_Rose_Wreath_NH_Icon.png/30px-Dark_Rose_Wreath_NH_Icon.png, Dark Rose Wreath,3xBlack Rose|6xPurple Rose,All villagers,No,Wall-Mounted,4320
+0,https://dodo.ac/np/images/thumb/5/5d/Blue_Rose_Wreath_NH_Icon.png/30px-Blue_Rose_Wreath_NH_Icon.png, Blue Rose Wreath,10xBlue Rose,All villagers,No,Wall-Mounted,20000
+0,https://dodo.ac/np/images/thumb/7/76/Gold_Rose_Wreath_NH_Icon.png/30px-Gold_Rose_Wreath_NH_Icon.png, Gold Rose Wreath,10xGold Rose,All villagers,No,Wall-Mounted,20000
+0,https://dodo.ac/np/images/thumb/0/0b/Fancy_Rose_Wreath_NH_Icon.png/30px-Fancy_Rose_Wreath_NH_Icon.png, Fancy Rose Wreath,3xOrange Rose|3xPink Rose|3xYellow Rose,All villagers,No,Wall-Mounted,1200
+0,https://dodo.ac/np/images/thumb/8/8f/Tulip_Wreath_NH_Icon.png/30px-Tulip_Wreath_NH_Icon.png, Tulip Wreath,3xRed Tulip|3xYellow Tulip|3xWhite Tulip,All villagers,No,Wall-Mounted,720
+0,https://dodo.ac/np/images/thumb/6/61/Dark_Tulip_Wreath_NH_Icon.png/30px-Dark_Tulip_Wreath_NH_Icon.png, Dark Tulip Wreath,10xRed Tulip,All villagers,No,Wall-Mounted,1600
+0,https://dodo.ac/np/images/thumb/f/f6/Pretty_Tulip_Wreath_NH_Icon.png/30px-Pretty_Tulip_Wreath_NH_Icon.png, Pretty Tulip Wreath,3xRed Tulip|3xRed Tulip|3xRed Tulip,All villagers,No,Wall-Mounted,2400
+0,https://dodo.ac/np/images/thumb/8/81/Windflower_Wreath_NH_Icon.png/30px-Windflower_Wreath_NH_Icon.png, Windflower Wreath,3xRed Windflower|3xWhite Windflower|3xOrange Windflower,All villagers,No,Wall-Mounted,720
+0,https://dodo.ac/np/images/thumb/a/a0/Chic_Windflower_Wreath_NH_Icon.png/30px-Chic_Windflower_Wreath_NH_Icon.png, Chic Windflower Wreath,10xPurple Windflower,All villagers,No,Wall-Mounted,4800
+0,https://dodo.ac/np/images/thumb/8/8a/Cool_Windflower_Wreath_NH_Icon.png/30px-Cool_Windflower_Wreath_NH_Icon.png, Cool Windflower Wreath,3xBlue Windflower|3xPink Windflower|3xWhite Windflower,All villagers,No,Wall-Mounted,1200
+0,https://dodo.ac/np/images/thumb/9/9b/Floral_Swag_NH_Icon.png/30px-Floral_Swag_NH_Icon.png, Floral Swag,10xClump of Weeds, Normal villager,Yes,Wall-Mounted,200
+0,https://dodo.ac/np/images/thumb/a/a1/Bunny_Day_Wall_Clock_NH_Icon.png/30px-Bunny_Day_Wall_Clock_NH_Icon.png, Bunny Day Wall Clock,3xSky Egg, Balloons (Bunny Day) Egg Message Bottle,No,Wall-Mounted,1200
+0,https://dodo.ac/np/images/thumb/f/fa/Bunny_Day_Glowy_Garland_NH_Icon.png/30px-Bunny_Day_Glowy_Garland_NH_Icon.png, Bunny Day Glowy Garland,1xEarth Egg|1xStone Egg|1xLeaf Egg|1xWood Egg|1xSky Egg|1xWater Egg, Balloons (Bunny Day) Egg Message Bottle,No,Wall-Mounted,2400
+0,https://dodo.ac/np/images/thumb/d/dd/Bunny_Day_Wreath_NH_Icon.png/30px-Bunny_Day_Wreath_NH_Icon.png, Bunny Day Wreath,1xEarth Egg|1xStone Egg|1xLeaf Egg|1xWood Egg|1xSky Egg|1xWater Egg, Balloons (Bunny Day) Egg Message Bottle,No,Wall-Mounted,2400
+0,https://dodo.ac/np/images/thumb/7/7b/Bamboo_Wall_Decoration_NH_Icon.png/30px-Bamboo_Wall_Decoration_NH_Icon.png, Bamboo Wall Decoration,1xBamboo Piece, Jock villager,Yes,Wall-Mounted,160
+0,https://dodo.ac/np/images/thumb/9/96/Cherry-Blossom_Clock_NH_Icon.png/30px-Cherry-Blossom_Clock_NH_Icon.png, Cherry-Blossom Clock,5xCherry-Blossom Petal|1xIron Nugget, Balloons (Cherry Blossom Festival),Yes,Wall-Mounted,2750
+0,https://dodo.ac/np/images/thumb/b/b7/Shell_Wreath_NH_Icon.png/30px-Shell_Wreath_NH_Icon.png, Shell Wreath,1xSummer Shell|1xSea Snail|1xSand Dollars|1xCoral|1xGiant Clam|1xCowrie, Balloons (Summer),No,Wall-Mounted,4720
+0,https://dodo.ac/np/images/thumb/2/2f/Mushroom_Wreath_NH_Icon.png/30px-Mushroom_Wreath_NH_Icon.png, Mushroom Wreath,10xTree Branch|1xRound Mushroom|1xSkinny Mushroom|1xFlat Mushroom, Isabelle| Balloons (Mushrooming Season),No,Wall-Mounted,1500
+0,https://dodo.ac/np/images/thumb/c/c7/Tree%27s_Bounty_Mobile_NH_Icon.png/30px-Tree%27s_Bounty_Mobile_NH_Icon.png, Tree’s Bounty Mobile,2xPinecone|3xAcorn|3xTree Branch, Balloons (Autumn),Yes,Wall-Mounted,2030
+0,https://dodo.ac/np/images/thumb/5/52/Ornament_Mobile_NH_Icon.png/30px-Ornament_Mobile_NH_Icon.png, Ornament Mobile,1xRed Ornament|1xBlue Ornament|1xGold Ornament|4xTree Branch, Balloons (Festive Season),Yes,Wall-Mounted,340
+0,https://dodo.ac/np/images/thumb/3/31/Ornament_Wreath_NH_Icon.png/30px-Ornament_Wreath_NH_Icon.png, Ornament Wreath,6xBlue Ornament|2xGold Ornament, Balloons (Festive Season),Yes,Wall-Mounted,800
+0,https://dodo.ac/np/images/thumb/8/84/Snowflake_Wreath_NH_Icon.png/30px-Snowflake_Wreath_NH_Icon.png, Snowflake Wreath,4xSnowflake, Isabelle| Balloons,No,Wall-Mounted,1600
+0,undefined,Brown Herringbone Wall,15xSoftwood, Sisterly villager,No,Wallpaper/Floors/Rugs,1800
+0,undefined,Cabin Wall,15xHardwood, Peppy villager,No,Wallpaper/Floors/Rugs,1800
+0,undefined,Chocolate Herringbone Wall,15xSoftwood, Smug villager,No,Wallpaper/Floors/Rugs,1800
+0,undefined,Dark Wooden-Mosaic Wall,15xWood, Sisterly villager,No,Wallpaper/Floors/Rugs,1800
+0,undefined,Modern Wood Wall,5xWood|5xSoftwood|5xHardwood, Snooty villager,No,Wallpaper/Floors/Rugs,1800
+0,undefined,Stacked-Wood Wall,15xHardwood, Jock villager,No,Wallpaper/Floors/Rugs,1800
+0,undefined,Wild-Wood Wall,15xWood, Cranky villager,No,Wallpaper/Floors/Rugs,1800
+0,undefined,Wooden-Knot Wall,15xHardwood, Smug villager,No,Wallpaper/Floors/Rugs,1800
+0,undefined,Wooden-Mosaic Wall,15xWood, Smug villager,No,Wallpaper/Floors/Rugs,1800
+0,undefined,Woodland Wall,15xClump of Weeds|9xSoftwood, Normal villager,No,Wallpaper/Floors/Rugs,1380
+0,undefined,Garbage-Heap Wall,2xEmpty Can|2xBoot|2xOld Tire,Fishing up Trash,No,Wallpaper/Floors/Rugs,120
+0,undefined,Garbage-Heap Flooring,2xEmpty Can|2xBoot|2xOld Tire,Fishing up Trash,No,Wallpaper/Floors/Rugs,120
+0,undefined,Classic-Library Wall,10xBook, Normal villager,No,Wallpaper/Floors/Rugs,1050
+0,undefined,Manga-Library Wall,10xMagazine, Peppy villager| Message Bottle,No,Wallpaper/Floors/Rugs,1050
+0,undefined,Basement Flooring,10xStone, Smug villager,No,Wallpaper/Floors/Rugs,1500
+0,undefined,Rustic-Stone Wall,5xStone|5xClay, Snooty villager,No,Wallpaper/Floors/Rugs,1750
+0,undefined,Stone Wall,10xStone, Smug villager,No,Wallpaper/Floors/Rugs,1500
+0,undefined,Steel Flooring,7xIron Nugget, Smug villager,No,Wallpaper/Floors/Rugs,5250
+0,undefined,Steel-Frame Wall,8xIron Nugget, Smug villager,No,Wallpaper/Floors/Rugs,6000
+0,undefined,Gold-Screen Wall,2xGold Nugget|1xScreen Wall, Smug villager,No,Wallpaper/Floors/Rugs,20750
+0,undefined,Golden Wall,4xGold Nugget, Smug villager,No,Wallpaper/Floors/Rugs,40000
+0,undefined,Golden Flooring,4xGold Nugget, Smug villager,No,Wallpaper/Floors/Rugs,40000
+0,undefined,Backyard Lawn,30xClump of Weeds, Peppy villager,No,Wallpaper/Floors/Rugs,600
+0,undefined,Jungle Wall,15xClump of Weeds|3xWood|3xHardwood|3xSoftwood, Jock villager,No,Wallpaper/Floors/Rugs,1380
+0,undefined,Jungle Flooring,10xClump of Weeds|10xClay, Jock villager,No,Wallpaper/Floors/Rugs,2200
+0,https://dodo.ac/np/images/thumb/6/6f/Apple_Rug_NH_Icon.png/30px-Apple_Rug_NH_Icon.png, Apple Rug,6xApple, Sisterly villager,No,Wallpaper/Floors/Rugs,1200
+0,undefined,Apple Wall,20xApple, Sisterly villager,No,Wallpaper/Floors/Rugs,4000
+0,https://dodo.ac/np/images/thumb/d/dd/Cherry_Rug_NH_Icon.png/30px-Cherry_Rug_NH_Icon.png, Cherry Rug,6xCherry, Peppy villager,No,Wallpaper/Floors/Rugs,1200
+0,undefined,Cherry Wall,20xCherry, Peppy villager,No,Wallpaper/Floors/Rugs,4000
+0,https://dodo.ac/np/images/thumb/1/1d/Orange_Rug_NH_Icon.png/30px-Orange_Rug_NH_Icon.png, Orange Rug,6xOrange, Lazy villager,No,Wallpaper/Floors/Rugs,1200
+0,undefined,Orange Wall,20xOrange, Lazy villager,No,Wallpaper/Floors/Rugs,4000
+0,https://dodo.ac/np/images/thumb/8/80/Peach_Rug_NH_Icon.png/30px-Peach_Rug_NH_Icon.png, Peach Rug,6xPeach, Normal villager,No,Wallpaper/Floors/Rugs,1200
+0,undefined,Peach Wall,20xPeach, Normal villager,No,Wallpaper/Floors/Rugs,4000
+0,https://dodo.ac/np/images/thumb/9/95/Pear_Rug_NH_Icon.png/30px-Pear_Rug_NH_Icon.png, Pear Rug,6xPear, Jock villager,No,Wallpaper/Floors/Rugs,1200
+0,undefined,Pear Wall,20xPear, Jock villager,No,Wallpaper/Floors/Rugs,4000
+0,undefined,Honeycomb Wall,6xWasp Nest, Jock villager,No,Wallpaper/Floors/Rugs,3600
+0,undefined,Honeycomb Flooring,5xWasp Nest, Jock villager,No,Wallpaper/Floors/Rugs,3000
+0,undefined,Money Flooring,"50,000xBells", Snooty villager,No,Wallpaper/Floors/Rugs,25000
+0,undefined,Lunar Surface,5xStar Fragment|1xLarge Star Fragment, Celeste,No,Wallpaper/Floors/Rugs,7500
+0,undefined,Galaxy Flooring,5xStar Fragment|1xLarge Star Fragment, Celeste,No,Wallpaper/Floors/Rugs,7500
+0,undefined,Sci-Fi Wall,5xStar Fragment|1xLarge Star Fragment, Celeste,No,Wallpaper/Floors/Rugs,7500
+0,undefined,Sci-Fi Flooring,5xStar Fragment|1xLarge Star Fragment, Celeste,No,Wallpaper/Floors/Rugs,7500
+0,undefined,Starry Wall,5xStar Fragment|1xLarge Star Fragment, Celeste,No,Wallpaper/Floors/Rugs,7500
+0,undefined,Starry-Sky Wall,5xStar Fragment|1xLarge Star Fragment, Celeste,No,Wallpaper/Floors/Rugs,7500
+0,undefined,Bamboo Wall,15xBamboo Piece, Cranky villager,No,Wallpaper/Floors/Rugs,2400
+0,undefined,Bamboo-Grove Wall,7xYoung Spring Bamboo|3xBamboo, Balloons (Spring),No,Wallpaper/Floors/Rugs,4300
+0,undefined,Bamboo Flooring,15xBamboo Piece, Cranky villager,No,Wallpaper/Floors/Rugs,2400
+0,undefined,Dark Bamboo Rug,6xBamboo Piece, Cranky villager,No,Wallpaper/Floors/Rugs,960
+0,undefined,Light Bamboo Rug,6xYoung Spring Bamboo, Balloons (Spring),No,Wallpaper/Floors/Rugs,2400
+0,undefined,Cherry-Blossom-Trees Wall,10xCherry-Blossom Petal|5xHardwood, Balloons (Cherry Blossom Festival),No,Wallpaper/Floors/Rugs,4600
+0,undefined,Cherry-Blossom Flooring,10xCherry-Blossom Petal|20xClump of Weeds, Balloons (Cherry Blossom Festival),No,Wallpaper/Floors/Rugs,4400
+0,undefined,Sakura-Wood Wall,5xCherry-Blossom Petal|10xWood, Balloons (Cherry Blossom Festival),No,Wallpaper/Floors/Rugs,3200
+0,undefined,Sakura-Wood Flooring,5xCherry-Blossom Petal|10xWood, Balloons (Cherry Blossom Festival),No,Wallpaper/Floors/Rugs,3200
+0,undefined,Bunny Day Wall,2xEarth Egg|2xStone Egg|2xLeaf Egg|2xWood Egg|2xSky Egg|2xWater Egg, Balloons (Bunny Day) Egg Message Bottle,No,Wallpaper/Floors/Rugs,4800
+0,undefined,Bunny Day Flooring,2xEarth Egg|2xStone Egg|2xLeaf Egg|2xWood Egg|2xSky Egg|2xWater Egg, Balloons (Bunny Day) Egg Message Bottle,No,Wallpaper/Floors/Rugs,4800
+0,https://dodo.ac/np/images/thumb/d/d2/Bunny_Day_Rug_NH_Icon.png/30px-Bunny_Day_Rug_NH_Icon.png, Bunny Day Rug,1xEarth Egg|1xStone Egg|1xLeaf Egg|1xWood Egg|1xSky Egg|1xWater Egg, Balloons (Bunny Day) Egg Message Bottle,No,Wallpaper/Floors/Rugs,2400
+0,undefined,Sandy-Beach Flooring,1xSea Snail|1xVenus Comb|1xSand Dollars|1xCoral|1xGiant Clam|Cowrie, Jock villager,No,Wallpaper/Floors/Rugs,4120
+0,undefined,Shell Rug,3xGiant Clam, Peppy villager,No,Wallpaper/Floors/Rugs,5400
+0,undefined,Starry-Sands Flooring,3xSummer Shell|, Balloons (Summer),No,Wallpaper/Floors/Rugs,7720
+0,undefined,Tropical Vista,5xSummer Shell, Balloons (Summer),No,Wallpaper/Floors/Rugs,6000
+0,undefined,Underwater Wall,3xSummer Shell|5xCoral, Balloons (Summer),No,Wallpaper/Floors/Rugs,8600
+0,undefined,Underwater Flooring,3xSummer Shell|3xCoral, Balloons,No,Wallpaper/Floors/Rugs,6600
+0,undefined,Water Flooring,6xSummer Shell, Balloons (Summer),No,Wallpaper/Floors/Rugs,7200
+0,undefined,Forest Wall,2xElegant Mushroom|2xRound Mushroom|2xSkinny Mushroom|2xFlat Mushroom|10xWood, Balloons,No,Wallpaper/Floors/Rugs,44000
+0,undefined,Forest Flooring,1xRare Mushroom|2xRound Mushroom|2xSkinny Mushroom|2xFlat Mushroom|10xClump of Weeds, Balloons (Mushrooming Season),No,Wallpaper/Floors/Rugs,35000
+0,undefined,Mush Wall,1xElegant Mushroom|1xRound Mushroom|1xSkinny Mushroom|1xFlat Mushroom, Balloons (Mushrooming Season),No,Wallpaper/Floors/Rugs,21400
+0,undefined,Autumn Wall,10xMaple Leaf|5xWood|5xClump of Weeds, Balloons (Autumn),No,Wallpaper/Floors/Rugs,4700
+0,undefined,Colored-Leaves Flooring,10xMaple Leaf|15xClump of Weeds, Balloons (Autumn),No,Wallpaper/Floors/Rugs,4300
+0,undefined,Ice Wall,1xLarge Snowflake|8xSnowflake,Snowboy (Winter),No,Wallpaper/Floors/Rugs,8200
+0,undefined,Ice Flooring,1xLarge Snowflake|8xSnowflake,Snowboy (Winter),No,Wallpaper/Floors/Rugs,8200
+0,undefined,Iceberg Wall,1xLarge Snowflake|8xSnowflake, Balloons (Winter),No,Wallpaper/Floors/Rugs,4000
+0,undefined,Iceberg Flooring,10xSnowflake, Balloons (Winter),No,Wallpaper/Floors/Rugs,4000
+0,undefined,Ski-Slope Wall,8xSnowflake, Balloons (Winter),No,Wallpaper/Floors/Rugs,3200
+0,undefined,Ski-Slope Flooring,8xSnowflake, Balloons (Winter),No,Wallpaper/Floors/Rugs,3200
+0,undefined,Snowflake Wall,12xSnowflake, Balloons (Winter),No,Wallpaper/Floors/Rugs,4800
+0,undefined,Jingle Wall,5xRed Ornament|5xBlue Ornament|5xGold Ornament|5xClay, Balloons (Festive Season),No,Wallpaper/Floors/Rugs,2500
+0,https://dodo.ac/np/images/thumb/4/48/Log_Pack_NH_Icon.png/30px-Log_Pack_NH_Icon.png, Log Pack,3xWood|5xHardwood, Jock villager,No,Accessories & Equipment,960
+0,https://dodo.ac/np/images/thumb/3/3c/Gold_Armor_NH_Icon.png/30px-Gold_Armor_NH_Icon.png, Gold Armor,8xGold Nugget, Smug villager,No,Accessories & Equipment,80000
+0,https://dodo.ac/np/images/thumb/3/36/Gold_Helmet_NH_Icon.png/30px-Gold_Helmet_NH_Icon.png, Gold Helmet,5xGold Nugget, Smug villager,No,Accessories & Equipment,50000
+0,https://dodo.ac/np/images/thumb/5/52/Gold-Armor_Shoes_NH_Icon.png/30px-Gold-Armor_Shoes_NH_Icon.png, Gold Armor Shoes,4xGold Nugget, Smug villager,No,Accessories & Equipment,40000
+0,https://dodo.ac/np/images/thumb/7/74/Knight%27s_Helmet_NH_Icon.png/30px-Knight%27s_Helmet_NH_Icon.png, Knight’s Helmet,5xIron Nugget, Cranky villager,No,Accessories & Equipment,3750
+0,https://dodo.ac/np/images/thumb/9/98/Iron_Armor_NH_Icon.png/30px-Iron_Armor_NH_Icon.png, Iron Armor,8xIron Nugget, Cranky villager,No,Accessories & Equipment,6000
+0,https://dodo.ac/np/images/thumb/d/de/Armor_Shoes_NH_Icon.png/30px-Armor_Shoes_NH_Icon.png, Armor Shoes,4xIron Nugget, Cranky villager,No,Accessories & Equipment,3000
+0,https://dodo.ac/np/images/thumb/3/36/Star_Head_NH_Icon.png/30px-Star_Head_NH_Icon.png, Star Head,5xStar Fragment, Celeste,No,Accessories & Equipment,2500
+0,https://dodo.ac/np/images/thumb/d/d7/Star_Pochette_NH_Icon.png/30px-Star_Pochette_NH_Icon.png, Star Pochette,6xStar Fragment, Celeste,No,Accessories & Equipment,3000
+0,https://dodo.ac/np/images/thumb/f/ff/Recycled_Boots_NH_Icon.png/30px-Recycled_Boots_NH_Icon.png, Recycled Boots,2xBoot,Fishing up a Boot,No,Accessories & Equipment,40
+0,https://dodo.ac/np/images/thumb/f/f2/Leaf_%28Item%29_NH_Icon.png/30px-Leaf_%28Item%29_NH_Icon.png, Leaf,5xClump of Weeds, Jock villager,No,Accessories & Equipment,100
+0,https://dodo.ac/np/images/thumb/c/ca/Leaf_Mask_NH_Icon.png/30px-Leaf_Mask_NH_Icon.png, Leaf Mask,10xClump of Weeds, Peppy villager,No,Accessories & Equipment,200
+0,https://dodo.ac/np/images/thumb/e/e9/Leaf_Umbrella_NH_Icon.png/30px-Leaf_Umbrella_NH_Icon.png, Leaf Umbrella,15xClump of Weeds, Sisterly villager,No,Accessories & Equipment,300
+0,https://dodo.ac/np/images/thumb/f/fa/Traditional_Straw_Coat_NH_Icon.png/30px-Traditional_Straw_Coat_NH_Icon.png, Traditional Straw Coat,8xClump of Weeds, Normal villager| Message Bottle,No,Accessories & Equipment,160
+0,https://dodo.ac/np/images/thumb/c/c7/Straw_Umbrella_Hat_NH_Icon.png/30px-Straw_Umbrella_Hat_NH_Icon.png, Straw Umbrella Hat,10xClump of Weeds, Smug villager,No,Accessories & Equipment,200
+0,https://dodo.ac/np/images/thumb/6/69/Grass_Skirt_NH_Icon.png/30px-Grass_Skirt_NH_Icon.png, Grass Skirt,7xClump of Weeds, Normal villager,No,Accessories & Equipment,140
+0,https://dodo.ac/np/images/thumb/0/01/Green_Grass_Skirt_NH_Icon.png/30px-Green_Grass_Skirt_NH_Icon.png, Green Grass Skirt,7xClump of Weeds, Peppy villager,No,Accessories & Equipment,140
+0,https://dodo.ac/np/images/thumb/1/12/Knitted-Grass_Backpack_NH_Icon.png/30px-Knitted-Grass_Backpack_NH_Icon.png, Knitted-Grass Backpack,20xClump of Weeds, Normal villager,No,Accessories & Equipment,400
+0,https://dodo.ac/np/images/thumb/6/6c/Apple_Dress_NH_Icon.png/30px-Apple_Dress_NH_Icon.png, Apple Dress,8xApple, Sisterly villager,No,Accessories & Equipment,1600
+0,https://dodo.ac/np/images/thumb/5/5c/Apple_Hat_NH_Icon.png/30px-Apple_Hat_NH_Icon.png, Apple Hat,5xApple, Sisterly villager,No,Accessories & Equipment,1000
+0,https://dodo.ac/np/images/thumb/6/60/Apple_Umbrella_NH_Icon.png/30px-Apple_Umbrella_NH_Icon.png, Apple Umbrella,7xApple, Sisterly villager,No,Accessories & Equipment,1400
+0,https://dodo.ac/np/images/thumb/e/e0/Cherry_Dress_NH_Icon.png/30px-Cherry_Dress_NH_Icon.png, Cherry Dress,8xCherry, Peppy villager,No,Accessories & Equipment,1600
+0,https://dodo.ac/np/images/thumb/e/ed/Cherry_Hat_NH_Icon.png/30px-Cherry_Hat_NH_Icon.png, Cherry Hat,5xCherry, Peppy villager,No,Accessories & Equipment,1000
+0,https://dodo.ac/np/images/thumb/f/f0/Cherry_Umbrella_NH_Icon.png/30px-Cherry_Umbrella_NH_Icon.png, Cherry Umbrella,7xCherry, Peppy villager,No,Accessories & Equipment,1400
+0,https://dodo.ac/np/images/thumb/6/63/Orange_Dress_NH_Icon.png/30px-Orange_Dress_NH_Icon.png, Orange Dress,8xOrange, Lazy villager,No,Accessories & Equipment,1600
+0,https://dodo.ac/np/images/thumb/6/61/Orange_Hat_NH_Icon.png/30px-Orange_Hat_NH_Icon.png, Orange Hat,5xOrange, Lazy villager,No,Accessories & Equipment,1000
+0,https://dodo.ac/np/images/thumb/8/83/Peach_Dress_NH_Icon.png/30px-Peach_Dress_NH_Icon.png, Peach Dress,8xPeach, Normal villager,No,Accessories & Equipment,1600
+0,https://dodo.ac/np/images/thumb/a/a2/Peach_Hat_NH_Icon.png/30px-Peach_Hat_NH_Icon.png, Peach Hat,5xPeach, Normal villager,No,Accessories & Equipment,1000
+0,https://dodo.ac/np/images/thumb/8/8c/Peach_Umbrella_NH_Icon.png/30px-Peach_Umbrella_NH_Icon.png, Peach Umbrella,7xPeach, Normal villager,No,Accessories & Equipment,1400
+0,https://dodo.ac/np/images/thumb/b/b1/Pear_Dress_NH_Icon.png/30px-Pear_Dress_NH_Icon.png, Pear Dress,8xPear, Jock villager,No,Accessories & Equipment,1600
+0,https://dodo.ac/np/images/thumb/7/7e/Pear_Hat_NH_Icon.png/30px-Pear_Hat_NH_Icon.png, Pear Hat,5xPear, Jock villager,No,Accessories & Equipment,1000
+0,https://dodo.ac/np/images/thumb/c/c4/Pear_Umbrella_NH_Icon.png/30px-Pear_Umbrella_NH_Icon.png, Pear Umbrella,7xPear, Jock villager,No,Accessories & Equipment,1400
+0,https://dodo.ac/np/images/thumb/5/5d/Basket_Pack_NH_Icon.png/30px-Basket_Pack_NH_Icon.png, Basket Pack,6xYoung Spring Bamboo, Balloons (Spring),No,Accessories & Equipment,2400
+0,https://dodo.ac/np/images/thumb/0/03/Bamboo_Hat_NH_Icon.png/30px-Bamboo_Hat_NH_Icon.png, Bamboo Hat,10xClump of Weeds, Cranky villager,No,Accessories & Equipment,200
+0,https://dodo.ac/np/images/thumb/f/ff/Cherry-Blossom_Umbrella_NH_Icon.png/30px-Cherry-Blossom_Umbrella_NH_Icon.png, Cherry-Blossom Umbrella,7xCherry-Blossom Petal, Balloons (Cherry Blossom Festival),No,Accessories & Equipment,2800
+0,https://dodo.ac/np/images/thumb/0/0d/Cherry-Blossom_Pochette_NH_Icon.png/30px-Cherry-Blossom_Pochette_NH_Icon.png, Cherry-Blossom Pochette,6xCherry-Blossom Petal, Balloons (Cherry Blossom Festival),No,Accessories & Equipment,2400
+0,https://dodo.ac/np/images/thumb/e/e5/Shellfish_Pochette_NH_Icon.png/30px-Shellfish_Pochette_NH_Icon.png, Shellfish Pochette,2xGiant Clam|6xSummer Shell, Balloons (Summer),No,Accessories & Equipment,10800
+0,https://dodo.ac/np/images/thumb/c/c0/Cosmos_Crown_NH_Icon.png/30px-Cosmos_Crown_NH_Icon.png, Cosmos Crown,2xRed Cosmos|2xYellow Cosmos|3xWhite Cosmos,All villagers,No,Accessories & Equipment,480
+0,https://dodo.ac/np/images/thumb/c/c8/Dark_Cosmos_Crown_NH_Icon.png/30px-Dark_Cosmos_Crown_NH_Icon.png, Dark Cosmos Crown,7xBlack Cosmos,All villagers,No,Accessories & Equipment,3360
+0,https://dodo.ac/np/images/thumb/f/fa/Lovely_Cosmos_Crown_NH_Icon.png/30px-Lovely_Cosmos_Crown_NH_Icon.png, Lovely Cosmos Crown,3xPink Cosmos|3xOrange Cosmos,All villagers,No,Accessories & Equipment,1120
+0,https://dodo.ac/np/images/thumb/4/4d/Pansy_Crown_NH_Icon.png/30px-Pansy_Crown_NH_Icon.png, Pansy Crown,2xRed Pansy|2xYellow Pansy|2xWhite Pansy,All villagers,No,Accessories & Equipment,480
+0,https://dodo.ac/np/images/thumb/e/e9/Cool_Pansy_Crown_NH_Icon.png/30px-Cool_Pansy_Crown_NH_Icon.png, Cool Pansy Crown,3xOrange Pansy|3xBlue Pansy,All villagers,No,Accessories & Equipment,960
+0,https://dodo.ac/np/images/thumb/f/fc/Purple_Pansy_Crown_NH_Icon.png/30px-Purple_Pansy_Crown_NH_Icon.png, Purple Pansy Crown,6xPurple Pansy,All villagers,No,Accessories & Equipment,2880
+0,https://dodo.ac/np/images/thumb/7/72/Windflower_Crown_NH_Icon.png/30px-Windflower_Crown_NH_Icon.png, Windflower Crown,2xRed Windflower|2xOrange Windflower|2xWhite Windflower,All villagers,No,Accessories & Equipment,480
+0,https://dodo.ac/np/images/thumb/2/26/Cool_Windflower_Crown_NH_Icon.png/30px-Cool_Windflower_Crown_NH_Icon.png, Cool Windflower Crown,3xBlue Windflower|3xPink Windflower,All villagers,No,Accessories & Equipment,960
+0,https://dodo.ac/np/images/thumb/9/96/Purple_Windflower_Crown_NH_Icon.png/30px-Purple_Windflower_Crown_NH_Icon.png, Purple Windflower Crown,6xPurple Windflower,All villagers,No,Accessories & Equipment,2880
+0,https://dodo.ac/np/images/thumb/8/86/Mum_Crown_NH_Icon.png/30px-Mum_Crown_NH_Icon.png, Mum Crown,2xRed Mum|2xYellow Mum|2xWhite Mum,All villagers,No,Accessories & Equipment,480
+0,https://dodo.ac/np/images/thumb/5/53/Chic_Mum_Crown_NH_Icon.png/30px-Chic_Mum_Crown_NH_Icon.png, Chic Mum Crown,3xPurple Mum|3xPink Mum,All villagers,No,Accessories & Equipment,960
+0,https://dodo.ac/np/images/thumb/b/bf/Simple_Mum_Crown_NH_Icon.png/30px-Simple_Mum_Crown_NH_Icon.png, Simple Mum Crown,6xGreen Mum,All villagers,No,Accessories & Equipment,2880
+0,https://dodo.ac/np/images/thumb/b/b9/Hyacinth_Crown_NH_Icon.png/30px-Hyacinth_Crown_NH_Icon.png, Hyacinth Crown,4xRed Hyacinth|2xYellow Hyacinth|2xWhite Hyacinth,All villagers,No,Accessories & Equipment,640
+0,https://dodo.ac/np/images/thumb/1/1d/Cool_Hyacinth_Crown_NH_Icon.png/30px-Cool_Hyacinth_Crown_NH_Icon.png, Cool Hyacinth Crown,4xBlue Hyacinth|2xPink Hyacinth|2xOrange Hyacinth,All villagers,No,Accessories & Equipment,1280
+0,https://dodo.ac/np/images/thumb/2/20/Purple_Hyacinth_Crown_NH_Icon.png/30px-Purple_Hyacinth_Crown_NH_Icon.png, Purple Hyacinth Crown,6xPurple Hyacinth,All villagers,No,Accessories & Equipment,2880
+0,https://dodo.ac/np/images/thumb/d/d7/Lily_Crown_NH_Icon.png/30px-Lily_Crown_NH_Icon.png, Lily Crown,2xRed Lilly|2xYellow Lily|2xWhite Lily,All villagers,No,Accessories & Equipment,480
+0,https://dodo.ac/np/images/thumb/b/bd/Dark_Lily_Crown_NH_Icon.png/30px-Dark_Lily_Crown_NH_Icon.png, Dark Lily Crown,6xBlack Lily,All villagers,No,Accessories & Equipment,960
+0,https://dodo.ac/np/images/thumb/a/a6/Cute_Lily_Crown_NH_Icon.png/30px-Cute_Lily_Crown_NH_Icon.png, Cute Lily Crown,2xPink Lily|2xOrange Lily|2xWhite Lily,All villagers,No,Accessories & Equipment,800
+0,https://dodo.ac/np/images/thumb/c/cb/Rose_Crown_NH_Icon.png/30px-Rose_Crown_NH_Icon.png, Rose Crown,2xRed Rose|2xYellow Rose|2xWhite Rose,All villagers,No,Accessories & Equipment,480
+0,https://dodo.ac/np/images/thumb/1/14/Gold_Rose_Crown_NH_Icon.png/30px-Gold_Rose_Crown_NH_Icon.png, Gold Rose Crown,6xGold Rose,All villagers,No,Accessories & Equipment,12000
+0,https://dodo.ac/np/images/thumb/c/c6/Chic_Rose_Crown_NH_Icon.png/30px-Chic_Rose_Crown_NH_Icon.png, Chic Rose Crown,3xPurple Rose|3xBlack Rose,All villagers,No,Accessories & Equipment,2880
+0,https://dodo.ac/np/images/thumb/e/e6/Cute_Rose_Crown_NH_Icon.png/30px-Cute_Rose_Crown_NH_Icon.png, Cute Rose Crown,3xPink Rose|3xOrange Rose,All villagers,No,Accessories & Equipment,960
+0,https://dodo.ac/np/images/thumb/4/40/Blue_Rose_Crown_NH_Icon.png/30px-Blue_Rose_Crown_NH_Icon.png, Blue Rose Crown,6xBlue Rose,All villagers,No,Accessories & Equipment,12000
+0,https://dodo.ac/np/images/thumb/c/c4/Tulip_Crown_NH_Icon.png/30px-Tulip_Crown_NH_Icon.png, Tulip Crown,2xRed Tulip|2xYellow Tulip|1xWhite Tulip,All villagers,No,Accessories & Equipment,400
+0,https://dodo.ac/np/images/thumb/4/45/Dark_Tulip_Crown_NH_Icon.png/30px-Dark_Tulip_Crown_NH_Icon.png, Dark Tulip Crown,5xRed Tulip,All villagers,No,Accessories & Equipment,800
+0,https://dodo.ac/np/images/thumb/e/e2/Chic_Tulip_Crown_NH_Icon.png/30px-Chic_Tulip_Crown_NH_Icon.png, Chic Tulip Crown,2xRed Tulip|2xRed Tulip|1xRed Tulip,All villagers,No,Accessories & Equipment,1440
+0,https://dodo.ac/np/images/thumb/6/6a/Earth-Egg_Shell_NH_Icon.png/30px-Earth-Egg_Shell_NH_Icon.png, Earth-Egg Shell,2xEarth Egg, Balloons (Bunny Day) Egg Message Bottle,No,Accessories & Equipment,800
+0,https://dodo.ac/np/images/thumb/9/92/Earth-Egg_Outfit_NH_Icon.png/30px-Earth-Egg_Outfit_NH_Icon.png, Earth-Egg Outfit,3xEarth Egg, Balloons (Bunny Day) Egg Message Bottle,No,Accessories & Equipment,1200
+0,https://dodo.ac/np/images/thumb/9/93/Earth-Egg_Shoes_NH_Icon.png/30px-Earth-Egg_Shoes_NH_Icon.png, Earth-Egg Shoes,2xEarth Egg, Balloons (Bunny Day) Egg Message Bottle,No,Accessories & Equipment,800
+0,https://dodo.ac/np/images/thumb/b/b2/Stone-Egg_Shell_NH_Icon.png/30px-Stone-Egg_Shell_NH_Icon.png, Stone-Egg Shell,2xStone Egg, Balloons (Bunny Day) Egg Message Bottle,No,Accessories & Equipment,800
+0,https://dodo.ac/np/images/thumb/8/89/Stone-Egg_Outfit_NH_Icon.png/30px-Stone-Egg_Outfit_NH_Icon.png, Stone-Egg Outfit,3xStone Egg, Balloons (Bunny Day) Egg Message Bottle,No,Accessories & Equipment,1200
+0,https://dodo.ac/np/images/thumb/7/79/Stone-Egg_Shoes_NH_Icon.png/30px-Stone-Egg_Shoes_NH_Icon.png, Stone-Egg Shoes,2xStone Egg, Balloons (Bunny Day) Egg Message Bottle,No,Accessories & Equipment,800
+0,https://dodo.ac/np/images/thumb/b/b0/Leaf-Egg_Shell_NH_Icon.png/30px-Leaf-Egg_Shell_NH_Icon.png, Leaf-Egg Shell,2xLeaf Egg, Balloons (Bunny Day) Egg Message Bottle,No,Accessories & Equipment,800
+0,https://dodo.ac/np/images/thumb/d/d6/Leaf-Egg_Outfit_NH_Icon.png/30px-Leaf-Egg_Outfit_NH_Icon.png, Leaf-Egg Outfit,3xLeaf Egg, Balloons (Bunny Day) Egg Message Bottle,No,Accessories & Equipment,1200
+0,https://dodo.ac/np/images/thumb/a/ab/Leaf-Egg_Shoes_NH_Icon.png/30px-Leaf-Egg_Shoes_NH_Icon.png, Leaf-Egg Shoes,2xLeaf Egg, Balloons (Bunny Day) Egg Message Bottle,No,Accessories & Equipment,800
+0,https://dodo.ac/np/images/thumb/8/8c/Wood-Egg_Shell_NH_Icon.png/30px-Wood-Egg_Shell_NH_Icon.png, Wood-Egg Shell,2xWood Egg, Balloons (Bunny Day) Egg Message Bottle,No,Accessories & Equipment,800
+0,https://dodo.ac/np/images/thumb/c/c8/Wood-Egg_Outfit_NH_Icon.png/30px-Wood-Egg_Outfit_NH_Icon.png, Wood-Egg Outfit,3xWood Egg, Balloons (Bunny Day) Egg Message Bottle,No,Accessories & Equipment,1200
+0,https://dodo.ac/np/images/thumb/5/51/Wood-Egg_Shoes_NH_Icon.png/30px-Wood-Egg_Shoes_NH_Icon.png, Wood-Egg Shoes,2xWood Egg, Balloons (Bunny Day) Egg Message Bottle,No,Accessories & Equipment,800
+0,https://dodo.ac/np/images/thumb/b/be/Sky-Egg_Shell_NH_Icon.png/30px-Sky-Egg_Shell_NH_Icon.png, Sky-Egg Shell,2xSky Egg, Balloons (Bunny Day) Egg Message Bottle,No,Accessories & Equipment,800
+0,https://dodo.ac/np/images/thumb/d/de/Sky-Egg_Outfit_NH_Icon.png/30px-Sky-Egg_Outfit_NH_Icon.png, Sky-Egg Outfit,3xSky Egg, Balloons (Bunny Day) Egg Message Bottle,No,Accessories & Equipment,1200
+0,https://dodo.ac/np/images/thumb/8/8a/Sky-Egg_Shoes_NH_Icon.png/30px-Sky-Egg_Shoes_NH_Icon.png, Sky-Egg Shoes,2xSky Egg, Balloons (Bunny Day) Egg Message Bottle,No,Accessories & Equipment,800
+0,https://dodo.ac/np/images/thumb/4/41/Water-Egg_Shell_NH_Icon.png/30px-Water-Egg_Shell_NH_Icon.png, Water-Egg Shell,2xWater Egg, Balloons (Bunny Day) Egg Message Bottle,No,Accessories & Equipment,800
+0,https://dodo.ac/np/images/thumb/7/75/Water-Egg_Outfit_NH_Icon.png/30px-Water-Egg_Outfit_NH_Icon.png, Water-Egg Outfit,3xWater Egg, Balloons (Bunny Day) Egg Message Bottle,No,Accessories & Equipment,1200
+0,https://dodo.ac/np/images/thumb/6/6e/Water-Egg_Shoes_NH_Icon.png/30px-Water-Egg_Shoes_NH_Icon.png, Water-Egg Shoes,2xWater Egg, Balloons (Bunny Day) Egg Message Bottle,No,Accessories & Equipment,800
+0,https://dodo.ac/np/images/thumb/4/47/Egg_Party_Hat_NH_Icon.png/30px-Egg_Party_Hat_NH_Icon.png, Egg Party Hat,2xEarth Egg|2xStone Egg|2xLeaf Egg|2xWood Egg|2xSky Egg|2xWater Egg, Balloons (Bunny Day) Egg Message Bottle,No,Accessories & Equipment,4800
+0,https://dodo.ac/np/images/thumb/1/14/Egg_Party_Dress_NH_Icon.png/30px-Egg_Party_Dress_NH_Icon.png, Egg Party Dress,3xEarth Egg|3xStone Egg|3xLeaf Egg|3xWood Egg|3xSky Egg|3xWater Egg, Balloons (Bunny Day) Egg Message Bottle,No,Accessories & Equipment,7200
+0,https://dodo.ac/np/images/thumb/e/e3/Bunny_Day_Crown_NH_Icon.png/30px-Bunny_Day_Crown_NH_Icon.png, Bunny Day Crown,1xEarth Egg|1xStone Egg|1xLeaf Egg|1xWood Egg|1xSky Egg|1xWater Egg, Balloons (Bunny Day) Egg Message Bottle,No,Accessories & Equipment,2400
+0,https://dodo.ac/np/images/thumb/e/ef/Bunny_Day_Bag_NH_Icon.png/30px-Bunny_Day_Bag_NH_Icon.png, Bunny Day Bag,1xEarth Egg|1xStone Egg|1xLeaf Egg|1xWood Egg|1xSky Egg|1xWater Egg, Balloons (Bunny Day) Egg Message Bottle,No,Accessories & Equipment,2400
+0,https://dodo.ac/np/images/thumb/f/fa/Acorn_Pochette_NH_Icon.png/30px-Acorn_Pochette_NH_Icon.png, Acorn Pochette,6xAcorn, Balloons (Autumn),No,Accessories & Equipment,2400
+0,https://dodo.ac/np/images/thumb/2/26/Maple-Leaf_Pochette_NH_Icon.png/30px-Maple-Leaf_Pochette_NH_Icon.png, Maple-Leaf Pochette,6xMaple Leaf, Balloons (Autumn),No,Accessories & Equipment,2400
+0,https://dodo.ac/np/images/thumb/5/56/Snowperson_Head_NH_Icon.png/30px-Snowperson_Head_NH_Icon.png, Snowperson Head,1xLarge Snowflake|5xSnowflake,Snowboy (Winter),No,Accessories & Equipment,7000
+0,https://dodo.ac/np/images/thumb/e/e0/Snowflake_Pochette_NH_Icon.png/30px-Snowflake_Pochette_NH_Icon.png, Snowflake Pochette,6xSnowflake, Balloons (Winter),No,Accessories & Equipment,2400
+0,https://dodo.ac/np/images/thumb/0/00/Medicine_NH_Inv_Icon.png/30px-Medicine_NH_Inv_Icon.png, Medicine,1× Wasp Nest| 3× Clump of Weeds,Any villager (while stung by Wasps),No,Other,100
+0,https://dodo.ac/np/images/thumb/3/3d/Fish_Bait_NH_Inv_Icon.png/30px-Fish_Bait_NH_Inv_Icon.png, Fish Bait,1× Manila Clam,Digging up a Manila Clam (via Shovel),No,Other,200
+0,https://dodo.ac/np/images/thumb/d/d3/Ocarina_NH_Inv_Icon.png/30px-Ocarina_NH_Inv_Icon.png, Ocarina,5× Clay,DIY for Beginners Pack (Nook's Cranny),No,Other,1000
+0,https://dodo.ac/np/images/thumb/f/f3/Panflute_NH_icon.png/30px-Panflute_NH_icon.png, Pan Flute,7× Young Spring Bamboo, Balloons (Spring),No,Other,2800
+0,https://dodo.ac/np/images/thumb/6/67/Pitfall.png/30px-Pitfall.png, Pitfall Seed,4× Clump of Weeds| 6× Tree Branch, Jock villager,No,Other,140
+0,https://dodo.ac/np/images/thumb/f/ff/Bamboo_Lattice_Fence_NH_Icon.png/30px-Bamboo_Lattice_Fence_NH_Icon.png, Bamboo Lattice Fence,6× Bamboo Piece, Nook Miles Exchange,No,Other,600
+0,https://dodo.ac/np/images/thumb/a/a4/Barbed_Wire_Fence_NH_Icon.png/30px-Barbed_Wire_Fence_NH_Icon.png, Barbed-Wire Fence,4× Hardwood| 2× Iron Nugget, Nook Miles Exchange,No,Other,1980
+0,https://dodo.ac/np/images/thumb/1/17/Brick_Fence_NH_Icon.png/30px-Brick_Fence_NH_Icon.png, Brick Fence,6× Clay, Nook Miles Exchange,No,Other,1200
+0,https://dodo.ac/np/images/thumb/c/c1/Bunny_Day_Fence_NH_Icon.png/30px-Bunny_Day_Fence_NH_Icon.png, Bunny Day Fence,1× Earth Egg| 1× Stone Egg| 1× Leaf Egg| 1× Wood Egg| 1× Sky Egg| 1× Water Egg," Balloons (Bunny Day) Egg Message Bottle, any villager (random)",No,Other,2400
+0,https://dodo.ac/np/images/thumb/a/a5/Corral_Fence_NH_Icon.png/30px-Corral_Fence_NH_Icon.png, Corral Fence,6× Wood, Nook Miles Exchange,No,Other,720
+0,https://dodo.ac/np/images/thumb/a/af/Country_Fence_NH_Icon.png/30px-Country_Fence_NH_Icon.png, Country Fence,6× Hardwood, Nook Miles Exchange,No,Other,720
+0,https://dodo.ac/np/images/thumb/1/16/Hedge_NH_Icon.png/30px-Hedge_NH_Icon.png, Hedge,, Tom Nook (Nature Day),No,Other,55
+0,https://dodo.ac/np/images/thumb/2/27/Imperial_Fence_NH_Icon.png/30px-Imperial_Fence_NH_Icon.png, Imperial Fence,6× Wood| 4× Softwood, Nook Miles Exchange,No,Other,1200
+0,https://dodo.ac/np/images/thumb/9/98/Iron_Fence_NH_Icon.png/30px-Iron_Fence_NH_Icon.png, Iron Fence,6× Iron Nugget, Nook Miles Exchange,No,Other,4500
+0,https://dodo.ac/np/images/thumb/a/a2/Iron_and_Stone_Fence_NH_Icon.png/30px-Iron_and_Stone_Fence_NH_Icon.png, Iron-And-Stone Fence,6× Stone| 3× Iron Nugget, Nook Miles Exchange,No,Other,3150
+0,https://dodo.ac/np/images/thumb/d/d0/Lattice_Fence_NH_Icon.png/30px-Lattice_Fence_NH_Icon.png, Lattice Fence,8× Softwood, Nook Miles Exchange,No,Other,960
+0,https://dodo.ac/np/images/thumb/b/bd/Rope_Fence_NH_Icon.png/30px-Rope_Fence_NH_Icon.png, Rope Fence,4× Iron Nugget, Nook Miles Exchange,No,Other,3000
+0,https://dodo.ac/np/images/thumb/9/95/Simple_Wooden_Fencing_NH_Icon.png/30px-Simple_Wooden_Fencing_NH_Icon.png, Simple Wooden Fence,6× Softwood, Nook Miles Exchange,No,Other,72
+0,https://dodo.ac/np/images/thumb/9/93/Spiky_Fence_NH_Icon.png/30px-Spiky_Fence_NH_Icon.png, Spiky Fence,8× Hardwood, Nook Miles Exchange,No,Other,960
+0,https://dodo.ac/np/images/thumb/8/8e/Stone_Fence_NH_Icon.png/30px-Stone_Fence_NH_Icon.png, Stone Fence,4× Stone, Nook Miles Exchange,No,Other,600
+0,https://dodo.ac/np/images/thumb/4/4f/Straw_Fence_NH_Icon.png/30px-Straw_Fence_NH_Icon.png, Straw Fence,10× Clump of Weeds| 3× Wood, Nook Miles Exchange,No,Other,560
+0,https://dodo.ac/np/images/thumb/5/57/Vertical_Board_Fence_NH_Icon.png/30px-Vertical_Board_Fence_NH_Icon.png, Vertical-Board Fence,8× Wood, Nook Miles Exchange,No,Other,960
+0,https://dodo.ac/np/images/thumb/c/c2/Wedding_Fence_NH_Icon.png/30px-Wedding_Fence_NH_Icon.png, Wedding Fence,5× Iron Nugget| 3× Softwood,Harvey (Wedding Season),No,Other,411
+0,https://dodo.ac/np/images/thumb/9/9e/Zen_Fence_NH_Icon.png/30px-Zen_Fence_NH_Icon.png, Zen Fence,3× Iron Nugget| 3× Clay| 3× Stone, Nook Miles Exchange,No,Other,3300
+0,https://dodo.ac/np/images/thumb/d/d8/Bamboo_Doll_NH_Icon.png/30px-Bamboo_Doll_NH_Icon.png, Bamboo Doll,6xYoung Spring Bamboo, Balloons,No,Spring,2400
+0,https://dodo.ac/np/images/thumb/4/41/Bamboo_Noodle_Slide_NH_Icon.png/30px-Bamboo_Noodle_Slide_NH_Icon.png, Bamboo Noodle Slide,7xYoung Spring Bamboo|3xWood, Balloons,No,Spring,3160
+0,https://dodo.ac/np/images/thumb/0/06/Bamboo_Wand_NH_Icon.png/30px-Bamboo_Wand_NH_Icon.png, Bamboo Wand,6xYoung Spring Bamboo|3xStar Fragment, Balloons,No,Spring,
+0,undefined,Bamboo-Grove Wall,7xYoung Spring Bamboo|3xBamboo, Balloons,No,Spring,4300
+0,https://dodo.ac/np/images/thumb/f/fc/Bamboo-Shoot_Lamp_NH_Icon.png/30px-Bamboo-Shoot_Lamp_NH_Icon.png, Bamboo-Shoot Lamp,4xYoung Spring Bamboo|5xBamboo|4xClay, Balloons,No,Spring,
+0,https://dodo.ac/np/images/thumb/5/5d/Basket_Pack_NH_Icon.png/30px-Basket_Pack_NH_Icon.png, Basket Pack,6xYoung Spring Bamboo, Balloons,No,Spring,2400
+0,undefined,Steamer-Basket Set,6xYoung Spring Bamboo, Balloons,No,Spring,
+0,undefined,Light Bamboo Rug,6xYoung Spring Bamboo, Balloons,No,Spring,
+0,undefined,Green-Leaf Pile,"1xYoung Spring Bamboo, 10xClump of Weeds", Balloons,No,Spring,600
+0,undefined,Bamboo Wand,"6xYoung Spring Bamboo, 3xStar Fragment", Balloons,No,Spring,3900
+0,undefined,Pan Flute,7xYoung Spring Bamboo, Balloons,No,Spring,

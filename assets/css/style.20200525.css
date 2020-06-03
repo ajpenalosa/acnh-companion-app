@@ -1,0 +1,171 @@
+*, *:before, *:after { margin: 0; padding: 0; box-sizing: border-box }
+
+/* -----------------------------------
+	Typography
+--------------------------------------------------------------------------------------------- */
+
+@font-face {
+    font-family: "Open Sans";
+    src: url(../fonts/OpenSans-Regular.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Open Sans";
+    src: url(../fonts/OpenSans-SemiBold.ttf) format("truetype");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "Open Sans";
+    src: url(../fonts/OpenSans-Bold.ttf) format("truetype");
+    font-weight: 600;
+}
+
+body {
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    -webkit-font-smoothing: antialiased;
+}
+
+/* -----------------------------------
+	Layout
+--------------------------------------------------------------------------------------------- */
+
+/*----- Table Header -----*/
+
+.table-header {
+    background-color: #000;
+    color: #FFF;
+    font-size: 14px;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.th-name {
+    padding: 10px;
+    transition: all .5s ease;
+    -webkit-transition: all .5s ease;
+    -moz-transition: all .5s ease;
+    cursor: pointer;
+}
+
+.th-name:hover {
+    background-color: #777;
+}
+
+.tc-value {
+    display: flex;
+    align-items: center;
+    height: 40px;
+}
+
+.table-header {
+    display: flex;
+}
+
+/*----- Filter Tabs -----*/
+
+.filter-buttons {
+    display: flex;
+}
+
+.filter-buttons a {
+    display: flex;
+    width: 33.33%;
+    height: 50px;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    background-color: #333;
+    color: #FFF;
+    transition: all .5s ease;
+    -webkit-transition: all .5s ease;
+    -moz-transition: all .5s ease;
+}
+
+.filter-buttons a:hover {
+    background-color: #777;
+}
+
+/*----- Table Content -----*/
+
+.table-content {
+}
+
+.table-content > div {
+    display: flex;
+    flex-wrap: wrap;
+    transition: all .5s ease;
+    -webkit-transition: all .5s ease;
+    -moz-transition: all .5s ease;
+}
+
+.table-content > div:nth-of-type(odd):not(:hover) {
+    background-color: #E5E5E5;
+}
+
+.table-content > div:hover {
+    background-color: #3A3A3A;
+    color: #FFF;
+}
+
+.th-name.tc-verified,
+.th-name.tc-image,
+.th-name.tc-category {
+    visibility: hidden;
+}
+
+.tc-verified {
+    width: 40px;
+    justify-content: center;
+}
+
+.tc-image,
+.tc-category {
+    width: 50px;
+    justify-content: center;
+}
+
+.tc-recipe {
+    width: calc(40% - 110px);
+}
+
+.tc-required-materials {
+    width: 100%;
+}
+
+.tc-recipe-source {
+    width: calc(63.33% - 160px);
+}
+
+.tc-customizable {
+    width: 140px;
+}
+
+.tc-sell-price {
+    width: 100px;
+    padding-left: 0;
+    padding-right: 20px;
+}
+
+.tc-value.tc-sell-price {
+    justify-content: flex-end;
+}
+
+/*---- Images -----*/
+
+.icon-category {
+    width: 30px;
+}
+
+/*----- Materials -----*/
+
+.material-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px;
+}

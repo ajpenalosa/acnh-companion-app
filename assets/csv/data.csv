@@ -1,0 +1,545 @@
+﻿AJ,Verified,Category,Image,Recipe,Required Materials,Sell Price
+1,1,tools,https://dodo.ac/np/images/thumb/9/91/Flimsy_Net_NH_Icon.png/30px-Flimsy_Net_NH_Icon.png,Flimsy Net,Tree Branch:5,100
+1,1,tools,https://dodo.ac/np/images/thumb/5/5b/Net_NH_Inv_Icon.png/30px-Net_NH_Inv_Icon.png,Net,Flimsy Net:1|Iron Nugget:1,600
+0,0,tools,https://dodo.ac/np/images/thumb/a/a9/Golden_Net_NH_Inv_Icon.png/30px-Golden_Net_NH_Inv_Icon.png,Gold Net,Net:1|Gold Nugget:1,10000
+1,0,tools,https://dodo.ac/np/images/thumb/a/a1/Flimsy_Fishing_Rod_NH_Icon.png/30px-Flimsy_Fishing_Rod_NH_Icon.png,Flimsy Fishing Rod,Tree Branch:5,100
+1,0,tools,https://dodo.ac/np/images/thumb/2/22/Fishing_Rod_NH_Inv_Icon.png/30px-Fishing_Rod_NH_Inv_Icon.png,Fishing Rod,Flimsy Fishing Rod:1|Iron Nugget:1,600
+0,0,tools,https://dodo.ac/np/images/thumb/3/30/Golden_Fishing_Rod_NH_Inv_Icon.png/30px-Golden_Fishing_Rod_NH_Inv_Icon.png,Gold Fishing Rod,Fishing Rod:1|Gold Nugget:1,10400
+1,0,tools,https://dodo.ac/np/images/thumb/7/76/Flimsy_Axe_NH_Icon.png/30px-Flimsy_Axe_NH_Icon.png,Flimsy Axe,Tree Branch:5|Stone:1,200
+1,0,tools,https://dodo.ac/np/images/thumb/9/93/Stone_Axe_NH_Inv_Icon.png/30px-Stone_Axe_NH_Inv_Icon.png,Stone Axe,Flimsy Axe:1|Wood:3,560
+1,0,tools,https://dodo.ac/np/images/thumb/c/c6/Axe_NH_Inv_Icon.png/30px-Axe_NH_Inv_Icon.png,Axe,Flimsy Axe:1|Wood:3|Iron Nugget:1,625
+1,0,tools,https://dodo.ac/np/images/thumb/0/0b/Golden_Axe_NH_Inv_Icon.png/30px-Golden_Axe_NH_Inv_Icon.png,Gold Axe,Axe:1|Gold Nugget:1,10655
+1,0,tools,https://dodo.ac/np/images/thumb/e/ea/Flimsy_Shovel_NH_Icon.png/30px-Flimsy_Shovel_NH_Icon.png,Flimsy Shovel,Hardwood:5,200
+1,0,tools,https://dodo.ac/np/images/thumb/1/17/Shovel_NH_Inv_Icon.png/30px-Shovel_NH_Inv_Icon.png,Shovel,Flimsy Shovel:1|Iron Nugget:1,600
+0,0,tools,https://dodo.ac/np/images/thumb/4/41/Golden_Shovel_NH_Inv_Icon.png/30px-Golden_Shovel_NH_Inv_Icon.png,Golden Shovel,Shovel:1|Gold Nugget:1,10675
+1,0,tools,https://dodo.ac/np/images/thumb/5/51/Flimsy_Watering_Can_NH_Icon.png/30px-Flimsy_Watering_Can_NH_Icon.png,Flimsy Watering Can,Softwood:5,200
+1,0,tools,https://dodo.ac/np/images/thumb/6/61/Watering_Can_NH_Inv_Icon.png/30px-Watering_Can_NH_Inv_Icon.png,Watering Can,Flimsy Watering Can:1|Iron Nugget:1,600
+0,0,tools,https://dodo.ac/np/images/thumb/7/73/Golden_Watering_Can_NH_Inv_Icon.png/30px-Golden_Watering_Can_NH_Inv_Icon.png,Gold Watering Can,Watering Can:1|Gold Nugget:1,10675
+1,0,tools,https://dodo.ac/np/images/thumb/f/fb/Slingshot_NH_Inv_Icon.png/30px-Slingshot_NH_Inv_Icon.png,Slingshot,Hardwood:5,225
+0,0,tools,https://dodo.ac/np/images/thumb/f/f6/Golden_Slingshot_NH_Inv_Icon.png/30px-Golden_Slingshot_NH_Inv_Icon.png,Golden Slingshot,Slingshot:1|Gold Nugget:1,10300
+1,0,tools,https://dodo.ac/np/images/thumb/c/c2/Vaulting_Pole_NH_Inv_Icon.png/30px-Vaulting_Pole_NH_Inv_Icon.png,Vaulting Pole,Softwood:5,600
+1,0,tools,https://dodo.ac/np/images/thumb/e/e2/Ladder_NH_Inv_Icon.png/30px-Ladder_NH_Inv_Icon.png,Ladder,Wood:4|Hardwood:4|Softwood:4,1440
+1,0,tools,https://dodo.ac/np/images/thumb/b/ba/Wand_NH_Inv_Icon.png/30px-Wand_NH_Inv_Icon.png,Star Wand,Star Fragment:3|Large Star Fragment:1,6500
+0,0,tools,https://dodo.ac/np/images/thumb/8/8a/Iron_Wand_NH_Icon.png/30px-Iron_Wand_NH_Icon.png,Iron Wand,Iron Nugget:3|Star Fragment:3,3750
+0,0,tools,https://dodo.ac/np/images/thumb/c/ce/Golden_Wand_NH_Icon.png/30px-Golden_Wand_NH_Icon.png,Golden Wand,Gold Nugget:2|Star Fragment:3,20750
+0,0,tools,https://dodo.ac/np/images/thumb/9/94/Cosmos_Wand_NH_Icon.png/30px-Cosmos_Wand_NH_Icon.png,Cosmos Wand,White Cosmos:1|Star Fragment:3,1580
+0,0,tools,https://dodo.ac/np/images/thumb/0/0d/Hyacinth_Wand_NH_Icon.png/30px-Hyacinth_Wand_NH_Icon.png,Hyacinth Wand,Pink Hyacinth:1|Star Fragment:3,1660
+0,0,tools,https://dodo.ac/np/images/thumb/1/12/Lily_Wand_NH_Icon.png/30px-Lily_Wand_NH_Icon.png,Lily Wand,White Lily:1|Star Fragment:3,1580
+0,0,tools,https://dodo.ac/np/images/thumb/6/64/Mums_Wand_NH_Icon.png/30px-Mums_Wand_NH_Icon.png,Mums Wand,Yellow Mum:1|Star Fragment:3,1580
+0,0,tools,https://dodo.ac/np/images/thumb/f/f6/Pansy_Wand_NH_Icon.png/30px-Pansy_Wand_NH_Icon.png,Pansy Wand,Yellow Pansy:1|Star Fragment:3,1580
+0,0,tools,https://dodo.ac/np/images/thumb/b/b8/Rose_Wand_NH_Icon.png/30px-Rose_Wand_NH_Icon.png,Rose Wand,Red Rose:1|Star Fragment:3,1580
+0,0,tools,https://dodo.ac/np/images/thumb/f/ff/TulipWand_NH_icon.png/30px-TulipWand_NH_icon.png,Tulip Wand,Red Tulip:1|Star Fragment:3,1580
+0,0,tools,https://dodo.ac/np/images/thumb/c/cb/Windflower_Wand_NH_Icon.png/30px-Windflower_Wand_NH_Icon.png,Windflower Wand,Orange Windflower:1|Star Fragment:3,1580
+0,0,tools,https://dodo.ac/np/images/thumb/c/cb/Tree-Branch_Wand_NH_Icon.png/30px-Tree-Branch_Wand_NH_Icon.png,Tree-Branch Wand,Tree Branch:5|Star Fragment:3,1550
+0,0,tools,https://dodo.ac/np/images/thumb/3/3d/Mushroom_Wand_NH_Icon.png/30px-Mushroom_Wand_NH_Icon.png,Mushroom Wand,Skinny Mushroom:3|Star Fragment:3,3300
+0,0,tools,https://dodo.ac/np/images/thumb/2/2f/Shell_Wand_NH_Icon.png/30px-Shell_Wand_NH_Icon.png,Shell Wand,Summer Shell:3|Star Fragment:3,5100
+0,0,tools,https://dodo.ac/np/images/thumb/0/06/Bamboo_Wand_NH_Icon.png/30px-Bamboo_Wand_NH_Icon.png,Bamboo Wand,Young Spring Bamboo:6|Star Fragment:3,3900
+0,0,tools,https://dodo.ac/np/images/thumb/0/0a/Ice_Wand_NH_Icon.png/30px-Ice_Wand_NH_Icon.png,Ice Wand,Large Snowflake:1|Star Fragment:3,6500
+0,0,tools,https://dodo.ac/np/images/thumb/6/6d/Bunny_Day_Wand_NH_Icon.png/30px-Bunny_Day_Wand_NH_Icon.png,Bunny Day Wand,Wobbling Zipper Toy:1|Star Fragment:3,11100
+0,0,tools,https://dodo.ac/np/images/thumb/8/85/Wedding_Wand_NH_Icon.png/30px-Wedding_Wand_NH_Icon.png,Wedding Wand,Wedding Flower Stand:1|Star Fragment:3,3500
+1,0,housewares,https://dodo.ac/np/images/thumb/a/a7/Campfire_NH_Icon.png/30px-Campfire_NH_Icon.png,Campfire,Tree Branch:3,30
+1,0,housewares,https://dodo.ac/np/images/thumb/5/5b/Bonfire_NH_Icon.png/30px-Bonfire_NH_Icon.png,Bonfire,Campfire:1|Wood:10,1230
+1,0,housewares,https://dodo.ac/np/images/thumb/c/c8/Tiki_Torch_NH_Icon.png/30px-Tiki_Torch_NH_Icon.png,Tiki Torch,Tree Branch:5|Wood:5,650
+1,0,housewares,https://dodo.ac/np/images/thumb/4/49/Clothesline_NH_Icon.png/30px-Clothesline_NH_Icon.png,Clothesline,Tree Branch:10,100
+0,0,housewares,https://dodo.ac/np/images/thumb/7/79/Scarecrow_NH_Icon.png/30px-Scarecrow_NH_Icon.png,Scarecrow,Tree Branch:3|Clump of Weeds:5,130
+1,0,housewares,https://dodo.ac/np/images/thumb/2/28/Simple_DIY_Workbench_NH_Icon.png/30px-Simple_DIY_Workbench_NH_Icon.png,Simple DIY Workbench,Hardwood:5|Iron Nugget:1,1350
+1,0,housewares,https://dodo.ac/np/images/thumb/f/fe/Mini_DIY_Workbench_NH_Icon.png/30px-Mini_DIY_Workbench_NH_Icon.png,Mini DIY Workbench,Wood:3|Hardwood:3|Softwood:3|Iron Nugget:2,2580
+0,0,housewares,https://dodo.ac/np/images/thumb/b/b7/DIY_Workbench_NH_Icon.png/30px-DIY_Workbench_NH_Icon.png,DIY Workbench,Wood:5|Hardwood:5|Softwood:5|Iron Nugget:3,6630
+1,0,housewares,https://dodo.ac/np/images/thumb/2/22/Wooden_Bookshelf_NH_Icon.png/30px-Wooden_Bookshelf_NH_Icon.png,Wooden Bookshelf,Book:5|Wood:10,1925
+0,0,housewares,https://dodo.ac/np/images/thumb/6/60/Wooden_Stool_NH_Icon.png/30px-Wooden_Stool_NH_Icon.png,Wooden Stool,Wood:4,480
+1,0,housewares,https://dodo.ac/np/images/thumb/3/32/Wooden_Chair_NH_Icon.png/30px-Wooden_Chair_NH_Icon.png,Wooden Chair,Wood:6,720
+1,0,housewares,https://dodo.ac/np/images/thumb/0/06/Wooden_Mini_Table_NH_Icon.png/30px-Wooden_Mini_Table_NH_Icon.png,Wooden Mini Table,Wood:6,720
+1,0,housewares,https://dodo.ac/np/images/thumb/d/dd/Wooden_Low_Table_NH_Icon.png/30px-Wooden_Low_Table_NH_Icon.png,Wooden Low Table,Wood:10,1200
+1,0,housewares,https://dodo.ac/np/images/thumb/5/5f/Wooden_Wardrobe_NH_Icon.png/30px-Wooden_Wardrobe_NH_Icon.png,Wooden Wardrobe,Wood:12,1440
+1,0,housewares,https://dodo.ac/np/images/thumb/5/54/Wooden_Simple_Bed_NH_Icon.png/30px-Wooden_Simple_Bed_NH_Icon.png,Wooden Simple Bed,Wood:18,2160
+0,0,housewares,https://dodo.ac/np/images/thumb/b/b8/Wooden_Chest_NH_Icon.png/30px-Wooden_Chest_NH_Icon.png,Wooden Chest,Wood:16,1920
+0,0,housewares,https://dodo.ac/np/images/thumb/c/c6/Wooden_Table_NH_Icon.png/30px-Wooden_Table_NH_Icon.png,Wooden Table,Wood:15,1800
+1,0,housewares,https://dodo.ac/np/images/thumb/0/03/Wooden_End_Table_NH_Icon.png/30px-Wooden_End_Table_NH_Icon.png,Wooden End Table,Wood:8,960
+0,0,housewares,https://dodo.ac/np/images/thumb/7/7a/Wooden_Full-Length_Mirror_NH_Icon.png/30px-Wooden_Full-Length_Mirror_NH_Icon.png,Wooden Full-Length Mirror,Wood:5|Iron Nugget:1,1350
+1,0,housewares,https://dodo.ac/np/images/thumb/e/e7/Wooden_Double_Bed_NH_Icon.png/30px-Wooden_Double_Bed_NH_Icon.png,Wooden Double Bed,Wood:30,3600
+0,0,housewares,https://dodo.ac/np/images/thumb/d/d5/Wooden_Waste_Bin_NH_Icon.png/30px-Wooden_Waste_Bin_NH_Icon.png,Wooden Waste Bin,Wood:4,480
+1,0,housewares,https://dodo.ac/np/images/thumb/5/53/Tiny_Library_NH_Icon.png/30px-Tiny_Library_NH_Icon.png,Tiny Library,Book:3|Wood:5,1035
+1,0,housewares,https://dodo.ac/np/images/thumb/6/69/Log_Stool_NH_Icon.png/30px-Log_Stool_NH_Icon.png,Log Stool,Hardwood:4,480
+0,0,housewares,https://dodo.ac/np/images/thumb/3/3a/Log_Round_Table_NH_Icon.png/30px-Log_Round_Table_NH_Icon.png,Log Round Table,Hardwood:15,1800
+0,0,housewares,https://dodo.ac/np/images/thumb/2/2d/Log_Bench_NH_Icon.png/30px-Log_Bench_NH_Icon.png,Log Bench,Hardwood:5,600
+0,0,housewares,https://dodo.ac/np/images/thumb/a/a1/Log_Dining_Table_NH_Icon.png/30px-Log_Dining_Table_NH_Icon.png,Log Dining Table,Hardwood:15,1800
+0,0,housewares,https://dodo.ac/np/images/thumb/b/bb/Log_Sofa_NH_Icon.png/30px-Log_Sofa_NH_Icon.png,Log Chair,Hardwood:8,960
+1,0,housewares,https://dodo.ac/np/images/thumb/d/d6/Log_Extra-Long_Sofa_NH_Icon.png/30px-Log_Extra-Long_Sofa_NH_Icon.png,Log Extra-Long Sofa,Log Chair:2,1920
+0,0,housewares,https://dodo.ac/np/images/thumb/9/9a/Log_Bed_NH_Icon.png/30px-Log_Bed_NH_Icon.png,Log Bed,Hardwood:30,3600
+1,0,housewares,https://dodo.ac/np/images/thumb/a/a2/Log_Garden_Lounge_NH_Icon.png/30px-Log_Garden_Lounge_NH_Icon.png,Log Garden Lounge,Hardwood:12,1440
+0,0,housewares,https://dodo.ac/np/images/thumb/3/31/Log_Decorative_Shelves_NH_Icon.png/30px-Log_Decorative_Shelves_NH_Icon.png,Log Decorative Shelves,Log Bench:2|Hardwood:3,1560
+1,0,housewares,https://dodo.ac/np/images/thumb/f/f2/Log_Stakes_NH_Icon.png/30px-Log_Stakes_NH_Icon.png,Log Stakes,Wood:3,360
+0,0,housewares,https://dodo.ac/np/images/thumb/6/6f/Wild_Log_Bench_NH_Icon.png/30px-Wild_Log_Bench_NH_Icon.png,Wild Log Bench,Hardwood:8,960
+0,0,housewares,https://dodo.ac/np/images/thumb/2/2e/Wooden-Block_Stool_NH_Icon.png/30px-Wooden-Block_Stool_NH_Icon.png,Wooden-Block Stool,Wooden Block Toy:1|Softwood:2,600
+1,0,housewares,https://dodo.ac/np/images/thumb/5/50/Wooden-Block_Chair_NH_Icon.png/30px-Wooden-Block_Chair_NH_Icon.png,Wooden-Block Chair,Wooden Block Toy:1|Softwood:3,720
+1,0,housewares,https://dodo.ac/np/images/thumb/f/f6/Wooden-Block_Table_NH_Icon.png/30px-Wooden-Block_Table_NH_Icon.png,Wooden-Block Table,Wooden Block Toy:1|Softwood:8,1320
+0,0,housewares,https://dodo.ac/np/images/thumb/5/5a/Wooden-Block_Chest_NH_Icon.png/30px-Wooden-Block_Chest_NH_Icon.png,Wooden-Block Chest,Wooden Block Toy:1|Softwood:12,1800
+0,0,housewares,https://dodo.ac/np/images/thumb/3/35/Wooden-Block_Bed_NH_Icon.png/30px-Wooden-Block_Bed_NH_Icon.png,Wooden-Block Bed,Wooden Block Toy:1|Softwood:17,2400
+1,0,housewares,https://dodo.ac/np/images/thumb/4/47/Wooden-Block_Bookshelf_NH_Icon.png/30px-Wooden-Block_Bookshelf_NH_Icon.png,Wooden-Block Bookshelf,Wooden Block Toy:1|Softwood:3,720
+1,0,housewares,https://dodo.ac/np/images/thumb/2/23/Wooden-Block_Stereo_NH_Icon.png/30px-Wooden-Block_Stereo_NH_Icon.png,Wooden-Block Stereo,Wooden Block Toy:1|Softwood:5|Iron Nugget:2,2460
+1,0,housewares,https://dodo.ac/np/images/thumb/d/d0/Wooden-Block_Bench_NH_Icon.png/30px-Wooden-Block_Bench_NH_Icon.png,Wooden-Block Bench,Wooden Block Toy:1|Softwood:4,840
+1,0,housewares,https://dodo.ac/np/images/thumb/7/70/Plain_Sink_NH_Icon.png/30px-Plain_Sink_NH_Icon.png,Plain Sink,Wood:6|Clay:4|Iron Nugget:1,2270
+1,0,housewares,https://dodo.ac/np/images/thumb/5/5c/Plain_Wooden_Shop_Sign_NH_Icon.png/30px-Plain_Wooden_Shop_Sign_NH_Icon.png,Plain Wooden Shop Sign,Wood:6,720
+1,0,housewares,https://dodo.ac/np/images/thumb/3/3e/Natural_Garden_Chair_NH_Icon.png/30px-Natural_Garden_Chair_NH_Icon.png,Natural Garden Chair,Hardwood:6|Iron Nugget:2,2220
+0,0,housewares,https://dodo.ac/np/images/thumb/1/12/Natural_Square_Table_NH_Icon.png/30px-Natural_Square_Table_NH_Icon.png,Natural Square Table,Hardwood:4|Iron Nugget:2,1980
+1,0,housewares,https://dodo.ac/np/images/thumb/e/e6/Natural_Garden_Table_NH_Icon.png/30px-Natural_Garden_Table_NH_Icon.png,Natural Garden Table,Hardwood:9|Iron Nugget:3,3330
+\1,0,housewares,https://dodo.ac/np/images/thumb/c/cc/Rocking_Chair_NH_Icon.png/30px-Rocking_Chair_NH_Icon.png,Rocking Chair,Wood:3|Softwood:5,960
+1,0,housewares,https://dodo.ac/np/images/thumb/d/d9/Swinging_Bench_NH_Icon.png/30px-Swinging_Bench_NH_Icon.png,Swinging Bench,Wood:5|Softwood:7,1440
+1,0,housewares,https://dodo.ac/np/images/thumb/8/8f/Acoustic_Guitar_NH_Icon.png/30px-Acoustic_Guitar_NH_Icon.png,Acoustic Guitar,Softwood:8|Iron Nugget:3,3210
+0,0,housewares,https://dodo.ac/np/images/thumb/2/2f/Street_Piano_NH_Icon.png/30px-Street_Piano_NH_Icon.png,Street Piano,Upright Piano:1|Painting Set:1,26755
+1,0,housewares,https://dodo.ac/np/images/thumb/5/51/Grass_Standee_NH_Icon.png/30px-Grass_Standee_NH_Icon.png,Grass Standee,Wood:2|Softwood:2,480
+0,0,housewares,https://dodo.ac/np/images/thumb/2/29/Tree_Standee_NH_Icon.png/30px-Tree_Standee_NH_Icon.png,Tree Standee,Wood:5|Softwood:8,1560
+0,0,housewares,https://dodo.ac/np/images/thumb/e/eb/Hedge_Standee_NH_Icon.png/30px-Hedge_Standee_NH_Icon.png,Hedge Standee,Wood:2|Softwood:3,600
+0,0,housewares,https://dodo.ac/np/images/thumb/a/aa/Mountain_Standee_NH_Icon.png/30px-Mountain_Standee_NH_Icon.png,Mountain Standee,Wood:4|Softwood:5,1080
+0,0,housewares,https://dodo.ac/np/images/thumb/6/63/Tea_Table_NH_Icon.png/30px-Tea_Table_NH_Icon.png,Tea Table,Hardwood:12,1440
+0,0,housewares,https://dodo.ac/np/images/thumb/1/1d/Trophy_Case_NH_Icon.png/30px-Trophy_Case_NH_Icon.png,Trophy Case,Hardwood:24|Gold Nugget:3|Iron Nugget:6,33690
+1,0,housewares,https://dodo.ac/np/images/thumb/4/49/Rocking_Horse_NH_Icon.png/30px-Rocking_Horse_NH_Icon.png,Rocking Horse,Softwood:5,600
+0,0,housewares,https://dodo.ac/np/images/thumb/8/81/Clackercart_NH_Icon.png/30px-Clackercart_NH_Icon.png,Clackercart,Hardwood:2|Softwood:6,960
+0,0,housewares,https://dodo.ac/np/images/thumb/4/42/Music_Stand_NH_Icon.png/30px-Music_Stand_NH_Icon.png,Music Stand,Hardwood:8,960
+0,0,housewares,https://dodo.ac/np/images/thumb/8/83/Birdcage_NH_Icon.png/30px-Birdcage_NH_Icon.png,Birdcage,Wood:8,960
+0,0,housewares,https://dodo.ac/np/images/thumb/a/a2/Doghouse_NH_Icon.png/30px-Doghouse_NH_Icon.png,Doghouse,Wood:10|Hardwood:7,2040
+1,0,housewares,https://dodo.ac/np/images/thumb/e/ec/Barrel_NH_Icon.png/30px-Barrel_NH_Icon.png,Barrel,Wood:5|Iron Nugget:2,2100
+0,0,housewares,https://dodo.ac/np/images/thumb/b/b1/Oil-Barrel_Bathtub_NH_Icon.png/30px-Oil-Barrel_Bathtub_NH_Icon.png,Oil-Barrel Bathtub,Oil Barrel:1|Campfire:1|Stone:2,655
+0,0,housewares,https://dodo.ac/np/images/thumb/c/ca/Butter_Churn_NH_Icon.png/30px-Butter_Churn_NH_Icon.png,Butter Churn,Wood:4|Iron Nugget:2,1980
+0,0,housewares,https://dodo.ac/np/images/thumb/5/58/Wooden_Bucket_NH_Icon.png/30px-Wooden_Bucket_NH_Icon.png,Wooden Bucket,Wood:3|Iron Nugget:1,1110
+1,0,housewares,https://dodo.ac/np/images/thumb/f/f3/Birdhouse_NH_Icon.png/30px-Birdhouse_NH_Icon.png,Birdhouse,Wood:2|Softwood:5,840
+1,0,housewares,https://dodo.ac/np/images/thumb/1/16/Stall_NH_Icon.png/30px-Stall_NH_Icon.png,Stall,Wood:12,1400
+0,0,housewares,https://dodo.ac/np/images/thumb/9/97/Flower_Stand_NH_Icon.png/30px-Flower_Stand_NH_Icon.png,Flower Stand,Red Rose:1|Pink Rose:2|Orange Rose:2|White Lily:2|Yellow Lily:2|Purple Windflower:5,2880
+0,0,housewares,https://dodo.ac/np/images/thumb/9/9c/Garden_Wagon_NH_Icon.png/30px-Garden_Wagon_NH_Icon.png,Garden Wagon,White Hyacinth:3|Red Cosmos:3|Yellow Rose:3|Wood:8|Iron Nugget:2,3180
+0,0,housewares,https://dodo.ac/np/images/thumb/0/0a/Angled_Signpost_NH_Icon.png/30px-Angled_Signpost_NH_Icon.png,Angled Signpost,Hardwood:2|Softwood:3,600
+1,0,housewares,https://dodo.ac/np/images/thumb/8/82/Destinations_Signpost_NH_Icon.png/30px-Destinations_Signpost_NH_Icon.png,Destinations Signpost,Hardwood:4|Softwood:8,1440
+1,0,housewares,https://dodo.ac/np/images/thumb/2/20/Tire_Toy_NH_Icon.png/30px-Tire_Toy_NH_Icon.png,Tire Toy,Old Tire:1,20
+1,0,housewares,https://dodo.ac/np/images/thumb/2/26/Tire_Stack_NH_Icon.png/30px-Tire_Stack_NH_Icon.png,Tire Stack,Old Tire:3,60
+1,0,housewares,https://dodo.ac/np/images/thumb/1/12/Brick_Oven_NH_Icon.png/30px-Brick_Oven_NH_Icon.png,Brick Oven,Clay:8|Iron Nugget:2|Wood:6,3820
+0,0,housewares,https://dodo.ac/np/images/thumb/8/85/Brick_Well_NH_Icon.png/30px-Brick_Well_NH_Icon.png,Brick Well,Clay:8|Wood:5|Flimsy Shovel:1,2800
+0,0,housewares,https://dodo.ac/np/images/thumb/b/bd/Silo_NH_Icon.png/30px-Silo_NH_Icon.png,Silo,Iron Nugget:12|Hardwood:6|Clay:12|Stone:12,13920
+1,0,housewares,https://dodo.ac/np/images/thumb/d/d9/Stone_Stool_NH_Icon.png/30px-Stone_Stool_NH_Icon.png,Stone Stool,Stone:3,450
+0,0,housewares,https://dodo.ac/np/images/thumb/e/e3/Stone_Table_NH_Icon.png/30px-Stone_Table_NH_Icon.png,Stone Table,Stone:8,1200
+1,0,housewares,https://dodo.ac/np/images/thumb/7/77/Birdbath_NH_Icon.png/30px-Birdbath_NH_Icon.png,Birdbath,Stone:6,900
+1,0,housewares,https://dodo.ac/np/images/thumb/d/d8/Drinking_Fountain_NH_Icon.png/30px-Drinking_Fountain_NH_Icon.png,Drinking Fountain,Stone:8|Iron Nugget:2,2700
+1,0,housewares,https://dodo.ac/np/images/thumb/d/d1/Fountain_NH_Icon.png/30px-Fountain_NH_Icon.png,Fountain,Drinking Fountain:1|Stone:20|Iron Nugget:8,11700
+0,0,housewares,https://dodo.ac/np/images/thumb/6/60/Garden_Rock_NH_Icon.png/30px-Garden_Rock_NH_Icon.png,Garden Rock,Stone:15,2250
+0,0,housewares,https://dodo.ac/np/images/thumb/c/c3/Flat_Garden_Rock_NH_Icon.png/30px-Flat_Garden_Rock_NH_Icon.png,Flat Garden Rock,Stone:20,3000
+0,0,housewares,https://dodo.ac/np/images/thumb/e/ea/Tall_Garden_Rock_NH_Icon.png/30px-Tall_Garden_Rock_NH_Icon.png,Tall Garden Rock,Stone:60,9000
+0,0,housewares,https://dodo.ac/np/images/thumb/5/5c/Mossy_Garden_Rock_NH_Icon.png/30px-Mossy_Garden_Rock_NH_Icon.png,Mossy Garden Rock,Stone:15|Clump of Weeds:15,2550
+0,0,housewares,https://dodo.ac/np/images/thumb/7/79/Stone_Arch_NH_Icon.png/30px-Stone_Arch_NH_Icon.png,Stone Arch,Stone:90,13500
+0,0,housewares,https://dodo.ac/np/images/thumb/3/32/Simple_Well_NH_Icon.png/30px-Simple_Well_NH_Icon.png,Simple Well,Stone:15|Flimsy Shovel:1,2850
+1,0,housewares,https://dodo.ac/np/images/thumb/0/01/Outdoor_Bath_NH_Icon.png/30px-Outdoor_Bath_NH_Icon.png,Outdoor Bath,Stone:20|Shovel:1,4350
+0,0,housewares,https://dodo.ac/np/images/thumb/b/b7/Wave_Breaker_NH_Icon.png/30px-Wave_Breaker_NH_Icon.png,Wave Breaker,Stone:10|Clay:10,3500
+0,0,housewares,https://dodo.ac/np/images/thumb/b/bf/Western-Style_Stone_NH_Icon.png/30px-Western-Style_Stone_NH_Icon.png,Western-Style Stone,Stone:30,4500
+0,0,housewares,https://dodo.ac/np/images/thumb/9/93/Stone_Lion-Dog_NH_Icon.png/30px-Stone_Lion-Dog_NH_Icon.png,Stone Lion-Dog,Stone:24,3600
+0,0,housewares,https://dodo.ac/np/images/thumb/5/5d/Stone_Tablet_NH_Icon.png/30px-Stone_Tablet_NH_Icon.png,Stone Tablet,Stone:12,1800
+1,0,housewares,https://dodo.ac/np/images/thumb/5/54/Tall_Lantern_NH_Icon.png/30px-Tall_Lantern_NH_Icon.png,Tall Lantern,Stone:18,2700
+0,0,housewares,https://dodo.ac/np/images/thumb/1/1f/Pond_Stone_NH_Icon.png/30px-Pond_Stone_NH_Icon.png,Pond Stone,Stone:10,1500
+0,0,housewares,https://dodo.ac/np/images/thumb/d/d2/Garden_Bench_NH_Icon.png/30px-Garden_Bench_NH_Icon.png,Garden Bench,Wood:12|Iron Nugget:4,4440
+0,0,housewares,https://dodo.ac/np/images/thumb/e/e9/Sauna_Heater_NH_Icon.png/30px-Sauna_Heater_NH_Icon.png,Sauna Heater,Stone:6|Iron Nugget:3|Wood:3,3510
+0,0,housewares,https://dodo.ac/np/images/thumb/0/04/Standard_Umbrella_Stand_NH_Icon.png/30px-Standard_Umbrella_Stand_NH_Icon.png,Standard Umbrella Stand,Iron Nugget:3,2250
+1,0,housewares,https://dodo.ac/np/images/thumb/3/3a/Iron_Closet_NH_Icon.png/30px-Iron_Closet_NH_Icon.png,Iron Closet,Iron Nugget:12,9000
+0,0,housewares,https://dodo.ac/np/images/thumb/7/7e/Iron_Frame_NH_Icon.png/30px-Iron_Frame_NH_Icon.png,Iron Frame,Iron Nugget:20,15000
+0,0,housewares,https://dodo.ac/np/images/thumb/5/5a/Iron_Garden_Bench_NH_Icon.png/30px-Iron_Garden_Bench_NH_Icon.png,Iron Garden Bench,Iron Nugget:8,6000
+1,0,housewares,https://dodo.ac/np/images/thumb/3/31/Iron_Garden_Chair_NH_Icon.png/30px-Iron_Garden_Chair_NH_Icon.png,Iron Garden Chair,Iron Nugget:3,2250
+0,0,housewares,https://dodo.ac/np/images/thumb/b/b6/Iron_Garden_Table_NH_Icon.png/30px-Iron_Garden_Table_NH_Icon.png,Iron Garden Table,Iron Nugget:5,3750
+0,0,housewares,https://dodo.ac/np/images/thumb/b/b9/Iron_Hanger_Stand_NH_Icon.png/30px-Iron_Hanger_Stand_NH_Icon.png,Iron Hanger Stand,Iron Nugget:3,2250
+0,0,housewares,https://dodo.ac/np/images/thumb/9/92/Iron_Shelf_NH_Icon.png/30px-Iron_Shelf_NH_Icon.png,Iron Shelf,Iron Nugget:14,10500
+0,0,housewares,https://dodo.ac/np/images/thumb/f/fd/Iron_Worktable_NH_Icon.png/30px-Iron_Worktable_NH_Icon.png,Iron Worktable,Iron Nugget:10,7500
+0,0,housewares,https://dodo.ac/np/images/thumb/8/82/Gong_NH_Icon.png/30px-Gong_NH_Icon.png,Gong,Iron Nugget:6|Wood:5,5100
+1,0,housewares,https://dodo.ac/np/images/thumb/e/ef/Water_Pump_NH_Icon.png/30px-Water_Pump_NH_Icon.png,Water Pump,Iron Nugget:2|Clay:6,2700
+0,0,housewares,https://dodo.ac/np/images/thumb/4/43/Jail_Bars_NH_Icon.png/30px-Jail_Bars_NH_Icon.png,Jail Bars,Iron Nugget:5,3750
+0,0,housewares,https://dodo.ac/np/images/thumb/c/ce/Barbell_NH_Icon.png/30px-Barbell_NH_Icon.png,Barbell,Iron Nugget:10,7500
+0,0,housewares,https://dodo.ac/np/images/thumb/8/8e/Manhole_Cover_NH_Icon.png/30px-Manhole_Cover_NH_Icon.png,Manhole Cover,Iron Nugget:3,2250
+0,0,housewares,https://dodo.ac/np/images/thumb/1/17/Ironwood_Bed_NH_Icon.png/30px-Ironwood_Bed_NH_Icon.png,Ironwood Bed,Wood:20|Iron Nugget:10,9900
+1,0,housewares,https://dodo.ac/np/images/thumb/9/97/Ironwood_Cart_NH_Icon.png/30px-Ironwood_Cart_NH_Icon.png,Ironwood Cart,Wood:6|Iron Nugget:4,3720
+0,0,housewares,https://dodo.ac/np/images/thumb/6/66/Ironwood_Chair_NH_Icon.png/30px-Ironwood_Chair_NH_Icon.png,Ironwood Chair,Wood:3|Iron Nugget:2,1860
+0,0,housewares,https://dodo.ac/np/images/thumb/f/f3/Ironwood_Table_NH_Icon.png/30px-Ironwood_Table_NH_Icon.png,Ironwood Table,Wood:12|Iron Nugget:6,5940
+0,0,housewares,https://dodo.ac/np/images/thumb/5/56/Ironwood_Low_Table_NH_Icon.png/30px-Ironwood_Low_Table_NH_Icon.png,Ironwood Low Table,Wood:6|Iron Nugget:4,3720
+0,0,housewares,https://dodo.ac/np/images/thumb/7/77/Ironwood_Dresser_NH_Icon.png/30px-Ironwood_Dresser_NH_Icon.png,Ironwood Dresser,Wood:7|Iron Nugget:4,3840
+1,0,housewares,https://dodo.ac/np/images/thumb/e/e9/Ironwood_Kitchenette_NH_Icon.png/30px-Ironwood_Kitchenette_NH_Icon.png,Ironwood Kitchenette,Wood:4|Iron Nugget:3|Ironwood Dresser:1|Cutting Board:1,7560
+0,0,housewares,https://dodo.ac/np/images/thumb/5/5c/Ironwood_Cupboard_NH_Icon.png/30px-Ironwood_Cupboard_NH_Icon.png,Ironwood Cupboard,Wood:12|Iron Nugget:6|Ironwood Dresser:1,9780
+0,0,housewares,https://dodo.ac/np/images/thumb/5/5a/Ironwood_Diy_Workbench_NH_Icon.png/30px-Ironwood_Diy_Workbench_NH_Icon.png,Ironwood DIY Workbench,Wood:12|Iron Nugget:6,8520
+0,0,housewares,https://dodo.ac/np/images/thumb/1/1d/Golden_Casket_NH_Icon.png/30px-Golden_Casket_NH_Icon.png,Golden Casket,Gold Nugget:8,80000
+0,0,housewares,https://dodo.ac/np/images/thumb/d/d8/Golden_Seat_NH_Icon.png/30px-Golden_Seat_NH_Icon.png,Golden Seat,Gold Nugget:5,50000
+0,0,housewares,https://dodo.ac/np/images/thumb/c/ca/Golden_Toilet_NH_Icon.png/30px-Golden_Toilet_NH_Icon.png,Golden Toilet,Gold Nugget:6,50000
+1,0,housewares,https://dodo.ac/np/images/thumb/0/0e/Hay_Bed_NH_Icon.png/30px-Hay_Bed_NH_Icon.png,Hay Bed,Clump of Weeds:20,400
+0,0,housewares,https://dodo.ac/np/images/thumb/2/2a/Cosmos_Shower_NH_Icon.png/30px-Cosmos_Shower_NH_Icon.png,Cosmos Shower,Pink Cosmos:5|Iron Nugget:3,3050
+1,0,housewares,https://dodo.ac/np/images/thumb/c/c8/Apple_Chair_NH_Icon.png/30px-Apple_Chair_NH_Icon.png,Apple Chair,Apple:10|Wood:4,2480
+0,0,housewares,https://dodo.ac/np/images/thumb/4/40/Juicy-Apple_TV_NH_Icon.png/30px-Juicy-Apple_TV_NH_Icon.png,Juicy-Apple TV,Apple:10|Iron Nugget:2,3500
+1,0,housewares,https://dodo.ac/np/images/thumb/0/0f/Orange_End_Table_NH_Icon.png/30px-Orange_End_Table_NH_Icon.png,Orange End Table,Orange:10|Wood:4,2480
+0,0,housewares,https://dodo.ac/np/images/thumb/2/2a/Peach_Chair_NH_Icon.png/30px-Peach_Chair_NH_Icon.png,Peach Chair,Peach:10|Wood:5,2600
+0,0,housewares,https://dodo.ac/np/images/thumb/8/87/Pear_Wardrobe_NH_Icon.png/30px-Pear_Wardrobe_NH_Icon.png,Pear Wardrobe,Pear:10|Wood:5,2600
+0,0,housewares,https://dodo.ac/np/images/thumb/0/0c/Pear_Bed_NH_Icon.png/30px-Pear_Bed_NH_Icon.png,Pear Bed,Pear:10|Softwood:6,2720
+0,0,housewares,https://dodo.ac/np/images/thumb/2/2c/Scattered_Papers_NH_Icon.png/30px-Scattered_Papers_NH_Icon.png,Scattered Papers,Document Stack:1,400
+1,0,housewares,https://dodo.ac/np/images/thumb/c/cd/Cardboard_Chair_NH_Icon.png/30px-Cardboard_Chair_NH_Icon.png,Cardboard Chair,Cardboard Box:1,60
+0,0,housewares,https://dodo.ac/np/images/thumb/3/3b/Cardboard_Sofa_NH_Icon.png/30px-Cardboard_Sofa_NH_Icon.png,Cardboard Sofa,Cardboard Box:2,120
+0,0,housewares,https://dodo.ac/np/images/thumb/3/31/Cardboard_Table_NH_Icon.png/30px-Cardboard_Table_NH_Icon.png,Cardboard Table,Cardboard Box:4,240
+1,0,housewares,https://dodo.ac/np/images/thumb/d/d7/Cardboard_Bed_NH_Icon.png/30px-Cardboard_Bed_NH_Icon.png,Cardboard Bed,Cardboard Box:4,240
+0,0,housewares,https://dodo.ac/np/images/thumb/b/be/Small_Cardboard_Boxes_NH_Icon.png/30px-Small_Cardboard_Boxes_NH_Icon.png,Small Cardboard Boxes,Cardboard Box:2,120
+1,0,housewares,https://dodo.ac/np/images/thumb/e/e3/Medium_Cardboard_Boxes_NH_Icon.png/30px-Medium_Cardboard_Boxes_NH_Icon.png,Medium Cardboard Boxes,Cardboard Box:4,240
+1,0,housewares,https://dodo.ac/np/images/thumb/e/e0/Large_Cardboard_Boxes_NH_Icon.png/30px-Large_Cardboard_Boxes_NH_Icon.png,Large Cardboard Boxes,Cardboard Box:5,300
+0,0,housewares,https://dodo.ac/np/images/thumb/e/ed/Kettle_Bathtub_NH_Icon.png/30px-Kettle_Bathtub_NH_Icon.png,Kettle Bathtub,Iron Nugget:8|Wood:2|Campfire:1,6270
+0,0,housewares,https://dodo.ac/np/images/thumb/9/9d/Pile_Of_Zen_Cushions_NH_Icon.png/30px-Pile_Of_Zen_Cushions_NH_Icon.png,Pile of Zen Cushions,Zen Cushion:3,750
+0,0,housewares,https://dodo.ac/np/images/thumb/b/b5/Zen-Style_Stone_NH_Icon.png/30px-Zen-Style_Stone_NH_Icon.png,Zen-Style Stone,Stone:30,4500
+1,0,housewares,https://dodo.ac/np/images/thumb/2/28/Giant_Teddy_Bear_NH_Icon.png/30px-Giant_Teddy_Bear_NH_Icon.png,Giant Teddy Bear,Papa Bear:1|Mama Bear:1|Baby Bear:1,6300
+0,0,housewares,https://dodo.ac/np/images/thumb/8/83/Moon_NH_Icon.png/30px-Moon_NH_Icon.png,Moon,Star Fragment:15|Large Star Fragment:1,12500
+0,0,housewares,https://dodo.ac/np/images/thumb/c/ce/Asteroid_NH_Icon.png/30px-Asteroid_NH_Icon.png,Asteroid,Star Fragment:5|Stone:10,4000
+0,0,housewares,https://dodo.ac/np/images/thumb/8/89/Astronaut_Suit_NH_Icon.png/30px-Astronaut_Suit_NH_Icon.png,Astronaut Suit,Star Fragment:5|Iron Nugget:5,6250
+0,0,housewares,https://dodo.ac/np/images/thumb/3/3c/Lunar_Rover_NH_Icon.png/30px-Lunar_Rover_NH_Icon.png,Lunar Rover,Star Fragment:10|Iron Nugget:10|Old Tire:4,12580
+0,0,housewares,https://dodo.ac/np/images/thumb/e/e1/Crewed_Spaceship_NH_Icon.png/30px-Crewed_Spaceship_NH_Icon.png,Crewed Spaceship,Star Fragment:10|Iron Nugget:20,20000
+0,0,housewares,https://dodo.ac/np/images/thumb/a/ac/Lunar_Lander_NH_Icon.png/30px-Lunar_Lander_NH_Icon.png,Lunar Lander,Star Fragment:10|Iron Nugget:15,16250
+0,0,housewares,https://dodo.ac/np/images/thumb/1/11/Crescent-Moon_Chair_NH_Icon.png/30px-Crescent-Moon_Chair_NH_Icon.png,Crescent-Moon Chair,Star Fragment:7|Large Star Fragment:1,8500
+0,0,housewares,https://dodo.ac/np/images/thumb/3/31/Flying_Saucer_NH_Icon.png/30px-Flying_Saucer_NH_Icon.png,Flying Saucer,Star Fragment:15|Iron Nugget:10,15000
+0,0,housewares,https://dodo.ac/np/images/thumb/0/0c/Rocket_NH_Icon.png/30px-Rocket_NH_Icon.png,Rocket,Star Fragment:10|Iron Nugget:20,20000
+0,0,housewares,https://dodo.ac/np/images/thumb/8/8e/Satellite_NH_Icon.png/30px-Satellite_NH_Icon.png,Satellite,Star Fragment:10|Iron Nugget:15,16250
+0,0,housewares,https://dodo.ac/np/images/thumb/9/9b/Space_Shuttle_NH_Icon.png/30px-Space_Shuttle_NH_Icon.png,Space Shuttle,Star Fragment:5|Iron Nugget:10,10000
+1,0,housewares,https://dodo.ac/np/images/thumb/4/46/Robot_Hero_NH_Icon.png/30px-Robot_Hero_NH_Icon.png,Robot Hero,Rocket:1|Rusted Part:30|Iron Nugget:90|Gold Nugget:10,250000
+1,0,housewares,https://dodo.ac/np/images/thumb/d/dd/Raccoon_Figurine_NH_Icon.png/30px-Raccoon_Figurine_NH_Icon.png,Raccoon Figurine,Clay:6,1200
+0,0,housewares,https://dodo.ac/np/images/thumb/3/38/Aries_Rocking_Chair_NH_Icon.png/30px-Aries_Rocking_Chair_NH_Icon.png,Aries Rocking Chair,Star Fragment:3|Aries Fragment:2|Gold Nugget:1|Stone:5,12125
+0,0,housewares,https://dodo.ac/np/images/thumb/6/68/Aquarius_Urn_NH_Icon.png/30px-Aquarius_Urn_NH_Icon.png,Aquarius Urn,Star Fragment:3|Aquarius Fragment:2|Gold Nugget:2|Stone:5,22125
+0,0,housewares,https://dodo.ac/np/images/thumb/9/97/Cancer_Table_NH_Icon.png/30px-Cancer_Table_NH_Icon.png,Cancer Table,Star Fragment:3|Cancer Fragment:2|Gold Nugget:2|Stone:3,21975
+0,0,housewares,https://dodo.ac/np/images/thumb/6/61/Capricorn_Ornament_NH_Icon.png/30px-Capricorn_Ornament_NH_Icon.png,Capricorn Ornament,Star Fragment:3|Capricorn Fragment:2|Gold Nugget:2|Stone:12,22650
+0,0,housewares,https://dodo.ac/np/images/thumb/f/f0/Gemini_Closet_NH_Icon.png/30px-Gemini_Closet_NH_Icon.png,Gemini Closet,Star Fragment:3Gold Nugget:2|Stone:6,22200
+0,0,housewares,https://dodo.ac/np/images/thumb/7/7b/Pisces_Lamp_NH_Icon.png/30px-Pisces_Lamp_NH_Icon.png,Pisces Lamp,Star Fragment:3|Pisces Fragment:2|Gold Nugget:2|Stone:4,22050
+1,0,housewares,https://dodo.ac/np/images/thumb/7/74/Taurus_Bathtub_NH_Icon.png/30px-Taurus_Bathtub_NH_Icon.png,Taurus Bathtub,Star Fragment:3Gold Nugget:1|Stone:8,12350
+0,0,housewares,https://dodo.ac/np/images/thumb/7/77/Virgo_Harp_NH_Icon.png/30px-Virgo_Harp_NH_Icon.png,Virgo Harp,Star Fragment:3|Virgo Fragment:2|Gold Nugget:2|Stone:4,22050
+0,0,housewares,https://dodo.ac/np/images/thumb/1/12/Beekeeper%27s_Hive_NH_Icon.png/30px-Beekeeper%27s_Hive_NH_Icon.png,Beekeeper's Hive,Wasp Nest:3|Wood:5,2400
+1,0,housewares,https://dodo.ac/np/images/thumb/3/31/Hearth_NH_Icon.png/30px-Hearth_NH_Icon.png,Hearth,Bamboo Piece:2|Iron Nugget:5|Clay:4|Hardwood:5,5470
+1,0,housewares,https://dodo.ac/np/images/thumb/7/79/Deer_Scare_NH_Icon.png/30px-Deer_Scare_NH_Icon.png,Deer Scare,Bamboo Piece:3|Stone:8|Clump of Weeds:3,1740
+0,0,housewares,https://dodo.ac/np/images/thumb/5/5f/Bamboo_Stopblock_NH_Icon.png/30px-Bamboo_Stopblock_NH_Icon.png,Bamboo Stopblock,Bamboo Piece:3,480
+0,0,housewares,https://dodo.ac/np/images/thumb/d/d8/Bamboo_Doll_NH_Icon.png/30px-Bamboo_Doll_NH_Icon.png,Bamboo Doll,Young Spring Bamboo:6,2400
+0,0,housewares,https://dodo.ac/np/images/thumb/b/ba/Bamboo_Basket_NH_Icon.png/30px-Bamboo_Basket_NH_Icon.png,Bamboo Basket,Bamboo Piece:7,1120
+0,0,housewares,https://dodo.ac/np/images/thumb/1/13/Bamboo_Bench_NH_Icon.png/30px-Bamboo_Bench_NH_Icon.png,Bamboo Bench,Bamboo Piece:8,1280
+1,0,housewares,https://dodo.ac/np/images/thumb/5/5f/Bamboo_Floor_Lamp_NH_Icon.png/30px-Bamboo_Floor_Lamp_NH_Icon.png,Bamboo Floor Lamp,Bamboo Piece:8,1280
+0,0,housewares,https://dodo.ac/np/images/thumb/3/3c/Green-Leaf_Pile_NH_Icon.png/30px-Green-Leaf_Pile_NH_Icon.png,Green-Leaf Pile,Young Spring Bamboo:1|Clump of Weeds:10,600
+0,0,housewares,https://dodo.ac/np/images/thumb/4/41/Bamboo_Noodle_Slide_NH_Icon.png/30px-Bamboo_Noodle_Slide_NH_Icon.png,Bamboo Noodle Slide,Young Spring Bamboo:7|Wood:3,3160
+0,0,housewares,https://dodo.ac/np/images/thumb/e/eb/Bamboo_Partition_NH_Icon.png/30px-Bamboo_Partition_NH_Icon.png,Bamboo Partition,Bamboo Piece:7|Stone:6,2020
+1,0,housewares,https://dodo.ac/np/images/thumb/d/d2/Bamboo_Shelf_NH_Icon.png/30px-Bamboo_Shelf_NH_Icon.png,Bamboo Shelf,Bamboo Piece:15,2400
+0,0,housewares,https://dodo.ac/np/images/thumb/9/92/Bamboo_Speaker_NH_Icon.png/30px-Bamboo_Speaker_NH_Icon.png,Bamboo Speaker,Bamboo Piece:3|Iron Nugget:1,1230
+0,0,housewares,https://dodo.ac/np/images/thumb/e/eb/Bamboo_Stool_NH_Icon.png/30px-Bamboo_Stool_NH_Icon.png,Bamboo Stool,Bamboo Piece:5,800
+0,0,housewares,https://dodo.ac/np/images/thumb/d/d3/Shell_Bed_NH_Icon.png/30px-Shell_Bed_NH_Icon.png,Shell Bed,Giant Clam:5|Clay:3|Stone:4,10200
+0,0,housewares,https://dodo.ac/np/images/thumb/2/2b/Shell_Partition_NH_Icon.png/30px-Shell_Partition_NH_Icon.png,Shell Partition,Venus Comb:4|Conch:4,8000
+1,0,housewares,https://dodo.ac/np/images/thumb/d/dc/Shell_Stool_NH_Icon.png/30px-Shell_Stool_NH_Icon.png,Shell Stool,Cowrie:5,600
+0,0,housewares,https://dodo.ac/np/images/thumb/e/eb/Shell_Table_NH_Icon.png/30px-Shell_Table_NH_Icon.png,Shell Table,Sand Dollar:7|Clay:3,2280
+0,0,housewares,https://dodo.ac/np/images/thumb/1/17/Shell_Fountain_NH_Icon.png/30px-Shell_Fountain_NH_Icon.png,Shell Fountain,Giant Clam:5|Stone:3,9450
+1,0,housewares,https://dodo.ac/np/images/thumb/f/f9/Shell_Arch_NH_Icon.png/30px-Shell_Arch_NH_Icon.png,Shell Arch,Sea Snail:3|Venus Comb:3|Sand Dollar:3|Coral:3|Giant Clam:3|Cowrie:3,12360
+0,0,housewares,https://dodo.ac/np/images/thumb/9/9e/Pansy_Table_NH_Icon.png/30px-Pansy_Table_NH_Icon.png,Pansy Table,Yellow Pansy:5|Hardwood:3,760
+0,0,housewares,https://dodo.ac/np/images/thumb/a/a5/Tulip_Surprise_Box_NH_Icon.png/30px-Tulip_Surprise_Box_NH_Icon.png,Tulip Surprise Box,Red Tulip:5|Softwood:3,760
+1,0,housewares,https://dodo.ac/np/images/thumb/6/66/Palm-Tree_Lamp_NH_Icon.png/30px-Palm-Tree_Lamp_NH_Icon.png,Palm-Tree Lamp,Coconut:4|Wood:4|Clay:4,3280
+0,0,housewares,https://dodo.ac/np/images/thumb/f/f1/Lily_Record_Player_NH_Icon.png/30px-Lily_Record_Player_NH_Icon.png,Lily Record Player,White Lily:5|Iron Nugget:3|Wood:3,3010
+1,0,housewares,https://dodo.ac/np/images/thumb/4/4f/Mum_Cushion_NH_Icon.png/30px-Mum_Cushion_NH_Icon.png,Mum Cushion,Yellow Mum:3|Clump of Weeds:10,440
+0,0,housewares,https://dodo.ac/np/images/thumb/5/53/Rose_Bed_NH_Icon.png/30px-Rose_Bed_NH_Icon.png,Rose Bed,Red Rose:10|Wood:5,1400
+0,0,housewares,https://dodo.ac/np/images/thumb/d/da/Leaf_Campfire_NH_Icon.png/30px-Leaf_Campfire_NH_Icon.png,Leaf Campfire,Pinecone:3|Clump of Weeds:5Tree Branch: 3,1330
+0,0,housewares,https://dodo.ac/np/images/thumb/7/73/Leaf_Stool_NH_Icon.png/30px-Leaf_Stool_NH_Icon.png,Leaf Stool,Maple Leaf:3|Wood:3,1560
+0,0,housewares,https://dodo.ac/np/images/thumb/6/65/Maple-Leaf_Pond_Stone_NH_Icon.png/30px-Maple-Leaf_Pond_Stone_NH_Icon.png,Maple-Leaf Pond Stone,Stone:10|Maple Leaf:3,2700
+0,0,housewares,https://dodo.ac/np/images/thumb/d/dd/Pile_Of_Leaves_NH_Icon.png/30px-Pile_Of_Leaves_NH_Icon.png,Pile of Leaves,Pinecone:3|Clump of Weeds:5,1300
+0,0,housewares,https://dodo.ac/np/images/thumb/2/25/Red-Leaf_Pile_NH_Icon.png/30px-Red-Leaf_Pile_NH_Icon.png,Red-Leaf Pile,Maple Leaf:3|Clump of Weeds:4,1280
+0,0,housewares,https://dodo.ac/np/images/thumb/f/f7/Yellow-Leaf_Pile_NH_Icon.png/30px-Yellow-Leaf_Pile_NH_Icon.png,Yellow-Leaf Pile,Acorn:3|Clump of Weeds:5,1300
+0,0,housewares,https://dodo.ac/np/images/thumb/1/12/Tree%27s_Bounty_Arch_NH_Icon.png/30px-Tree%27s_Bounty_Arch_NH_Icon.png,Tree’s Bounty Arch,Pinecone:4|Acorn:5|Maple Leaf:5|Tree Branch:15,5750
+0,0,housewares,https://dodo.ac/np/images/thumb/5/5a/Tree%27s_Bounty_Big_Tree_NH_Icon.png/30px-Tree%27s_Bounty_Big_Tree_NH_Icon.png,Tree’s Bounty Big Tree,Pinecone:5|Acorn:4|Maple Leaf:4|Tree Branch:8|Clay:4,6080
+0,0,housewares,https://dodo.ac/np/images/thumb/5/57/Mush_Lamp_NH_Icon.png/30px-Mush_Lamp_NH_Icon.png,Mush Lamp,Skinny Mushroom:1|Clay:5,1600
+0,0,housewares,https://dodo.ac/np/images/thumb/5/54/Mush_Log_NH_Icon.png/30px-Mush_Log_NH_Icon.png,Mush Log,Skinny Mushroom:2,1680
+0,0,housewares,https://dodo.ac/np/images/thumb/0/04/Mush_Low_Stool_NH_Icon.png/30px-Mush_Low_Stool_NH_Icon.png,Mush Low Stool,Round Mushroom:2,800
+0,0,housewares,https://dodo.ac/np/images/thumb/0/09/Mush_Parasol_NH_Icon.png/30px-Mush_Parasol_NH_Icon.png,Mush Parasol,Flat Mushroom:3,1200
+0,0,housewares,https://dodo.ac/np/images/thumb/4/46/Mush_Partition_NH_Icon.png/30px-Mush_Partition_NH_Icon.png,Mush Partition,Skinny Mushroom:3,1800
+0,0,housewares,https://dodo.ac/np/images/thumb/6/66/Mush_Table_NH_Icon.png/30px-Mush_Table_NH_Icon.png,Mush Table,Flat Mushroom:2|Wood:6,1520
+0,0,housewares,https://dodo.ac/np/images/thumb/7/7f/Frozen_Arch_NH_Icon.png/30px-Frozen_Arch_NH_Icon.png,Frozen Arch,Large Snowflake:1|Snowflake:10,9000
+0,0,housewares,https://dodo.ac/np/images/thumb/e/ef/Frozen_Bed_NH_Icon.png/30px-Frozen_Bed_NH_Icon.png,Frozen Bed,Large Snowflake:1|Snowflake:10,9000
+0,0,housewares,https://dodo.ac/np/images/thumb/d/d8/Frozen_Chair_NH_Icon.png/30px-Frozen_Chair_NH_Icon.png,Frozen Chair,Large Snowflake:1|Snowflake:3,6200
+0,0,housewares,https://dodo.ac/np/images/thumb/d/db/Frozen_Counter_NH_Icon.png/30px-Frozen_Counter_NH_Icon.png,Frozen Counter,Large Snowflake:1|Snowflake:5,7000
+0,0,housewares,https://dodo.ac/np/images/thumb/e/e1/Frozen_Partition_NH_Icon.png/30px-Frozen_Partition_NH_Icon.png,Frozen Partition,Large Snowflake:1|Snowflake:6,7400
+0,0,housewares,https://dodo.ac/np/images/thumb/7/78/Frozen_Pillar_NH_Icon.png/30px-Frozen_Pillar_NH_Icon.png,Frozen Pillar,Large Snowflake:1|Snowflake:4,6200
+0,0,housewares,https://dodo.ac/np/images/thumb/8/82/Frozen_Sculpture_NH_Icon.png/30px-Frozen_Sculpture_NH_Icon.png,Frozen Sculpture,Large Snowflake:1|Snowflake:4,6600
+0,0,housewares,https://dodo.ac/np/images/thumb/b/bc/Frozen_Table_NH_Icon.png/30px-Frozen_Table_NH_Icon.png,Frozen Table,Large Snowflake:1|Snowflake:8,8200
+0,0,housewares,https://dodo.ac/np/images/thumb/1/18/Frozen_Tree_NH_Icon.png/30px-Frozen_Tree_NH_Icon.png,Frozen Tree,Large Snowflake:1|Snowflake:8,8200
+0,0,housewares,https://dodo.ac/np/images/thumb/3/37/Three-Tiered_Snowperson_NH_Icon.png/30px-Three-Tiered_Snowperson_NH_Icon.png,Three-Tiered Snowperson,Large Snowflake:1|Snowflake:6|Tree Branch:2,7420
+0,0,housewares,https://dodo.ac/np/images/thumb/1/10/Festive_Tree_NH_Icon.png/30px-Festive_Tree_NH_Icon.png,Festive Tree,Red Ornament:3|Blue Ornament:3|Gold Ornament:3|Wood:5,1400
+0,0,housewares,https://dodo.ac/np/images/thumb/7/78/Big_Festive_Tree_NH_Icon.png/30px-Big_Festive_Tree_NH_Icon.png,Big Festive Tree,Red Ornament:6|Blue Ornament:6|Gold Ornament:4|Wood:5|Clay:5,3200
+0,0,housewares,https://dodo.ac/np/images/thumb/9/95/Illuminated_Tree_NH_Icon.png/30px-Illuminated_Tree_NH_Icon.png,Illuminated Tree,Red Ornament:3|Gold Ornament:4|Iron Nugget:3,6700
+0,0,housewares,https://dodo.ac/np/images/thumb/c/c1/Illuminated_Present_NH_Icon.png/30px-Illuminated_Present_NH_Icon.png,Illuminated Present,Red Ornament:3|Gold Ornament:4|Iron Nugget:3,2950
+0,0,housewares,https://dodo.ac/np/images/thumb/2/2a/Illuminated_Reindeer_NH_Icon.png/30px-Illuminated_Reindeer_NH_Icon.png,Illuminated Reindeer,Gold Ornament:6|Iron Nugget:5,4350
+0,0,housewares,https://dodo.ac/np/images/thumb/8/88/Illuminated_Snowflakes_NH_Icon.png/30px-Illuminated_Snowflakes_NH_Icon.png,Illuminated Snowflakes,Blue Ornament:9|Gold Nugget:3,3150
+0,0,housewares,https://dodo.ac/np/images/thumb/a/a3/Sleigh_NH_Icon.png/30px-Sleigh_NH_Icon.png,Sleigh,Wood:8,960
+0,0,miscellaneous,https://dodo.ac/np/images/thumb/d/d6/Firewood_NH_Icon.png/30px-Firewood_NH_Icon.png,Firewood,Wood:8,960
+1,0,miscellaneous,https://dodo.ac/np/images/thumb/6/60/Wooden-Block_Toy_NH_Icon.png/30px-Wooden-Block_Toy_NH_Icon.png,Wooden-Block Toy,Softwood:3,360
+1,0,miscellaneous,https://dodo.ac/np/images/thumb/2/29/Wooden_Table_Mirror_NH_Icon.png/30px-Wooden_Table_Mirror_NH_Icon.png,Wooden Table Mirror,Wood:3|Iron Nugget:1,1110
+0,0,miscellaneous,https://dodo.ac/np/images/thumb/8/8e/Wooden_Toolbox_NH_Icon.png/30px-Wooden_Toolbox_NH_Icon.png,Wooden Toolbox,Softwood:4|Iron Nugget:2,1960
+1,0,miscellaneous,https://dodo.ac/np/images/thumb/1/13/Ringtoss_NH_Icon.png/30px-Ringtoss_NH_Icon.png,Ringtoss,Wood:2|Softwood:2,480
+0,0,miscellaneous,https://dodo.ac/np/images/thumb/1/16/Matryoshka_NH_Icon.png/30px-Matryoshka_NH_Icon.png,Matryoshka,Softwood:5,600
+1,0,miscellaneous,https://dodo.ac/np/images/thumb/5/59/Wooden_Fish_NH_Icon.png/30px-Wooden_Fish_NH_Icon.png,Wooden Fish,Wood:3,360
+1,0,miscellaneous,https://dodo.ac/np/images/thumb/8/8b/Old-Fashioned_Washtub_NH_Icon.png/30px-Old-Fashioned_Washtub_NH_Icon.png,Old-Fashioned Washtub,Softwood:3,360
+0,0,miscellaneous,https://dodo.ac/np/images/thumb/c/cf/Decoy_Duck_NH_Icon.png/30px-Decoy_Duck_NH_Icon.png,Decoy Duck,Softwood:4,480
+1,0,miscellaneous,https://dodo.ac/np/images/thumb/9/9c/Recycled-Can_Thumb_Piano_NH_Icon.png/30px-Recycled-Can_Thumb_Piano_NH_Icon.png,Recycled-Can Thumb Piano,Empty Can:1|Wood:1|Iron Nugget:1,890
+1,0,miscellaneous,https://dodo.ac/np/images/thumb/f/fc/Trash_Bags_NH_Icon.png/30px-Trash_Bags_NH_Icon.png,Trash Bags,Empty Can:1|Boot:1|Old Tire:1,60
+0,0,miscellaneous,https://dodo.ac/np/images/thumb/2/26/Modeling_Clay_NH_Icon.png/30px-Modeling_Clay_NH_Icon.png,Modeling Clay,Clay:2,400
+0,0,miscellaneous,https://dodo.ac/np/images/thumb/1/11/Kettlebell_NH_Icon.png/30px-Kettlebell_NH_Icon.png,Kettlebell,Iron Nugget:5,3750
+1,0,miscellaneous,https://dodo.ac/np/images/thumb/7/74/Document_Stack_NH_Icon.png/30px-Document_Stack_NH_Icon.png,Document Stack,N/A:0,400
+0,0,miscellaneous,https://dodo.ac/np/images/thumb/8/8f/Magazine_Rack_NH_Icon.png/30px-Magazine_Rack_NH_Icon.png,Magazine Rack,Magazine:3|Wood:4,690
+1,0,miscellaneous,https://dodo.ac/np/images/thumb/a/a8/Stacked_Magazines_NH_Icon.png/30px-Stacked_Magazines_NH_Icon.png,Stacked Magazines,Magazine:6,630
+0,0,miscellaneous,https://dodo.ac/np/images/thumb/0/0b/Stack_Of_Books_NH_Icon.png/30px-Stack_Of_Books_NH_Icon.png,Stack of Books,Book:5,725
+1,0,miscellaneous,https://dodo.ac/np/images/thumb/7/74/Ukelele_NH_Icon.png/30px-Ukelele_NH_Icon.png,Ukulele,Hardwood:5,600
+0,0,miscellaneous,https://dodo.ac/np/images/thumb/2/25/Aroma_Pot_NH_Icon.png/30px-Aroma_Pot_NH_Icon.png,Aroma Pot,Clay:3,600
+1,0,miscellaneous,https://dodo.ac/np/images/thumb/2/29/Classic_Pitcher_NH_Icon.png/30px-Classic_Pitcher_NH_Icon.png,Classic Pitcher,Clay:4,800
+1,0,miscellaneous,https://dodo.ac/np/images/thumb/f/fc/Pot_NH_Icon.png/30px-Pot_NH_Icon.png,Pot,Clay:5,1000
+0,0,miscellaneous,https://dodo.ac/np/images/thumb/6/64/Unglazed_Dish_Set_NH_Icon.png/30px-Unglazed_Dish_Set_NH_Icon.png,Unglazed Dish Set,Clay:3,600
+1,0,miscellaneous,https://dodo.ac/np/images/thumb/1/14/Frying_Pan_NH_Icon.png/30px-Frying_Pan_NH_Icon.png,Frying Pan,Iron Nugget:2,1500
+0,0,miscellaneous,https://dodo.ac/np/images/thumb/9/92/Cutting_Board_NH_Icon.png/30px-Cutting_Board_NH_Icon.png,Cutting Board,Hardwood:2|Iron Nugget:1,990
+0,0,miscellaneous,https://dodo.ac/np/images/thumb/c/c9/Infused-Water_Dispenser_NH_Icon.png/30px-Infused-Water_Dispenser_NH_Icon.png,Infused-Water Dispenser,Apple:2|Cherry:2|Orange:2|Peach:2|Coconut:2,3000
+0,0,miscellaneous,https://dodo.ac/np/images/thumb/d/d8/Gold_Bars_NH_Icon.png/30px-Gold_Bars_NH_Icon.png,Gold Bars,Gold Nugget:3,30000
+0,0,miscellaneous,https://dodo.ac/np/images/thumb/d/d6/Golden_Arowana_Model_NH_Icon.png/30px-Golden_Arowana_Model_NH_Icon.png,Golden Arowana Model,Gold Nugget:3,30000
+0,0,miscellaneous,https://dodo.ac/np/images/thumb/7/70/Golden_Dung_Beetle_NH_Icon.png/30px-Golden_Dung_Beetle_NH_Icon.png,Golden Dung Beetle,Gold Nugget:3,30000
+0,0,miscellaneous,https://dodo.ac/np/images/thumb/3/3f/Golden_Candlestick_NH_Icon.png/30px-Golden_Candlestick_NH_Icon.png,Golden Candlestick,Gold Nugget:2,20000
+1,0,miscellaneous,https://dodo.ac/np/images/thumb/f/f9/Golden_Dishes_NH_Icon.png/30px-Golden_Dishes_NH_Icon.png,Golden Dishes,Gold Nugget:1,10000
+0,0,miscellaneous,https://dodo.ac/np/images/thumb/d/dd/Lucky_Gold_Cat_NH_Icon.png/30px-Lucky_Gold_Cat_NH_Icon.png,Lucky Gold Cat,Gold Nugget:2,21675
+0,0,miscellaneous,https://dodo.ac/np/images/thumb/5/5a/Libra_Scale_NH_Icon.png/30px-Libra_Scale_NH_Icon.png,Libra Scale,Star Fragment:3|Libra Fragment:2|Gold Nugget:2,21750
+0,0,miscellaneous,https://dodo.ac/np/images/thumb/e/ec/Scorpio_Lamp_NH_Icon.png/30px-Scorpio_Lamp_NH_Icon.png,Scorpio Lamp,Star Fragment:3|Scorpio Fragment:2|Stone:5,22125
+0,0,miscellaneous,https://dodo.ac/np/images/thumb/a/a2/Nova_Light_NH_Icon.png/30px-Nova_Light_NH_Icon.png,Nova Light,Star Fragment:5,2500
+0,0,miscellaneous,https://dodo.ac/np/images/thumb/3/39/Star_Clock_NH_Icon.png/30px-Star_Clock_NH_Icon.png,Star Clock,Star Fragment:3|Iron Nugget:1,2250
+1,0,miscellaneous,https://dodo.ac/np/images/thumb/8/8d/Succulent_Plant_NH_Icon.png/30px-Succulent_Plant_NH_Icon.png,Succulent Plant,Clump of Weeds:10|Empty Can:1,220
+0,0,miscellaneous,https://dodo.ac/np/images/thumb/4/45/Terrarium_NH_Icon.png/30px-Terrarium_NH_Icon.png,Terrarium,Clump of Weeds:12,1740
+1,0,miscellaneous,https://dodo.ac/np/images/thumb/d/d4/Cherry_Speakers_NH_Icon.png/30px-Cherry_Speakers_NH_Icon.png,Cherry Speakers,Cherry:10|Iron Nugget:2,3500
+0,0,miscellaneous,https://dodo.ac/np/images/thumb/f/f5/Coconut_Juice_NH_Icon.png/30px-Coconut_Juice_NH_Icon.png,Coconut Juice,Coconut:1,500
+0,0,miscellaneous,https://dodo.ac/np/images/thumb/9/92/Fruit_Basket_NH_Icon.png/30px-Fruit_Basket_NH_Icon.png,Fruit Basket,Apple:2|Pear:1|Cherry:3|Orange:3|Peach:1,1000
+1,0,miscellaneous,https://dodo.ac/np/images/thumb/1/12/Peach_Surprise_Box_NH_Icon.png/30px-Peach_Surprise_Box_NH_Icon.png,Peach Surprise Box,Peach:10|Softwood:4,2480
+1,0,miscellaneous,https://dodo.ac/np/images/thumb/0/00/Bamboo_Candleholder_NH_Icon.png/30px-Bamboo_Candleholder_NH_Icon.png,Bamboo Candleholder,Bamboo Piece:3|Clay:2,880
+0,0,miscellaneous,https://dodo.ac/np/images/thumb/4/4f/Bamboo_Drum_NH_Icon.png/30px-Bamboo_Drum_NH_Icon.png,Bamboo Drum,Bamboo Piece:3|Softwood:2,720
+0,0,miscellaneous,https://dodo.ac/np/images/thumb/c/c7/Bamboo_Lunch_Box_NH_Icon.png/30px-Bamboo_Lunch_Box_NH_Icon.png,Bamboo Lunch Box,Bamboo Piece:4,640
+1,0,miscellaneous,https://dodo.ac/np/images/thumb/5/5a/Bamboo_Sphere_NH_Icon.png/30px-Bamboo_Sphere_NH_Icon.png,Bamboo Sphere,Bamboo Piece:3,480
+0,0,miscellaneous,https://dodo.ac/np/images/thumb/f/fc/Bamboo-Shoot_Lamp_NH_Icon.png/30px-Bamboo-Shoot_Lamp_NH_Icon.png,Bamboo-Shoot Lamp,Young Spring Bamboo:4|Bamboo:5|Clay:4,4900
+0,0,miscellaneous,https://dodo.ac/np/images/thumb/7/73/Steamer-Basket_Set_NH_Icon.png/30px-Steamer-Basket_Set_NH_Icon.png,Steamer-Basket Set,Young Spring Bamboo:6,2400
+0,0,miscellaneous,https://dodo.ac/np/images/thumb/1/1d/Shell_Speaker_NH_Icon.png/30px-Shell_Speaker_NH_Icon.png,Shell Speaker,Conch:3|Iron Nugget:2,220
+0,0,miscellaneous,https://dodo.ac/np/images/thumb/4/4a/Shell_Lamp_NH_Icon.png/30px-Shell_Lamp_NH_Icon.png,Shell Lamp,Giant Clam:2|Clay:3,4200
+0,0,miscellaneous,https://dodo.ac/np/images/thumb/1/13/Hyacinth_Lamp_NH_Icon.png/30px-Hyacinth_Lamp_NH_Icon.png,Hyacinth Lamp,Purple Hyacinth:5|Clay:3,3000
+0,0,miscellaneous,https://dodo.ac/np/images/thumb/d/d0/Windflower_Fan_NH_Icon.png/30px-Windflower_Fan_NH_Icon.png,Windflower Fan,Red Windflower:3|Iron Nugget:2,1740
+0,0,miscellaneous,https://dodo.ac/np/images/thumb/3/33/Pine_Bonsai_Tree_NH_Icon.png/30px-Pine_Bonsai_Tree_NH_Icon.png,Pine Bonsai Tree,Pinecone:8|Clay:5,4200
+0,0,miscellaneous,https://dodo.ac/np/images/thumb/a/a1/Traditional_Balancing_Toy_NH_Icon.png/30px-Traditional_Balancing_Toy_NH_Icon.png,Traditional Balancing Toy,Acorn:4|Hardwood:2,1840
+0,0,miscellaneous,https://dodo.ac/np/images/thumb/7/74/Tree%27s_Bounty_Lamp_NH_Icon.png/30px-Tree%27s_Bounty_Lamp_NH_Icon.png,Tree’s Bounty Lamp,Acorn:6|Clay:4,3200
+0,0,miscellaneous,https://dodo.ac/np/images/thumb/1/11/Frozen-Treat_Set_NH_Icon.png/30px-Frozen-Treat_Set_NH_Icon.png,Frozen-Treat Set,Large Snowflake:1|Snowflake:1,5400
+0,0,miscellaneous,https://dodo.ac/np/images/thumb/6/62/Festive_Top_Set_NH_Icon.png/30px-Festive_Top_Set_NH_Icon.png,Festive Top Set,Gold Ornament:2|Hardwood:1,320
+0,0,miscellaneous,https://dodo.ac/np/images/thumb/7/7d/Holiday_Candle_NH_Icon.png/30px-Holiday_Candle_NH_Icon.png,Holiday Candle,Red Ornament:5|Clump of Weeds:5,600
+0,0,miscellaneous,https://dodo.ac/np/images/thumb/1/15/Tabletop_Festive_Tree_NH_Icon.png/30px-Tabletop_Festive_Tree_NH_Icon.png,Tabletop Festive Tree,Gold Ornament:5|Tree Branch:3|Clay:2,930
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/c/cf/Bone_Doorplate_NH_Icon.png/30px-Bone_Doorplate_NH_Icon.png,Bone Doorplate,Softwood:3,360
+1,0,wall-mounted,https://dodo.ac/np/images/thumb/3/39/Boomerang_NH_Icon.png/30px-Boomerang_NH_Icon.png,Boomerang,Hardwood:3,360
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/e/e5/Paw-Print_Doorplate_NH_Icon.png/30px-Paw-Print_Doorplate_NH_Icon.png,Paw-Print Doorplate,Wood:3,360
+1,0,wall-mounted,https://dodo.ac/np/images/thumb/7/76/Deer_Decoration_NH_Icon.png/30px-Deer_Decoration_NH_Icon.png,Deer Decoration,Softwood:8,960
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/b/b2/Log_Wall-Mounted_Clock_NH_Icon.png/30px-Log_Wall-Mounted_Clock_NH_Icon.png,Log Wall-Mounted Clock,Hardwood:2|Iron Nugget:1,990
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/8/8a/Timber_Doorplate_NH_Icon.png/30px-Timber_Doorplate_NH_Icon.png,Timber Doorplate,Wood:2|Pink Rose:1,400
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/8/84/Tree_Branch_Wreath_NH_Icon.png/30px-Tree_Branch_Wreath_NH_Icon.png,Tree Branch Wreath,Tree Branch:10,100
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/2/24/Wooden-Block_Wall_Clock_NH_Icon.png/30px-Wooden-Block_Wall_Clock_NH_Icon.png,Wooden-Block Wall Clock,N/A:0|Softwood:2|Iron Nugget:1,1350
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/4/41/Wooden-Plank_Sign_NH_Icon.png/30px-Wooden-Plank_Sign_NH_Icon.png,Wooden-Plank Sign,Hardwood:5,600
+1,0,wall-mounted,https://dodo.ac/np/images/thumb/3/34/Crest_Doorplate_NH_Icon.png/30px-Crest_Doorplate_NH_Icon.png,Crest Doorplate,Iron Nugget:4,3000
+1,0,wall-mounted,https://dodo.ac/np/images/thumb/5/55/Iron_Doorplate_NH_Icon.png/30px-Iron_Doorplate_NH_Icon.png,Iron Doorplate,Iron Nugget:2,1500
+1,0,wall-mounted,https://dodo.ac/np/images/thumb/2/21/Iron_Wall_Lamp_NH_Icon.png/30px-Iron_Wall_Lamp_NH_Icon.png,Iron Wall Lamp,Iron Nugget:4|Clay:2,3400
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/2/2a/Iron_Wall_Rack_NH_Icon.png/30px-Iron_Wall_Rack_NH_Icon.png,Iron Wall Rack,Iron Nugget:3|Clay:1,2450
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/d/d4/Ironwood_Clock_NH_Icon.png/30px-Ironwood_Clock_NH_Icon.png,Ironwood Clock,Wood:2|Iron Nugget:2,1740
+1,0,wall-mounted,https://dodo.ac/np/images/thumb/1/10/Key_Holder_NH_Icon.png/30px-Key_Holder_NH_Icon.png,Key Holder,Wood:3|Iron Nugget:1,1110
+1,0,wall-mounted,https://dodo.ac/np/images/thumb/c/cb/Hanging_Terrarium_NH_Icon.png/30px-Hanging_Terrarium_NH_Icon.png,Hanging Terrarium,Clump of Weeds:12|Iron Nugget:4,3240
+1,0,wall-mounted,https://dodo.ac/np/images/thumb/7/7f/Potted_Ivy_NH_Icon.png/30px-Potted_Ivy_NH_Icon.png,Potted Ivy,Clump of Weeds:5|Clay:5,1100
+1,0,wall-mounted,https://dodo.ac/np/images/thumb/4/42/Cherry_Lamp_NH_Icon.png/30px-Cherry_Lamp_NH_Icon.png,Cherry Lamp,Cherry:8|Clay:2,2400
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/e/ee/Coconut_Wall_Planter_NH_Icon.png/30px-Coconut_Wall_Planter_NH_Icon.png,Coconut Wall Planter,Coconut:1|Clump of Weeds:5,600
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/6/6c/Orange_Wall-Mounted_Clock_NH_Icon.png/30px-Orange_Wall-Mounted_Clock_NH_Icon.png,Orange Wall-Mounted Clock,Orange:10|Wood:2,2240
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/2/29/Fruit_Wreath_NH_Icon.png/30px-Fruit_Wreath_NH_Icon.png,Fruit Wreath,Apple:2|Pear:1|Cherry:3|Orange:3|Peach:1,2000
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/d/d2/Golden_Gears_NH_Icon.png/30px-Golden_Gears_NH_Icon.png,Golden Gears,Gold Nugget:1|Iron Nugget:3,11125
+1,0,wall-mounted,https://dodo.ac/np/images/thumb/a/ad/Fossil_Doorplate_NH_Icon.png/30px-Fossil_Doorplate_NH_Icon.png,Fossil Doorplate,Fossil:1|Stone:2,500
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/0/0d/Leo_Sculpture_NH_Icon.png/30px-Leo_Sculpture_NH_Icon.png,Leo Sculpture,Star Fragment:3|Leo Fragment:2|Gold Nugget:2|Stone:3,21975
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/4/40/Sagittarius_Arrow_NH_Icon.png/30px-Sagittarius_Arrow_NH_Icon.png,Sagittarius Arrow,Star Fragment:3|Sagittarius Fragment:2|Gold Nugget:2,21750
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/1/16/Starry_Garland_NH_Icon.png/30px-Starry_Garland_NH_Icon.png,Starry Garland,Star Fragment:10,5000
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/6/6f/Cosmos_Wreath_NH_Icon.png/30px-Cosmos_Wreath_NH_Icon.png,Cosmos Wreath,Yellow Cosmos:3|White Cosmos:3|Red Cosmos:3,720
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/c/cf/Chic_Cosmos_Wreath_NH_Icon.png/30px-Chic_Cosmos_Wreath_NH_Icon.png,Chic Cosmos Wreath,Black Cosmos:10,4800
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/5/5f/Pretty_Cosmos_Wreath_NH_Icon.png/30px-Pretty_Cosmos_Wreath_NH_Icon.png,Pretty Cosmos Wreath,Orange Cosmos:3|Pink Cosmos:3|Red Cosmos:3,1200
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/b/bc/Hyacinth_Wreath_NH_Icon.png/30px-Hyacinth_Wreath_NH_Icon.png,Hyacinth Wreath,White Hyacinth:3|Red Hyacinth:3|Yellow Hyacinth:3,720
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/e/e5/Purple_Hyacinth_Wreath_NH_Icon.png/30px-Purple_Hyacinth_Wreath_NH_Icon.png,Purple Hyacinth Wreath,Purple Hyacinth:10,4800
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/a/a8/Cool_Hyacinth_Wreath_NH_Icon.png/30px-Cool_Hyacinth_Wreath_NH_Icon.png,Cool Hyacinth Wreath,Orange Hyacinth:3|Blue Hyacinth:3|Pink Hyacinth:3,1440
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/0/01/Lily_Wreath_NH_Icon.png/30px-Lily_Wreath_NH_Icon.png,Lily Wreath,White Lily:3|Red Lilly:3|Yellow Lily:3,720
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/3/30/Dark_Lily_Wreath_NH_Icon.png/30px-Dark_Lily_Wreath_NH_Icon.png,Dark Lily Wreath,Black Lily:10,1600
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/9/9b/Fancy_Lily_Wreath_NH_Icon.png/30px-Fancy_Lily_Wreath_NH_Icon.png,Fancy Lily Wreath,Orange Lily:3|Pink Lily:3|Yellow Lily:3,1200
+1,0,wall-mounted,https://dodo.ac/np/images/thumb/4/45/Mum_Wreath_NH_Icon.png/30px-Mum_Wreath_NH_Icon.png,Mum Wreath,White Mum:3|Yellow Mum:3|Red Mum:3,720
+1,0,wall-mounted,https://dodo.ac/np/images/thumb/d/d5/Fancy_Mum_Wreath_NH_Icon.png/30px-Fancy_Mum_Wreath_NH_Icon.png,Fancy Mum Wreath,Pink Mum:3|Purple Mum:3|Red Mum:3,1200
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/d/df/Natural_Mum_Wreath_NH_Icon.png/30px-Natural_Mum_Wreath_NH_Icon.png,Natural Mum Wreath,Green Mum:10,4800
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/3/38/Pansy_Wreath_NH_Icon.png/30px-Pansy_Wreath_NH_Icon.png,Pansy Wreath,Yellow Pansy:3|White Pansy:3|Red Pansy:3,720
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/d/de/Cool_Pansy_Wreath_NH_Icon.png/30px-Cool_Pansy_Wreath_NH_Icon.png,Cool Pansy Wreath,Purple Pansy:10,4800
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/7/70/Snazzy_Pansy_Wreath_NH_Icon.png/30px-Snazzy_Pansy_Wreath_NH_Icon.png,Snazzy Pansy Wreath,Orange Pansy:3|Blue Pansy:3|Yellow Pansy:3,1200
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/f/f4/Rose_Wreath_NH_Icon.png/30px-Rose_Wreath_NH_Icon.png,Rose Wreath,Red Rose:3|White Rose:3|Yellow Rose:3,720
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/7/72/Dark_Rose_Wreath_NH_Icon.png/30px-Dark_Rose_Wreath_NH_Icon.png,Dark Rose Wreath,Black Rose:3|Purple Rose:6,4320
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/5/5d/Blue_Rose_Wreath_NH_Icon.png/30px-Blue_Rose_Wreath_NH_Icon.png,Blue Rose Wreath,Blue Rose:10,20000
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/7/76/Gold_Rose_Wreath_NH_Icon.png/30px-Gold_Rose_Wreath_NH_Icon.png,Gold Rose Wreath,Gold Rose:10,20000
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/0/0b/Fancy_Rose_Wreath_NH_Icon.png/30px-Fancy_Rose_Wreath_NH_Icon.png,Fancy Rose Wreath,Orange Rose:3|Pink Rose:3|Yellow Rose:3,1200
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/8/8f/Tulip_Wreath_NH_Icon.png/30px-Tulip_Wreath_NH_Icon.png,Tulip Wreath,Red Tulip:3|Yellow Tulip:3|White Tulip:3,720
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/6/61/Dark_Tulip_Wreath_NH_Icon.png/30px-Dark_Tulip_Wreath_NH_Icon.png,Dark Tulip Wreath,Red Tulip:10,1600
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/f/f6/Pretty_Tulip_Wreath_NH_Icon.png/30px-Pretty_Tulip_Wreath_NH_Icon.png,Pretty Tulip Wreath,Red Tulip:3|Red Tulip:3|Red Tulip:3,2400
+1,0,wall-mounted,https://dodo.ac/np/images/thumb/8/81/Windflower_Wreath_NH_Icon.png/30px-Windflower_Wreath_NH_Icon.png,Windflower Wreath,Red Windflower:3|White Windflower:3|Orange Windflower:3,720
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/a/a0/Chic_Windflower_Wreath_NH_Icon.png/30px-Chic_Windflower_Wreath_NH_Icon.png,Chic Windflower Wreath,Purple Windflower:10,4800
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/8/8a/Cool_Windflower_Wreath_NH_Icon.png/30px-Cool_Windflower_Wreath_NH_Icon.png,Cool Windflower Wreath,Blue Windflower:3|Pink Windflower:3|White Windflower:3,1200
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/9/9b/Floral_Swag_NH_Icon.png/30px-Floral_Swag_NH_Icon.png,Floral Swag,Clump of Weeds:10,200
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/7/7b/Bamboo_Wall_Decoration_NH_Icon.png/30px-Bamboo_Wall_Decoration_NH_Icon.png,Bamboo Wall Decoration,Bamboo Piece:1,160
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/b/b7/Shell_Wreath_NH_Icon.png/30px-Shell_Wreath_NH_Icon.png,Shell Wreath,Summer Shell:1|Sea Snail:1|Sand Dollar:1|Coral:1|Giant Clam:1|Cowrie:1,4720
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/2/2f/Mushroom_Wreath_NH_Icon.png/30px-Mushroom_Wreath_NH_Icon.png,Mushroom Wreath,Tree Branch:10|Round Mushroom:1|Skinny Mushroom:1|Flat Mushroom:1,1500
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/c/c7/Tree%27s_Bounty_Mobile_NH_Icon.png/30px-Tree%27s_Bounty_Mobile_NH_Icon.png,Tree’s Bounty Mobile,Pinecone:2|Acorn:3|Tree Branch:3,2030
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/5/52/Ornament_Mobile_NH_Icon.png/30px-Ornament_Mobile_NH_Icon.png,Ornament Mobile,Red Ornament:1|Blue Ornament:1|Gold Ornament:1|Tree Branch:4,340
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/3/31/Ornament_Wreath_NH_Icon.png/30px-Ornament_Wreath_NH_Icon.png,Ornament Wreath,Blue Ornament:6|Gold Ornament:2,800
+0,0,wall-mounted,https://dodo.ac/np/images/thumb/8/84/Snowflake_Wreath_NH_Icon.png/30px-Snowflake_Wreath_NH_Icon.png,Snowflake Wreath,Snowflake:4,1600
+1,0,wall-floor,undefined,Brown Herringbone Wall,Softwood:15,1800
+0,0,wall-floor,undefined,Cabin Wall,Hardwood:15,1800
+0,0,wall-floor,undefined,Chocolate Herringbone Wall,Softwood:15,1800
+1,0,wall-floor,undefined,Dark Wooden-Mosaic Wall,Wood:15,1800
+0,0,wall-floor,undefined,Modern Wood Wall,Wood:5|Softwood:5|Hardwood:5,1800
+0,0,wall-floor,undefined,Stacked-Wood Wall,Hardwood:15,1800
+1,0,wall-floor,undefined,Wild-Wood Wall,Wood:15,1800
+0,0,wall-floor,undefined,Wooden-Knot Wall,Hardwood:15,1800
+1,0,wall-floor,undefined,Wooden-Mosaic Wall,Wood:15,1800
+0,0,wall-floor,undefined,Woodland Wall,Clump of Weeds:15|Softwood:9,1380
+1,0,wall-floor,undefined,Garbage-Heap Wall,Empty Can:2|Boot:2|Old Tire:2,120
+1,0,wall-floor,undefined,Garbage-Heap Flooring,Empty Can:2|Boot:2|Old Tire:2,120
+0,0,wall-floor,undefined,Classic-Library Wall,Book:10,1050
+0,0,wall-floor,undefined,Manga-Library Wall,Magazine:10,1050
+0,0,wall-floor,undefined,Basement Flooring,Stone:10,1500
+0,0,wall-floor,undefined,Rustic-Stone Wall,Stone:5|Clay:5,1750
+0,0,wall-floor,undefined,Stone Wall,Stone:10,1500
+0,0,wall-floor,undefined,Steel Flooring,Iron Nugget:7,5250
+0,0,wall-floor,undefined,Steel-Frame Wall,Iron Nugget:8,6000
+0,0,wall-floor,undefined,Gold-Screen Wall,Gold Nugget:2|Screen Wall:1,20750
+1,0,wall-floor,undefined,Golden Wall,Gold Nugget:4,40000
+0,0,wall-floor,undefined,Golden Flooring,Gold Nugget:4,40000
+1,0,wall-floor,undefined,Backyard Lawn,Clump of Weeds:30,600
+0,0,wall-floor,undefined,Jungle Wall,Clump of Weeds:15|Wood:3|Hardwood:3|Softwood:3,1380
+1,0,wall-floor,undefined,Jungle Flooring,Clump of Weeds:10|Clay:10,2200
+1,0,wall-floor,https://dodo.ac/np/images/thumb/6/6f/Apple_Rug_NH_Icon.png/30px-Apple_Rug_NH_Icon.png,Apple Rug,Apple:6,1200
+0,0,wall-floor,undefined,Apple Wall,Apple:20,4000
+1,0,wall-floor,https://dodo.ac/np/images/thumb/d/dd/Cherry_Rug_NH_Icon.png/30px-Cherry_Rug_NH_Icon.png,Cherry Rug,Cherry:6,1200
+0,0,wall-floor,undefined,Cherry Wall,Cherry:20,4000
+1,0,wall-floor,https://dodo.ac/np/images/thumb/1/1d/Orange_Rug_NH_Icon.png/30px-Orange_Rug_NH_Icon.png,Orange Rug,Orange:6,1200
+1,0,wall-floor,undefined,Orange Wall,Orange:20,4000
+0,0,wall-floor,https://dodo.ac/np/images/thumb/8/80/Peach_Rug_NH_Icon.png/30px-Peach_Rug_NH_Icon.png,Peach Rug,Peach:6,1200
+0,0,wall-floor,undefined,Peach Wall,Peach:20,4000
+0,0,wall-floor,https://dodo.ac/np/images/thumb/9/95/Pear_Rug_NH_Icon.png/30px-Pear_Rug_NH_Icon.png,Pear Rug,Pear:6,1200
+0,0,wall-floor,undefined,Pear Wall,Pear:20,4000
+1,0,wall-floor,undefined,Honeycomb Wall,Wasp Nest:6,3600
+0,0,wall-floor,undefined,Honeycomb Flooring,Wasp Nest:5,3000
+0,0,wall-floor,undefined,Money Flooring,Bells:50000,25000
+0,0,wall-floor,undefined,Lunar Surface,Star Fragment:5|Large Star Fragment:1,7500
+0,0,wall-floor,undefined,Galaxy Flooring,Star Fragment:5|Large Star Fragment:1,7500
+0,0,wall-floor,undefined,Sci-Fi Wall,Star Fragment:5|Large Star Fragment:1,7500
+0,0,wall-floor,undefined,Sci-Fi Flooring,Star Fragment:5|Large Star Fragment:1,7500
+0,0,wall-floor,undefined,Starry Wall,Star Fragment:5|Large Star Fragment:1,7500
+0,0,wall-floor,undefined,Starry-Sky Wall,Star Fragment:5|Large Star Fragment:1,7500
+0,0,wall-floor,undefined,Bamboo Wall,Bamboo Piece:15,2400
+1,0,wall-floor,undefined,Bamboo-Grove Wall,Young Spring Bamboo:7|Bamboo:3,4300
+1,0,wall-floor,undefined,Bamboo Flooring,Bamboo Piece:15,2400
+0,0,wall-floor,undefined,Dark Bamboo Rug,Bamboo Piece:6,960
+1,0,wall-floor,undefined,Light Bamboo Rug,Young Spring Bamboo:6,2400
+0,0,wall-floor,undefined,Sandy-Beach Flooring,Sea Snail:1|Venus Comb:1|Sand Dollar:1|Coral:1|Giant Clam:1,4120
+1,0,wall-floor,undefined,Shell Rug,Giant Clam:3,5400
+0,0,wall-floor,undefined,Starry-Sands Flooring,Summer Shell:3,7720
+0,0,wall-floor,undefined,Tropical Vista,Summer Shell:5,6000
+0,0,wall-floor,undefined,Underwater Wall,Summer Shell:3|Coral:5,8600
+0,0,wall-floor,undefined,Underwater Flooring,Summer Shell:3|Coral:3,6600
+0,0,wall-floor,undefined,Water Flooring,Summer Shell:6,7200
+0,0,wall-floor,undefined,Forest Wall,Elegant Mushroom:2|Round Mushroom:2|Skinny Mushroom:2|Flat Mushroom:2|Wood:10,44000
+0,0,wall-floor,undefined,Forest Flooring,Rare Mushroom:1|Round Mushroom:2|Skinny Mushroom:2|Flat Mushroom:2|Clump of Weeds:10,35000
+0,0,wall-floor,undefined,Mush Wall,Elegant Mushroom:1|Round Mushroom:1|Skinny Mushroom:1|Flat Mushroom:1,21400
+0,0,wall-floor,undefined,Autumn Wall,Maple Leaf:10|Wood:5|Clump of Weeds:5,4700
+0,0,wall-floor,undefined,Colored-Leaves Flooring,Maple Leaf:10|Clump of Weeds:15,4300
+0,0,wall-floor,undefined,Ice Wall,Large Snowflake:1|Snowflake:8,8200
+0,0,wall-floor,undefined,Ice Flooring,Large Snowflake:1|Snowflake:8,8200
+0,0,wall-floor,undefined,Iceberg Wall,Large Snowflake:1|Snowflake:8,4000
+0,0,wall-floor,undefined,Iceberg Flooring,Snowflake:10,4000
+0,0,wall-floor,undefined,Ski-Slope Wall,Snowflake:8,3200
+0,0,wall-floor,undefined,Ski-Slope Flooring,Snowflake:8,3200
+0,0,wall-floor,undefined,Snowflake Wall,Snowflake:12,4800
+0,0,wall-floor,undefined,Jingle Wall,Red Ornament:5|Blue Ornament:5|Gold Ornament:5|Clay:5,2500
+0,0,equipment,https://dodo.ac/np/images/thumb/4/48/Log_Pack_NH_Icon.png/30px-Log_Pack_NH_Icon.png,Log Pack,Wood:3|Hardwood:5,960
+0,0,equipment,https://dodo.ac/np/images/thumb/3/3c/Gold_Armor_NH_Icon.png/30px-Gold_Armor_NH_Icon.png,Gold Armor,Gold Nugget:8,80000
+0,0,equipment,https://dodo.ac/np/images/thumb/3/36/Gold_Helmet_NH_Icon.png/30px-Gold_Helmet_NH_Icon.png,Gold Helmet,Gold Nugget:5,50000
+0,0,equipment,https://dodo.ac/np/images/thumb/5/52/Gold-Armor_Shoes_NH_Icon.png/30px-Gold-Armor_Shoes_NH_Icon.png,Gold Armor Shoes,Gold Nugget:4,40000
+0,0,equipment,https://dodo.ac/np/images/thumb/7/74/Knight%27s_Helmet_NH_Icon.png/30px-Knight%27s_Helmet_NH_Icon.png,Knight’s Helmet,Iron Nugget:5,3750
+0,0,equipment,https://dodo.ac/np/images/thumb/9/98/Iron_Armor_NH_Icon.png/30px-Iron_Armor_NH_Icon.png,Iron Armor,Iron Nugget:8,6000
+0,0,equipment,https://dodo.ac/np/images/thumb/d/de/Armor_Shoes_NH_Icon.png/30px-Armor_Shoes_NH_Icon.png,Armor Shoes,Iron Nugget:4,3000
+0,0,equipment,https://dodo.ac/np/images/thumb/3/36/Star_Head_NH_Icon.png/30px-Star_Head_NH_Icon.png,Star Head,Star Fragment:5,2500
+0,0,equipment,https://dodo.ac/np/images/thumb/d/d7/Star_Pochette_NH_Icon.png/30px-Star_Pochette_NH_Icon.png,Star Pochette,Star Fragment:6,3000
+1,0,equipment,https://dodo.ac/np/images/thumb/f/ff/Recycled_Boots_NH_Icon.png/30px-Recycled_Boots_NH_Icon.png,Recycled Boots,Boot:2,40
+0,0,equipment,https://dodo.ac/np/images/thumb/f/f2/Leaf_%28Item%29_NH_Icon.png/30px-Leaf_%28Item%29_NH_Icon.png,Leaf,Clump of Weeds:5,100
+1,0,equipment,https://dodo.ac/np/images/thumb/c/ca/Leaf_Mask_NH_Icon.png/30px-Leaf_Mask_NH_Icon.png,Leaf Mask,Clump of Weeds:10,200
+1,0,equipment,https://dodo.ac/np/images/thumb/e/e9/Leaf_Umbrella_NH_Icon.png/30px-Leaf_Umbrella_NH_Icon.png,Leaf Umbrella,Clump of Weeds:15,300
+1,0,equipment,https://dodo.ac/np/images/thumb/f/fa/Traditional_Straw_Coat_NH_Icon.png/30px-Traditional_Straw_Coat_NH_Icon.png,Traditional Straw Coat,Clump of Weeds:8,160
+0,0,equipment,https://dodo.ac/np/images/thumb/c/c7/Straw_Umbrella_Hat_NH_Icon.png/30px-Straw_Umbrella_Hat_NH_Icon.png,Straw Umbrella Hat,Clump of Weeds:10,200
+0,0,equipment,https://dodo.ac/np/images/thumb/6/69/Grass_Skirt_NH_Icon.png/30px-Grass_Skirt_NH_Icon.png,Grass Skirt,Clump of Weeds:7,140
+1,0,equipment,https://dodo.ac/np/images/thumb/0/01/Green_Grass_Skirt_NH_Icon.png/30px-Green_Grass_Skirt_NH_Icon.png,Green Grass Skirt,Clump of Weeds:7,140
+0,0,equipment,https://dodo.ac/np/images/thumb/1/12/Knitted-Grass_Backpack_NH_Icon.png/30px-Knitted-Grass_Backpack_NH_Icon.png,Knitted-Grass Backpack,Clump of Weeds:20,400
+0,0,equipment,https://dodo.ac/np/images/thumb/6/6c/Apple_Dress_NH_Icon.png/30px-Apple_Dress_NH_Icon.png,Apple Dress,Apple:8,1600
+0,0,equipment,https://dodo.ac/np/images/thumb/5/5c/Apple_Hat_NH_Icon.png/30px-Apple_Hat_NH_Icon.png,Apple Hat,Apple:5,1000
+0,0,equipment,https://dodo.ac/np/images/thumb/6/60/Apple_Umbrella_NH_Icon.png/30px-Apple_Umbrella_NH_Icon.png,Apple Umbrella,Apple:7,1400
+1,0,equipment,https://dodo.ac/np/images/thumb/e/e0/Cherry_Dress_NH_Icon.png/30px-Cherry_Dress_NH_Icon.png,Cherry Dress,Cherry:8,1600
+1,0,equipment,https://dodo.ac/np/images/thumb/e/ed/Cherry_Hat_NH_Icon.png/30px-Cherry_Hat_NH_Icon.png,Cherry Hat,Cherry:5,1000
+1,0,equipment,https://dodo.ac/np/images/thumb/f/f0/Cherry_Umbrella_NH_Icon.png/30px-Cherry_Umbrella_NH_Icon.png,Cherry Umbrella,Cherry:7,1400
+0,0,equipment,https://dodo.ac/np/images/thumb/6/63/Orange_Dress_NH_Icon.png/30px-Orange_Dress_NH_Icon.png,Orange Dress,Orange:8,1600
+0,0,equipment,https://dodo.ac/np/images/thumb/6/61/Orange_Hat_NH_Icon.png/30px-Orange_Hat_NH_Icon.png,Orange Hat,Orange:5,1000
+0,0,equipment,https://dodo.ac/np/images/thumb/8/83/Peach_Dress_NH_Icon.png/30px-Peach_Dress_NH_Icon.png,Peach Dress,Peach:8,1600
+0,0,equipment,https://dodo.ac/np/images/thumb/a/a2/Peach_Hat_NH_Icon.png/30px-Peach_Hat_NH_Icon.png,Peach Hat,Peach:5,1000
+0,0,equipment,https://dodo.ac/np/images/thumb/8/8c/Peach_Umbrella_NH_Icon.png/30px-Peach_Umbrella_NH_Icon.png,Peach Umbrella,Peach:7,1400
+0,0,equipment,https://dodo.ac/np/images/thumb/b/b1/Pear_Dress_NH_Icon.png/30px-Pear_Dress_NH_Icon.png,Pear Dress,Pear:8,1600
+1,0,equipment,https://dodo.ac/np/images/thumb/7/7e/Pear_Hat_NH_Icon.png/30px-Pear_Hat_NH_Icon.png,Pear Hat,Pear:5,1000
+0,0,equipment,https://dodo.ac/np/images/thumb/c/c4/Pear_Umbrella_NH_Icon.png/30px-Pear_Umbrella_NH_Icon.png,Pear Umbrella,Pear:7,1400
+1,0,equipment,https://dodo.ac/np/images/thumb/5/5d/Basket_Pack_NH_Icon.png/30px-Basket_Pack_NH_Icon.png,Basket Pack,Young Spring Bamboo:6,2400
+0,0,equipment,https://dodo.ac/np/images/thumb/0/03/Bamboo_Hat_NH_Icon.png/30px-Bamboo_Hat_NH_Icon.png,Bamboo Hat,Clump of Weeds:10,200
+0,0,equipment,https://dodo.ac/np/images/thumb/e/e5/Shellfish_Pochette_NH_Icon.png/30px-Shellfish_Pochette_NH_Icon.png,Shellfish Pochette,Giant Clam:2|Summer Shell:6,10800
+1,0,equipment,https://dodo.ac/np/images/thumb/c/c0/Cosmos_Crown_NH_Icon.png/30px-Cosmos_Crown_NH_Icon.png,Cosmos Crown,Red Cosmos:2|Yellow Cosmos:2|White Cosmos:3,480
+0,0,equipment,https://dodo.ac/np/images/thumb/c/c8/Dark_Cosmos_Crown_NH_Icon.png/30px-Dark_Cosmos_Crown_NH_Icon.png,Dark Cosmos Crown,Black Cosmos:7,3360
+0,0,equipment,https://dodo.ac/np/images/thumb/f/fa/Lovely_Cosmos_Crown_NH_Icon.png/30px-Lovely_Cosmos_Crown_NH_Icon.png,Lovely Cosmos Crown,Pink Cosmos:3|Orange Cosmos:3,1120
+0,0,equipment,https://dodo.ac/np/images/thumb/4/4d/Pansy_Crown_NH_Icon.png/30px-Pansy_Crown_NH_Icon.png,Pansy Crown,Red Pansy:2|Yellow Pansy:2|White Pansy:2,480
+0,0,equipment,https://dodo.ac/np/images/thumb/e/e9/Cool_Pansy_Crown_NH_Icon.png/30px-Cool_Pansy_Crown_NH_Icon.png,Cool Pansy Crown,Orange Pansy:3|Blue Pansy:3,960
+0,0,equipment,https://dodo.ac/np/images/thumb/f/fc/Purple_Pansy_Crown_NH_Icon.png/30px-Purple_Pansy_Crown_NH_Icon.png,Purple Pansy Crown,Purple Pansy:6,2880
+0,0,equipment,https://dodo.ac/np/images/thumb/7/72/Windflower_Crown_NH_Icon.png/30px-Windflower_Crown_NH_Icon.png,Windflower Crown,Red Windflower:2|Orange Windflower:2|White Windflower:2,480
+0,0,equipment,https://dodo.ac/np/images/thumb/2/26/Cool_Windflower_Crown_NH_Icon.png/30px-Cool_Windflower_Crown_NH_Icon.png,Cool Windflower Crown,Blue Windflower:3|Pink Windflower:3,960
+0,0,equipment,https://dodo.ac/np/images/thumb/9/96/Purple_Windflower_Crown_NH_Icon.png/30px-Purple_Windflower_Crown_NH_Icon.png,Purple Windflower Crown,Purple Windflower:6,2880
+0,0,equipment,https://dodo.ac/np/images/thumb/8/86/Mum_Crown_NH_Icon.png/30px-Mum_Crown_NH_Icon.png,Mum Crown,Red Mum:2|Yellow Mum:2|White Mum:2,480
+0,0,equipment,https://dodo.ac/np/images/thumb/5/53/Chic_Mum_Crown_NH_Icon.png/30px-Chic_Mum_Crown_NH_Icon.png,Chic Mum Crown,Purple Mum:3|Pink Mum:3,960
+0,0,equipment,https://dodo.ac/np/images/thumb/b/bf/Simple_Mum_Crown_NH_Icon.png/30px-Simple_Mum_Crown_NH_Icon.png,Simple Mum Crown,Green Mum:6,2880
+0,0,equipment,https://dodo.ac/np/images/thumb/b/b9/Hyacinth_Crown_NH_Icon.png/30px-Hyacinth_Crown_NH_Icon.png,Hyacinth Crown,Red Hyacinth:4|Yellow Hyacinth:2|White Hyacinth:2,640
+0,0,equipment,https://dodo.ac/np/images/thumb/1/1d/Cool_Hyacinth_Crown_NH_Icon.png/30px-Cool_Hyacinth_Crown_NH_Icon.png,Cool Hyacinth Crown,Blue Hyacinth:4|Pink Hyacinth:2|Orange Hyacinth:2,1280
+0,0,equipment,https://dodo.ac/np/images/thumb/2/20/Purple_Hyacinth_Crown_NH_Icon.png/30px-Purple_Hyacinth_Crown_NH_Icon.png,Purple Hyacinth Crown,Purple Hyacinth:6,2880
+0,0,equipment,https://dodo.ac/np/images/thumb/d/d7/Lily_Crown_NH_Icon.png/30px-Lily_Crown_NH_Icon.png,Lily Crown,Red Lilly:2|Yellow Lily:2|White Lily:2,480
+0,0,equipment,https://dodo.ac/np/images/thumb/b/bd/Dark_Lily_Crown_NH_Icon.png/30px-Dark_Lily_Crown_NH_Icon.png,Dark Lily Crown,Black Lily:6,960
+0,0,equipment,https://dodo.ac/np/images/thumb/a/a6/Cute_Lily_Crown_NH_Icon.png/30px-Cute_Lily_Crown_NH_Icon.png,Cute Lily Crown,Pink Lily:2|Orange Lily:2|White Lily:2,800
+0,0,equipment,https://dodo.ac/np/images/thumb/c/cb/Rose_Crown_NH_Icon.png/30px-Rose_Crown_NH_Icon.png,Rose Crown,Red Rose:2|Yellow Rose:2|White Rose:2,480
+0,0,equipment,https://dodo.ac/np/images/thumb/1/14/Gold_Rose_Crown_NH_Icon.png/30px-Gold_Rose_Crown_NH_Icon.png,Gold Rose Crown,Gold Rose:6,12000
+0,0,equipment,https://dodo.ac/np/images/thumb/c/c6/Chic_Rose_Crown_NH_Icon.png/30px-Chic_Rose_Crown_NH_Icon.png,Chic Rose Crown,Purple Rose:3|Black Rose:3,2880
+0,0,equipment,https://dodo.ac/np/images/thumb/e/e6/Cute_Rose_Crown_NH_Icon.png/30px-Cute_Rose_Crown_NH_Icon.png,Cute Rose Crown,Pink Rose:3|Orange Rose:3,960
+0,0,equipment,https://dodo.ac/np/images/thumb/4/40/Blue_Rose_Crown_NH_Icon.png/30px-Blue_Rose_Crown_NH_Icon.png,Blue Rose Crown,Blue Rose:6,12000
+0,0,equipment,https://dodo.ac/np/images/thumb/c/c4/Tulip_Crown_NH_Icon.png/30px-Tulip_Crown_NH_Icon.png,Tulip Crown,Red Tulip:2|Yellow Tulip:2|White Tulip:1,400
+0,0,equipment,https://dodo.ac/np/images/thumb/4/45/Dark_Tulip_Crown_NH_Icon.png/30px-Dark_Tulip_Crown_NH_Icon.png,Dark Tulip Crown,Red Tulip:5,800
+0,0,equipment,https://dodo.ac/np/images/thumb/e/e2/Chic_Tulip_Crown_NH_Icon.png/30px-Chic_Tulip_Crown_NH_Icon.png,Chic Tulip Crown,Red Tulip:2|Red Tulip:2|Red Tulip:1,1440
+0,0,equipment,https://dodo.ac/np/images/thumb/f/fa/Acorn_Pochette_NH_Icon.png/30px-Acorn_Pochette_NH_Icon.png,Acorn Pochette,Acorn:6,2400
+0,0,equipment,https://dodo.ac/np/images/thumb/2/26/Maple-Leaf_Pochette_NH_Icon.png/30px-Maple-Leaf_Pochette_NH_Icon.png,Maple-Leaf Pochette,Maple Leaf:6,2400
+0,0,equipment,https://dodo.ac/np/images/thumb/5/56/Snowperson_Head_NH_Icon.png/30px-Snowperson_Head_NH_Icon.png,Snowperson Head,Large Snowflake:1|Snowflake:5,7000
+0,0,equipment,https://dodo.ac/np/images/thumb/e/e0/Snowflake_Pochette_NH_Icon.png/30px-Snowflake_Pochette_NH_Icon.png,Snowflake Pochette,Snowflake:6,2400
+1,0,other,https://dodo.ac/np/images/thumb/0/00/Medicine_NH_Inv_Icon.png/30px-Medicine_NH_Inv_Icon.png,Medicine,Wasp Nest:1|Clump of Weeds:3,100
+1,0,other,https://dodo.ac/np/images/thumb/3/3d/Fish_Bait_NH_Inv_Icon.png/30px-Fish_Bait_NH_Inv_Icon.png,Fish Bait,Manila Clam:1,200
+1,0,other,https://dodo.ac/np/images/thumb/d/d3/Ocarina_NH_Inv_Icon.png/30px-Ocarina_NH_Inv_Icon.png,Ocarina,Clay:5,1000
+1,0,other,https://dodo.ac/np/images/thumb/f/f3/Panflute_NH_icon.png/30px-Panflute_NH_icon.png,Pan Flute,Young Spring Bamboo:7,2800
+0,0,other,https://dodo.ac/np/images/thumb/6/67/Pitfall.png/30px-Pitfall.png,Pitfall Seed,Clump of Weeds:4|Tree Branch:6,140
+1,0,other,https://dodo.ac/np/images/thumb/f/ff/Bamboo_Lattice_Fence_NH_Icon.png/30px-Bamboo_Lattice_Fence_NH_Icon.png,Bamboo Lattice Fence,Bamboo Piece:6,600
+1,0,other,https://dodo.ac/np/images/thumb/a/a4/Barbed_Wire_Fence_NH_Icon.png/30px-Barbed_Wire_Fence_NH_Icon.png,Barbed-Wire Fence,Hardwood:4|Iron Nugget:2,1980
+1,0,other,https://dodo.ac/np/images/thumb/1/17/Brick_Fence_NH_Icon.png/30px-Brick_Fence_NH_Icon.png,Brick Fence,Clay:6,1200
+1,0,other,https://dodo.ac/np/images/thumb/a/a5/Corral_Fence_NH_Icon.png/30px-Corral_Fence_NH_Icon.png,Corral Fence,Wood:6,720
+1,0,other,https://dodo.ac/np/images/thumb/a/af/Country_Fence_NH_Icon.png/30px-Country_Fence_NH_Icon.png,Country Fence,Hardwood:6,720
+1,0,other,https://dodo.ac/np/images/thumb/1/16/Hedge_NH_Icon.png/30px-Hedge_NH_Icon.png,Hedge,N/A:0,55
+1,0,other,https://dodo.ac/np/images/thumb/2/27/Imperial_Fence_NH_Icon.png/30px-Imperial_Fence_NH_Icon.png,Imperial Fence,Wood:6|Softwood:4,1200
+1,0,other,https://dodo.ac/np/images/thumb/9/98/Iron_Fence_NH_Icon.png/30px-Iron_Fence_NH_Icon.png,Iron Fence,Iron Nugget:6,4500
+1,0,other,https://dodo.ac/np/images/thumb/a/a2/Iron_and_Stone_Fence_NH_Icon.png/30px-Iron_and_Stone_Fence_NH_Icon.png,Iron-And-Stone Fence,Stone:6|Iron Nugget:3,3150
+1,0,other,https://dodo.ac/np/images/thumb/d/d0/Lattice_Fence_NH_Icon.png/30px-Lattice_Fence_NH_Icon.png,Lattice Fence,Softwood:8,960
+1,0,other,https://dodo.ac/np/images/thumb/b/bd/Rope_Fence_NH_Icon.png/30px-Rope_Fence_NH_Icon.png,Rope Fence,Iron Nugget:4,3000
+1,0,other,https://dodo.ac/np/images/thumb/9/95/Simple_Wooden_Fencing_NH_Icon.png/30px-Simple_Wooden_Fencing_NH_Icon.png,Simple Wooden Fence,Softwood:6,72
+1,0,other,https://dodo.ac/np/images/thumb/9/93/Spiky_Fence_NH_Icon.png/30px-Spiky_Fence_NH_Icon.png,Spiky Fence,Hardwood:8,960
+1,0,other,https://dodo.ac/np/images/thumb/8/8e/Stone_Fence_NH_Icon.png/30px-Stone_Fence_NH_Icon.png,Stone Fence,Stone:4,600
+1,0,other,https://dodo.ac/np/images/thumb/4/4f/Straw_Fence_NH_Icon.png/30px-Straw_Fence_NH_Icon.png,Straw Fence,Clump of Weeds:10|Wood:3,560
+1,0,other,https://dodo.ac/np/images/thumb/5/57/Vertical_Board_Fence_NH_Icon.png/30px-Vertical_Board_Fence_NH_Icon.png,Vertical-Board Fence,Wood:8,960
+0,0,other,https://dodo.ac/np/images/thumb/c/c2/Wedding_Fence_NH_Icon.png/30px-Wedding_Fence_NH_Icon.png,Wedding Fence,Iron Nugget:5|Softwood:3,411
+1,0,other,https://dodo.ac/np/images/thumb/9/9e/Zen_Fence_NH_Icon.png/30px-Zen_Fence_NH_Icon.png,Zen Fence,Iron Nugget:3|Clay:3|Stone:3,3300
+1,0,seasonal,https://dodo.ac/np/images/thumb/d/d8/Bamboo_Doll_NH_Icon.png/30px-Bamboo_Doll_NH_Icon.png,Bamboo Doll,Young Spring Bamboo:6,2400
+1,0,seasonal,https://dodo.ac/np/images/thumb/4/41/Bamboo_Noodle_Slide_NH_Icon.png/30px-Bamboo_Noodle_Slide_NH_Icon.png,Bamboo Noodle Slide,Young Spring Bamboo:7|Wood:3,3160
+1,0,seasonal,https://dodo.ac/np/images/thumb/0/06/Bamboo_Wand_NH_Icon.png/30px-Bamboo_Wand_NH_Icon.png,Bamboo Wand,Young Spring Bamboo:6|Star Fragment:3,
+0,0,seasonal,undefined,Bamboo-Grove Wall,Young Spring Bamboo:7|Bamboo:3,4300
+1,0,seasonal,https://dodo.ac/np/images/thumb/f/fc/Bamboo-Shoot_Lamp_NH_Icon.png/30px-Bamboo-Shoot_Lamp_NH_Icon.png,Bamboo-Shoot Lamp,Young Spring Bamboo:4|Bamboo:5|Clay:4,
+0,0,seasonal,https://dodo.ac/np/images/thumb/5/5d/Basket_Pack_NH_Icon.png/30px-Basket_Pack_NH_Icon.png,Basket Pack,Young Spring Bamboo:6,2400
+1,0,seasonal,undefined,Steamer-Basket Set,Young Spring Bamboo:6,
+0,0,seasonal,undefined,Light Bamboo Rug,Young Spring Bamboo:6,
+1,0,seasonal,undefined,Green-Leaf Pile,Young Spring Bamboo:1|Clump of Weeds:10,600
+0,0,seasonal,undefined,Bamboo Wand,Young Spring Bamboo:6|Star Fragment:3,3900
+0,0,seasonal,undefined,Pan Flute,Young Spring Bamboo:7,
