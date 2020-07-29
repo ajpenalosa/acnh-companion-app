@@ -1,4 +1,4 @@
-<style>
+<style> 
 img, br {
     display: none;
 }
